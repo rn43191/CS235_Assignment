@@ -70,11 +70,11 @@ int h2(int *adj[], int v, vector<int> leftItems){
     return x;
 }
 
-int calcPathCost(vector<pair<int,int>> adj[], int u,int v){
-    for(auto it = adj[u].begin(); it != adj[u].end(); ++it){
-        if((*it).ff == v) return (*it).ss;
-    }
-}
+// int calcPathCost(vector<pair<int,int>> adj[], int u,int v){
+//     for(auto it = adj[u].begin(); it != adj[u].end(); ++it){
+//         if((*it).ff == v) return (*it).ss;
+//     }
+// }
 
 int checkOpen(vector<pair<int,pii>> open,int v){
     for(auto it = open.begin(); it != open.end(); ++it){
