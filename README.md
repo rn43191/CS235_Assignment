@@ -16,6 +16,7 @@ Arranging 8 queens on the board such that no one is under attack by any other qu
 ---
 ***Assignment 2:***
 Problem Solving Travelling Salesman using A* Heuristic Search
+
 *Assumption : Each city is connected to every other city i.e., complete graph.*
 - Initial State: 
 Agent in the start city and has not visited any other city
@@ -25,3 +26,6 @@ distance between the cities represented by the nodes, use this cost to calculate
 distance to the nearest unvisited city from the current city + estimated distance to travel all the unvisited cities (MST heuristic used here) + nearest distance from an unvisited city to the start city. 
 - Goal State:
 Agent has visited all the cities and reached the start city again
+---
+***Assignment 3:***
+Grouping n students having random marks in m subjects into k groups such that each group has minimum diversity.
