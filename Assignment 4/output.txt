@@ -1,0 +1,58 @@
+Choosing first turn .... :
+AI 2 won the toss!
+AI 2 picks: 1 sticks.
+--Remaining Sticks : 52--
+AI 1 picks: 3 sticks.
+--Remaining Sticks : 49--
+AI 2 picks: 1 sticks.
+--Remaining Sticks : 48--
+AI 1 picks: 3 sticks.
+--Remaining Sticks : 45--
+AI 2 picks: 1 sticks.
+--Remaining Sticks : 44--
+AI 1 picks: 3 sticks.
+--Remaining Sticks : 41--
+AI 2 picks: 1 sticks.
+--Remaining Sticks : 40--
+AI 1 picks: 3 sticks.
+--Remaining Sticks : 37--
+AI 2 picks: 1 sticks.
+--Remaining Sticks : 36--
+AI 1 picks: 3 sticks.
+--Remaining Sticks : 33--
+AI 2 picks: 1 sticks.
+--Remaining Sticks : 32--
+AI 1 picks: 3 sticks.
+--Remaining Sticks : 29--
+AI 2 picks: 1 sticks.
+--Remaining Sticks : 28--
+AI 1 picks: 3 sticks.
+--Remaining Sticks : 25--
+AI 2 picks: 1 sticks.
+--Remaining Sticks : 24--
+AI 1 picks: 3 sticks.
+--Remaining Sticks : 21--
+AI 2 picks: 1 sticks.
+--Remaining Sticks : 20--
+AI 1 picks: 3 sticks.
+--Remaining Sticks : 17--
+AI 2 picks: 1 sticks.
+--Remaining Sticks : 16--
+AI 1 picks: 3 sticks.
+--Remaining Sticks : 13--
+AI 2 picks: 1 sticks.
+--Remaining Sticks : 12--
+AI 1 picks: 3 sticks.
+--Remaining Sticks : 9--
+AI 2 picks: 1 sticks.
+--Remaining Sticks : 8--
+AI 1 picks: 3 sticks.
+--Remaining Sticks : 5--
+AI 2 picks: 1 sticks.
+--Remaining Sticks : 4--
+AI 1 picks: 3 sticks.
+--Remaining Sticks : 1--
+AI 2 picks: 1 sticks.
+
+AI 1 Won the game.
+AI 2 Lost the game.

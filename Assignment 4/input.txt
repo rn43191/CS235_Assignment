@@ -1,0 +1,5 @@
+1.)Human v/s Human
+2.Human v/s AI
+3.AI v/s AI
+Enter value : 3
+Number of sticks in game : 53

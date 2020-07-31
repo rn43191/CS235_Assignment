@@ -142,11 +142,11 @@ int main()
     vd minArr(k);
     vd minA(k);
 
-    cout << "Enter the number of groups : ";
-    cin >> n;
-    cout << "Enter the number of subjects : ";
-    cin >> k;
     cout << "Enter the number of students : ";
+    cin >> n;
+    cout << "Enter the number of groups : ";
+    cin >> k;
+    cout << "Enter the number of subjects : ";
     cin >> m;
     rows = n;
     cols = m;
