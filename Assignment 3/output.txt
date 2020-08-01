@@ -1,1000 +1,999 @@
-Student:1 -> Group:14 -> Group Representative:38.2 -> Avg:37.2 -> Marks:2 28 10 94 
-Student:2 -> Group:40 -> Group Representative:66 -> Avg:67 -> Marks:97 53 8 87     
-Student:3 -> Group:40 -> Group Representative:66 -> Avg:65.8 -> Marks:100 91 30 47 
-Student:4 -> Group:4 -> Group Representative:48 -> Avg:48.4 -> Marks:7 64 31 97    
-Student:5 -> Group:35 -> Group Representative:49.2 -> Avg:49.2 -> Marks:76 2 23 54   
-Student:6 -> Group:22 -> Group Representative:44.4 -> Avg:44 -> Marks:48 88 67 0     
-Student:7 -> Group:19 -> Group Representative:46.6 -> Avg:47 -> Marks:47 61 34 63    
-Student:8 -> Group:38 -> Group Representative:60.4 -> Avg:60.4 -> Marks:66 89 37 100 
-Student:9 -> Group:12 -> Group Representative:35 -> Avg:35.8 -> Marks:48 15 4 80     
-Student:10 -> Group:8 -> Group Representative:61.4 -> Avg:61.2 -> Marks:79 43 42 69   
-Student:11 -> Group:28 -> Group Representative:57.2 -> Avg:58.2 -> Marks:100 75 26 69 
-Student:12 -> Group:48 -> Group Representative:41.4 -> Avg:41 -> Marks:67 60 20 43    
-Student:13 -> Group:38 -> Group Representative:60.4 -> Avg:60.4 -> Marks:40 70 75 48  
-Student:14 -> Group:9 -> Group Representative:42.6 -> Avg:42.6 -> Marks:8 41 81 14 
-Student:15 -> Group:4 -> Group Representative:48 -> Avg:48.6 -> Marks:61 28 62 68  
-Student:16 -> Group:30 -> Group Representative:39.4 -> Avg:39.4 -> Marks:32 70 56 32 
-Student:17 -> Group:28 -> Group Representative:57.2 -> Avg:57.8 -> Marks:49 71 3 66  
-Student:18 -> Group:35 -> Group Representative:49.2 -> Avg:49.2 -> Marks:40 49 89 60 
-Student:19 -> Group:9 -> Group Representative:42.6 -> Avg:42.6 -> Marks:48 96 22 25 
-Student:20 -> Group:35 -> Group Representative:49.2 -> Avg:49.4 -> Marks:60 81 68 20
-Student:21 -> Group:24 -> Group Representative:59.8 -> Avg:59 -> Marks:32 47 71 80
-Student:22 -> Group:7 -> Group Representative:76.6 -> Avg:78.2 -> Marks:78 97 85 43
-Student:23 -> Group:24 -> Group Representative:59.8 -> Avg:60 -> Marks:100 47 28 90 
-Student:24 -> Group:22 -> Group Representative:44.4 -> Avg:43.8 -> Marks:22 77 62 12 
-Student:25 -> Group:6 -> Group Representative:64 -> Avg:63.4 -> Marks:84 56 11 66 
-Student:26 -> Group:28 -> Group Representative:57.2 -> Avg:57.6 -> Marks:45 85 14 57
-Student:27 -> Group:8 -> Group Representative:61.4 -> Avg:61 -> Marks:58 97 25 75
-Student:28 -> Group:1 -> Group Representative:55.8 -> Avg:56 -> Marks:83 9 31 71 
-Student:29 -> Group:39 -> Group Representative:27.6 -> Avg:24 -> Marks:1 48 3 22 
-Student:30 -> Group:43 -> Group Representative:33 -> Avg:32.6 -> Marks:57 16 5 57
-Student:31 -> Group:39 -> Group Representative:27.6 -> Avg:30 -> Marks:17 95 10 5 
-Student:32 -> Group:1 -> Group Representative:55.8 -> Avg:56 -> Marks:80 49 31 87
-Student:33 -> Group:14 -> Group Representative:38.2 -> Avg:38 -> Marks:43 26 48 46
-Student:34 -> Group:9 -> Group Representative:42.6 -> Avg:43 -> Marks:13 93 49 29 
-Student:35 -> Group:39 -> Group Representative:27.6 -> Avg:23.8 -> Marks:65 25 18 5 
-Student:36 -> Group:39 -> Group Representative:27.6 -> Avg:14.2 -> Marks:1 10 25 34 
-Student:37 -> Group:14 -> Group Representative:38.2 -> Avg:37.2 -> Marks:46 1 76 58 
-Student:38 -> Group:3 -> Group Representative:41.8 -> Avg:41.8 -> Marks:94 42 46 7
-Student:39 -> Group:7 -> Group Representative:76.6 -> Avg:78 -> Marks:97 85 57 64
-Student:40 -> Group:40 -> Group Representative:66 -> Avg:65.8 -> Marks:53 59 40 83 
-Student:41 -> Group:22 -> Group Representative:44.4 -> Avg:44.6 -> Marks:61 11 47 90 
-Student:42 -> Group:20 -> Group Representative:55.2 -> Avg:55.4 -> Marks:65 30 56 45
-Student:43 -> Group:24 -> Group Representative:59.8 -> Avg:59.8 -> Marks:60 82 74 81 
-Student:44 -> Group:21 -> Group Representative:51 -> Avg:52 -> Marks:73 74 35 77
-Student:45 -> Group:4 -> Group Representative:48 -> Avg:47.6 -> Marks:36 27 19 87
-Student:46 -> Group:21 -> Group Representative:51 -> Avg:52.4 -> Marks:20 51 89 70 
-Student:47 -> Group:21 -> Group Representative:51 -> Avg:51.6 -> Marks:51 9 97 3 
-Student:48 -> Group:40 -> Group Representative:66 -> Avg:65.8 -> Marks:50 58 100 87 
-Student:49 -> Group:21 -> Group Representative:51 -> Avg:51.6 -> Marks:43 95 33 13
-Student:50 -> Group:43 -> Group Representative:33 -> Avg:32.6 -> Marks:2 43 13 9
-Student:51 -> Group:28 -> Group Representative:57.2 -> Avg:57.4 -> Marks:35 38 87 95 
-Student:52 -> Group:43 -> Group Representative:33 -> Avg:31.8 -> Marks:34 38 32 9
-Student:53 -> Group:12 -> Group Representative:35 -> Avg:34.6 -> Marks:9 71 88 5
-Student:54 -> Group:28 -> Group Representative:57.2 -> Avg:57.2 -> Marks:59 65 46 42 
-Student:55 -> Group:22 -> Group Representative:44.4 -> Avg:44 -> Marks:47 48 41 12 
-Student:56 -> Group:1 -> Group Representative:55.8 -> Avg:55.6 -> Marks:49 58 82 32 
-Student:57 -> Group:21 -> Group Representative:51 -> Avg:52.8 -> Marks:58 39 19 87 
-Student:58 -> Group:4 -> Group Representative:48 -> Avg:48.2 -> Marks:56 56 83 7
-Student:59 -> Group:1 -> Group Representative:55.8 -> Avg:56 -> Marks:90 34 65 62
-Student:60 -> Group:31 -> Group Representative:54.8 -> Avg:54 -> Marks:71 63 14 92
-Student:61 -> Group:32 -> Group Representative:69.8 -> Avg:70.8 -> Marks:63 47 86 97 
-Student:62 -> Group:15 -> Group Representative:42.4 -> Avg:42.4 -> Marks:21 92 53 32
-Student:63 -> Group:22 -> Group Representative:44.4 -> Avg:44.8 -> Marks:65 72 28 2
-Student:64 -> Group:2 -> Group Representative:38.6 -> Avg:38.6 -> Marks:34 39 23 62 
-Student:65 -> Group:39 -> Group Representative:27.6 -> Avg:28 -> Marks:4 50 53 30
-Student:66 -> Group:40 -> Group Representative:66 -> Avg:66 -> Marks:48 72 99 17 
-Student:67 -> Group:7 -> Group Representative:76.6 -> Avg:82 -> Marks:90 80 85 88 
-Student:68 -> Group:9 -> Group Representative:42.6 -> Avg:42.6 -> Marks:73 23 42 47
-Student:69 -> Group:11 -> Group Representative:73.2 -> Avg:72.8 -> Marks:93 91 25 60 
-Student:70 -> Group:32 -> Group Representative:69.8 -> Avg:69 -> Marks:25 85 49 93
-Student:71 -> Group:16 -> Group Representative:49.6 -> Avg:49.8 -> Marks:65 28 59 64
-Student:72 -> Group:31 -> Group Representative:54.8 -> Avg:53.8 -> Marks:36 97 53 58
-Student:73 -> Group:42 -> Group Representative:62.8 -> Avg:62.8 -> Marks:26 49 93 57 
-Student:74 -> Group:35 -> Group Representative:49.2 -> Avg:48.8 -> Marks:58 27 16 78 
-Student:75 -> Group:39 -> Group Representative:27.6 -> Avg:24 -> Marks:47 20 16 22
-Student:76 -> Group:28 -> Group Representative:57.2 -> Avg:57.6 -> Marks:87 47 47 36 
-Student:77 -> Group:3 -> Group Representative:41.8 -> Avg:41.8 -> Marks:30 51 53 5
-Student:78 -> Group:16 -> Group Representative:49.6 -> Avg:49.6 -> Marks:52 54 26 37 
-Student:79 -> Group:30 -> Group Representative:39.4 -> Avg:39.6 -> Marks:77 28 7 67
-Student:80 -> Group:4 -> Group Representative:48 -> Avg:47.4 -> Marks:64 21 57 81
-Student:81 -> Group:22 -> Group Representative:44.4 -> Avg:44 -> Marks:73 83 21 16 
-Student:82 -> Group:39 -> Group Representative:27.6 -> Avg:25.8 -> Marks:2 66 4 34 
-Student:83 -> Group:38 -> Group Representative:60.4 -> Avg:60.2 -> Marks:70 38 51 51
-Student:84 -> Group:31 -> Group Representative:54.8 -> Avg:54.2 -> Marks:98 5 86 55
-Student:85 -> Group:35 -> Group Representative:49.2 -> Avg:49 -> Marks:24 21 77 28 
-Student:86 -> Group:41 -> Group Representative:45.2 -> Avg:45 -> Marks:72 9 0 79 
-Student:87 -> Group:21 -> Group Representative:51 -> Avg:52.8 -> Marks:58 0 86 48
-Student:88 -> Group:12 -> Group Representative:35 -> Avg:35.2 -> Marks:69 30 17 0
-Student:89 -> Group:14 -> Group Representative:38.2 -> Avg:36.8 -> Marks:30 12 53 41 
-Student:90 -> Group:22 -> Group Representative:44.4 -> Avg:44.2 -> Marks:42 17 29 37 
-Student:91 -> Group:24 -> Group Representative:59.8 -> Avg:59.8 -> Marks:98 64 38 45
-Student:92 -> Group:21 -> Group Representative:51 -> Avg:51.8 -> Marks:6 90 66 75
-Student:93 -> Group:46 -> Group Representative:55 -> Avg:55 -> Marks:94 40 46 45
-Student:94 -> Group:36 -> Group Representative:50.2 -> Avg:50 -> Marks:26 22 90 34 
-Student:95 -> Group:1 -> Group Representative:55.8 -> Avg:55.6 -> Marks:30 45 66 86 
-Student:96 -> Group:39 -> Group Representative:27.6 -> Avg:28.6 -> Marks:13 5 51 3
-Student:97 -> Group:31 -> Group Representative:54.8 -> Avg:53 -> Marks:61 28 25 60
-Student:98 -> Group:39 -> Group Representative:27.6 -> Avg:13.2 -> Marks:5 4 24 10 
-Student:99 -> Group:22 -> Group Representative:44.4 -> Avg:44 -> Marks:74 9 46 79 
-Student:100 -> Group:28 -> Group Representative:57.2 -> Avg:56.8 -> Marks:22 56 86 92 
-Student:101 -> Group:25 -> Group Representative:45.4 -> Avg:45.6 -> Marks:26 73 39 59
-Student:102 -> Group:24 -> Group Representative:59.8 -> Avg:59.8 -> Marks:17 95 27 73
-Student:103 -> Group:32 -> Group Representative:69.8 -> Avg:69.8 -> Marks:80 56 76 74 
-Student:104 -> Group:36 -> Group Representative:50.2 -> Avg:50.4 -> Marks:21 0 97 88 
-Student:105 -> Group:9 -> Group Representative:42.6 -> Avg:42.6 -> Marks:75 75 11 14
-Student:106 -> Group:42 -> Group Representative:62.8 -> Avg:62.2 -> Marks:58 97 94 22
-Student:107 -> Group:39 -> Group Representative:27.6 -> Avg:26.2 -> Marks:10 46 31 43 
-Student:108 -> Group:48 -> Group Representative:41.4 -> Avg:41.2 -> Marks:18 41 98 39 
-Student:109 -> Group:38 -> Group Representative:60.4 -> Avg:60.6 -> Marks:75 93 36 93
-Student:110 -> Group:2 -> Group Representative:38.6 -> Avg:38.8 -> Marks:38 60 9 54
-Student:111 -> Group:3 -> Group Representative:41.8 -> Avg:41.8 -> Marks:49 27 26 67 
-Student:112 -> Group:7 -> Group Representative:76.6 -> Avg:78.8 -> Marks:55 79 90 83 
-Student:113 -> Group:4 -> Group Representative:48 -> Avg:48.6 -> Marks:23 89 34 77
-Student:114 -> Group:24 -> Group Representative:59.8 -> Avg:58.6 -> Marks:95 95 74 13
-Student:115 -> Group:16 -> Group Representative:49.6 -> Avg:49.8 -> Marks:24 75 47 50 
-Student:116 -> Group:6 -> Group Representative:64 -> Avg:64.2 -> Marks:83 34 42 78
-Student:117 -> Group:28 -> Group Representative:57.2 -> Avg:58.2 -> Marks:97 71 85 14 
-Student:118 -> Group:21 -> Group Representative:51 -> Avg:52.2 -> Marks:36 95 21 55
-Student:119 -> Group:21 -> Group Representative:51 -> Avg:51.6 -> Marks:1 91 49 17
-Student:120 -> Group:42 -> Group Representative:62.8 -> Avg:63.2 -> Marks:63 46 71 99 
-Student:121 -> Group:39 -> Group Representative:27.6 -> Avg:28.2 -> Marks:34 23 55 0
-Student:122 -> Group:6 -> Group Representative:64 -> Avg:63.4 -> Marks:7 70 88 55
-Student:123 -> Group:31 -> Group Representative:54.8 -> Avg:54.4 -> Marks:28 87 99 42 
-Student:124 -> Group:22 -> Group Representative:44.4 -> Avg:44.2 -> Marks:13 84 89 7
-Student:125 -> Group:21 -> Group Representative:51 -> Avg:51 -> Marks:45 95 90 24 
-Student:126 -> Group:14 -> Group Representative:38.2 -> Avg:37.6 -> Marks:29 24 32 51
-Student:127 -> Group:14 -> Group Representative:38.2 -> Avg:37.2 -> Marks:41 26 18 70
-Student:128 -> Group:43 -> Group Representative:33 -> Avg:32 -> Marks:24 39 20 17
-Student:129 -> Group:28 -> Group Representative:57.2 -> Avg:58 -> Marks:80 82 35 15 
-Student:130 -> Group:10 -> Group Representative:50.8 -> Avg:50.6 -> Marks:18 87 67 48
-Student:131 -> Group:1 -> Group Representative:55.8 -> Avg:55.8 -> Marks:65 59 64 51 
-Student:132 -> Group:6 -> Group Representative:64 -> Avg:63.6 -> Marks:17 99 26 95
-Student:133 -> Group:42 -> Group Representative:62.8 -> Avg:62.2 -> Marks:72 100 50 21
-Student:134 -> Group:21 -> Group Representative:51 -> Avg:52.6 -> Marks:36 65 64 45 
-Student:135 -> Group:42 -> Group Representative:62.8 -> Avg:62.6 -> Marks:39 43 89 95 
-Student:136 -> Group:22 -> Group Representative:44.4 -> Avg:44.4 -> Marks:22 87 49 57
-Student:137 -> Group:21 -> Group Representative:51 -> Avg:52 -> Marks:3 50 75 56
-Student:138 -> Group:21 -> Group Representative:51 -> Avg:52 -> Marks:26 37 85 83
-Student:139 -> Group:24 -> Group Representative:59.8 -> Avg:60 -> Marks:79 17 35 97 
-Student:140 -> Group:3 -> Group Representative:41.8 -> Avg:42 -> Marks:21 10 77 93
-Student:141 -> Group:6 -> Group Representative:64 -> Avg:63.6 -> Marks:93 64 72 27
-Student:142 -> Group:22 -> Group Representative:44.4 -> Avg:44.2 -> Marks:62 51 72 15
-Student:143 -> Group:16 -> Group Representative:49.6 -> Avg:49.8 -> Marks:45 72 65 9 
-Student:144 -> Group:28 -> Group Representative:57.2 -> Avg:56.8 -> Marks:97 23 47 23 
-Student:145 -> Group:1 -> Group Representative:55.8 -> Avg:56.2 -> Marks:87 2 67 76
-Student:146 -> Group:12 -> Group Representative:35 -> Avg:36.6 -> Marks:77 30 29 2
-Student:147 -> Group:14 -> Group Representative:38.2 -> Avg:37.2 -> Marks:32 16 34 93
-Student:148 -> Group:31 -> Group Representative:54.8 -> Avg:54.2 -> Marks:52 65 99 43 
-Student:149 -> Group:30 -> Group Representative:39.4 -> Avg:39.4 -> Marks:44 3 47 44 
-Student:150 -> Group:47 -> Group Representative:40 -> Avg:40.6 -> Marks:95 30 30 40
-Student:151 -> Group:32 -> Group Representative:69.8 -> Avg:70.8 -> Marks:47 98 82 37
-Student:152 -> Group:9 -> Group Representative:42.6 -> Avg:42.6 -> Marks:61 69 55 18
-Student:153 -> Group:24 -> Group Representative:59.8 -> Avg:59 -> Marks:100 12 83 69 
-Student:154 -> Group:28 -> Group Representative:57.2 -> Avg:56.6 -> Marks:70 98 47 5 
-Student:155 -> Group:3 -> Group Representative:41.8 -> Avg:42 -> Marks:16 62 3 85
-Student:156 -> Group:14 -> Group Representative:38.2 -> Avg:37 -> Marks:87 28 49 16
-Student:157 -> Group:16 -> Group Representative:49.6 -> Avg:49.6 -> Marks:54 53 44 58
-Student:158 -> Group:19 -> Group Representative:46.6 -> Avg:46.6 -> Marks:71 77 2 28 
-Student:159 -> Group:7 -> Group Representative:76.6 -> Avg:76.4 -> Marks:80 95 60 79
-Student:160 -> Group:25 -> Group Representative:45.4 -> Avg:45.8 -> Marks:6 18 95 77
-Student:161 -> Group:21 -> Group Representative:51 -> Avg:52 -> Marks:20 70 76 48
-Student:162 -> Group:27 -> Group Representative:64.8 -> Avg:65 -> Marks:65 82 78 72 
-Student:163 -> Group:38 -> Group Representative:60.4 -> Avg:60.6 -> Marks:82 66 26 62 
-Student:164 -> Group:32 -> Group Representative:69.8 -> Avg:70.2 -> Marks:69 90 43 62
-Student:165 -> Group:4 -> Group Representative:48 -> Avg:48 -> Marks:11 64 88 41
-Student:166 -> Group:16 -> Group Representative:49.6 -> Avg:49.6 -> Marks:59 37 50 99 
-Student:167 -> Group:21 -> Group Representative:51 -> Avg:51.8 -> Marks:51 48 2 97
-Student:168 -> Group:42 -> Group Representative:62.8 -> Avg:63 -> Marks:27 72 93 91 
-Student:169 -> Group:20 -> Group Representative:55.2 -> Avg:55.4 -> Marks:58 94 59 10
-Student:170 -> Group:4 -> Group Representative:48 -> Avg:47.4 -> Marks:82 59 29 1
-Student:171 -> Group:30 -> Group Representative:39.4 -> Avg:39.4 -> Marks:95 25 36 37
-Student:172 -> Group:47 -> Group Representative:40 -> Avg:40 -> Marks:30 71 58 5 
-Student:173 -> Group:21 -> Group Representative:51 -> Avg:51.4 -> Marks:21 24 60 94
-Student:174 -> Group:17 -> Group Representative:34 -> Avg:34.2 -> Marks:20 27 23 74 
-Student:175 -> Group:31 -> Group Representative:54.8 -> Avg:54.8 -> Marks:79 55 71 50
-Student:176 -> Group:24 -> Group Representative:59.8 -> Avg:60 -> Marks:67 46 97 20
-Student:177 -> Group:4 -> Group Representative:48 -> Avg:48.6 -> Marks:77 94 46 12 
-Student:178 -> Group:7 -> Group Representative:76.6 -> Avg:76 -> Marks:65 54 92 75
-Student:179 -> Group:14 -> Group Representative:38.2 -> Avg:37.8 -> Marks:28 80 16 53 
-Student:180 -> Group:3 -> Group Representative:41.8 -> Avg:42 -> Marks:35 21 44 21
-Student:181 -> Group:2 -> Group Representative:38.6 -> Avg:38.6 -> Marks:69 93 14 11
-Student:182 -> Group:21 -> Group Representative:51 -> Avg:52.2 -> Marks:85 43 28 65
-Student:183 -> Group:17 -> Group Representative:34 -> Avg:33.8 -> Marks:57 45 55 0 
-Student:184 -> Group:4 -> Group Representative:48 -> Avg:48.4 -> Marks:98 35 62 45
-Student:185 -> Group:40 -> Group Representative:66 -> Avg:67.4 -> Marks:32 100 86 55 
-Student:186 -> Group:47 -> Group Representative:40 -> Avg:40.6 -> Marks:36 52 38 70
-Student:187 -> Group:48 -> Group Representative:41.4 -> Avg:41.2 -> Marks:2 28 34 63
-Student:188 -> Group:28 -> Group Representative:57.2 -> Avg:57 -> Marks:88 77 21 96
-Student:189 -> Group:14 -> Group Representative:38.2 -> Avg:36.8 -> Marks:87 1 64 10 
-Student:190 -> Group:35 -> Group Representative:49.2 -> Avg:49.2 -> Marks:13 43 14 82 
-Student:191 -> Group:24 -> Group Representative:59.8 -> Avg:58.8 -> Marks:23 98 80 56
-Student:192 -> Group:22 -> Group Representative:44.4 -> Avg:44.2 -> Marks:61 76 42 37
-Student:193 -> Group:2 -> Group Representative:38.6 -> Avg:39 -> Marks:66 18 67 32
-Student:194 -> Group:16 -> Group Representative:49.6 -> Avg:49.8 -> Marks:24 33 90 5 
-Student:195 -> Group:24 -> Group Representative:59.8 -> Avg:59 -> Marks:76 26 22 74
-Student:196 -> Group:21 -> Group Representative:51 -> Avg:52.2 -> Marks:69 3 22 71
-Student:197 -> Group:6 -> Group Representative:64 -> Avg:63.4 -> Marks:41 46 78 79
-Student:198 -> Group:4 -> Group Representative:48 -> Avg:48.2 -> Marks:12 98 66 1
-Student:199 -> Group:14 -> Group Representative:38.2 -> Avg:37.8 -> Marks:19 29 14 45 
-Student:200 -> Group:43 -> Group Representative:33 -> Avg:31.2 -> Marks:59 9 67 11 
-Student:201 -> Group:12 -> Group Representative:35 -> Avg:35 -> Marks:76 16 55 11
-Student:202 -> Group:14 -> Group Representative:38.2 -> Avg:36.8 -> Marks:31 67 16 54
-Student:203 -> Group:20 -> Group Representative:55.2 -> Avg:55.2 -> Marks:93 69 22 34
-Student:204 -> Group:38 -> Group Representative:60.4 -> Avg:60.8 -> Marks:80 92 21 92 
-Student:205 -> Group:48 -> Group Representative:41.4 -> Avg:40.8 -> Marks:97 44 6 8 
-Student:206 -> Group:40 -> Group Representative:66 -> Avg:66.2 -> Marks:56 93 80 9
-Student:207 -> Group:11 -> Group Representative:73.2 -> Avg:72.4 -> Marks:78 81 97 36
-Student:208 -> Group:27 -> Group Representative:64.8 -> Avg:64.4 -> Marks:77 65 16 68 
-Student:209 -> Group:22 -> Group Representative:44.4 -> Avg:44.6 -> Marks:71 1 61 18 
-Student:210 -> Group:12 -> Group Representative:35 -> Avg:36.4 -> Marks:16 29 39 60
-Student:211 -> Group:42 -> Group Representative:62.8 -> Avg:62.4 -> Marks:97 73 82 6
-Student:212 -> Group:10 -> Group Representative:50.8 -> Avg:50.8 -> Marks:29 72 79 27
-Student:213 -> Group:32 -> Group Representative:69.8 -> Avg:71.4 -> Marks:75 98 16 91 
-Student:214 -> Group:41 -> Group Representative:45.2 -> Avg:45.2 -> Marks:68 95 18 26 
-Student:215 -> Group:40 -> Group Representative:66 -> Avg:65.4 -> Marks:74 97 6 84
-Student:216 -> Group:31 -> Group Representative:54.8 -> Avg:53 -> Marks:40 39 80 78
-Student:217 -> Group:31 -> Group Representative:54.8 -> Avg:54.6 -> Marks:87 88 71 2 
-Student:218 -> Group:12 -> Group Representative:35 -> Avg:35.4 -> Marks:40 21 29 75 
-Student:219 -> Group:2 -> Group Representative:38.6 -> Avg:38.8 -> Marks:25 28 17 69
-Student:220 -> Group:33 -> Group Representative:46.4 -> Avg:46.4 -> Marks:7 53 80 31
-Student:221 -> Group:1 -> Group Representative:55.8 -> Avg:55.6 -> Marks:80 55 84 43
-Student:222 -> Group:5 -> Group Representative:41.6 -> Avg:41.6 -> Marks:72 9 27 55 
-Student:223 -> Group:39 -> Group Representative:27.6 -> Avg:22.2 -> Marks:19 40 24 28 
-Student:224 -> Group:31 -> Group Representative:54.8 -> Avg:53.6 -> Marks:23 45 86 24
-Student:225 -> Group:9 -> Group Representative:42.6 -> Avg:42.6 -> Marks:1 46 64 3
-Student:226 -> Group:47 -> Group Representative:40 -> Avg:40.4 -> Marks:62 68 5 65
-Student:227 -> Group:30 -> Group Representative:39.4 -> Avg:39.6 -> Marks:60 72 25 32 
-Student:228 -> Group:5 -> Group Representative:41.6 -> Avg:41.6 -> Marks:66 37 2 88 
-Student:229 -> Group:21 -> Group Representative:51 -> Avg:52.4 -> Marks:84 59 0 68
-Student:230 -> Group:21 -> Group Representative:51 -> Avg:52 -> Marks:59 6 50 84
-Student:231 -> Group:24 -> Group Representative:59.8 -> Avg:59.4 -> Marks:15 85 70 82
-Student:232 -> Group:3 -> Group Representative:41.8 -> Avg:42 -> Marks:89 1 13 48
-Student:233 -> Group:36 -> Group Representative:50.2 -> Avg:50.2 -> Marks:74 22 74 25 
-Student:234 -> Group:42 -> Group Representative:62.8 -> Avg:62.2 -> Marks:69 22 96 65
-Student:235 -> Group:28 -> Group Representative:57.2 -> Avg:57 -> Marks:21 35 84 58 
-Student:236 -> Group:33 -> Group Representative:46.4 -> Avg:46.4 -> Marks:58 60 69 22
-Student:237 -> Group:40 -> Group Representative:66 -> Avg:67.4 -> Marks:85 69 18 82
-Student:238 -> Group:21 -> Group Representative:51 -> Avg:51.4 -> Marks:82 53 1 57 
-Student:239 -> Group:19 -> Group Representative:46.6 -> Avg:47.2 -> Marks:63 80 4 86
-Student:240 -> Group:36 -> Group Representative:50.2 -> Avg:50.2 -> Marks:42 1 90 30
-Student:241 -> Group:40 -> Group Representative:66 -> Avg:66 -> Marks:52 68 88 61
-Student:242 -> Group:14 -> Group Representative:38.2 -> Avg:37.4 -> Marks:63 32 43 2 
-Student:243 -> Group:43 -> Group Representative:33 -> Avg:33 -> Marks:19 52 16 30 
-Student:244 -> Group:12 -> Group Representative:35 -> Avg:34.6 -> Marks:4 68 64 37
-Student:245 -> Group:31 -> Group Representative:54.8 -> Avg:53.8 -> Marks:77 66 9 70
-Student:246 -> Group:32 -> Group Representative:69.8 -> Avg:69.4 -> Marks:95 61 65 83 
-Student:247 -> Group:4 -> Group Representative:48 -> Avg:48.2 -> Marks:98 70 20 42
-Student:248 -> Group:19 -> Group Representative:46.6 -> Avg:47.2 -> Marks:4 100 29 96 
-Student:249 -> Group:46 -> Group Representative:55 -> Avg:55 -> Marks:56 56 37 73
-Student:250 -> Group:41 -> Group Representative:45.2 -> Avg:45 -> Marks:64 63 2 87
-Student:251 -> Group:9 -> Group Representative:42.6 -> Avg:43.4 -> Marks:75 97 19 8
-Student:252 -> Group:27 -> Group Representative:64.8 -> Avg:64.4 -> Marks:91 38 58 70 
-Student:253 -> Group:31 -> Group Representative:54.8 -> Avg:54.6 -> Marks:68 59 5 91 
-Student:254 -> Group:23 -> Group Representative:73.8 -> Avg:75 -> Marks:81 89 50 77
-Student:255 -> Group:1 -> Group Representative:55.8 -> Avg:55.8 -> Marks:48 22 98 14
-Student:256 -> Group:40 -> Group Representative:66 -> Avg:67.8 -> Marks:34 90 79 41 
-Student:257 -> Group:32 -> Group Representative:69.8 -> Avg:70.2 -> Marks:95 52 81 86
-Student:258 -> Group:28 -> Group Representative:57.2 -> Avg:57.6 -> Marks:18 80 41 55
-Student:259 -> Group:1 -> Group Representative:55.8 -> Avg:56.2 -> Marks:92 82 50 1 
-Student:260 -> Group:47 -> Group Representative:40 -> Avg:39.8 -> Marks:62 5 45 40
-Student:261 -> Group:48 -> Group Representative:41.4 -> Avg:40.8 -> Marks:50 83 42 9 
-Student:262 -> Group:27 -> Group Representative:64.8 -> Avg:64.6 -> Marks:88 44 67 85
-Student:263 -> Group:46 -> Group Representative:55 -> Avg:55 -> Marks:91 23 94 32
-Student:264 -> Group:18 -> Group Representative:46.2 -> Avg:46 -> Marks:76 60 0 87
-Student:265 -> Group:8 -> Group Representative:61.4 -> Avg:61.6 -> Marks:75 83 57 24 
-Student:266 -> Group:28 -> Group Representative:57.2 -> Avg:56.8 -> Marks:74 80 26 38
-Student:267 -> Group:38 -> Group Representative:60.4 -> Avg:60.4 -> Marks:65 4 37 97
-Student:268 -> Group:32 -> Group Representative:69.8 -> Avg:70.8 -> Marks:93 86 56 61
-Student:269 -> Group:27 -> Group Representative:64.8 -> Avg:64.4 -> Marks:5 73 52 94 
-Student:270 -> Group:43 -> Group Representative:33 -> Avg:31.8 -> Marks:2 3 88 11 
-Student:271 -> Group:40 -> Group Representative:66 -> Avg:66 -> Marks:66 39 88 49
-Student:272 -> Group:14 -> Group Representative:38.2 -> Avg:37.8 -> Marks:13 45 0 98
-Student:273 -> Group:3 -> Group Representative:41.8 -> Avg:41.8 -> Marks:25 61 34 68 
-Student:274 -> Group:33 -> Group Representative:46.4 -> Avg:46.4 -> Marks:94 32 77 27
-Student:275 -> Group:14 -> Group Representative:38.2 -> Avg:36.8 -> Marks:30 19 36 16 
-Student:276 -> Group:20 -> Group Representative:55.2 -> Avg:55.4 -> Marks:42 6 75 73
-Student:277 -> Group:21 -> Group Representative:51 -> Avg:51.6 -> Marks:63 47 29 19
-Student:278 -> Group:15 -> Group Representative:42.4 -> Avg:42.2 -> Marks:45 7 55 60
-Student:279 -> Group:4 -> Group Representative:48 -> Avg:47.4 -> Marks:34 66 16 23 
-Student:280 -> Group:31 -> Group Representative:54.8 -> Avg:54.8 -> Marks:55 36 45 58
-Student:281 -> Group:20 -> Group Representative:55.2 -> Avg:55.4 -> Marks:79 36 42 91 
-Student:282 -> Group:39 -> Group Representative:27.6 -> Avg:27 -> Marks:0 60 66 3
-Student:283 -> Group:31 -> Group Representative:54.8 -> Avg:53 -> Marks:99 26 51 36
-Student:284 -> Group:18 -> Group Representative:46.2 -> Avg:46.2 -> Marks:79 28 13 47
-Student:285 -> Group:48 -> Group Representative:41.4 -> Avg:41.2 -> Marks:60 47 14 24 
-Student:286 -> Group:31 -> Group Representative:54.8 -> Avg:54.6 -> Marks:1 86 36 63
-Student:287 -> Group:40 -> Group Representative:66 -> Avg:66.8 -> Marks:7 44 87 100
-Student:288 -> Group:38 -> Group Representative:60.4 -> Avg:60.6 -> Marks:67 40 93 17 
-Student:289 -> Group:24 -> Group Representative:59.8 -> Avg:59 -> Marks:60 71 33 55
-Student:290 -> Group:9 -> Group Representative:42.6 -> Avg:43.4 -> Marks:62 43 83 20
-Student:291 -> Group:21 -> Group Representative:51 -> Avg:52 -> Marks:33 84 85 46 
-Student:292 -> Group:31 -> Group Representative:54.8 -> Avg:53.2 -> Marks:73 34 92 0
-Student:293 -> Group:36 -> Group Representative:50.2 -> Avg:50.4 -> Marks:48 18 89 72
-Student:294 -> Group:30 -> Group Representative:39.4 -> Avg:39.4 -> Marks:7 18 82 5
-Student:295 -> Group:21 -> Group Representative:51 -> Avg:51.4 -> Marks:80 82 2 11 
-Student:296 -> Group:8 -> Group Representative:61.4 -> Avg:62 -> Marks:32 71 89 49
-Student:297 -> Group:8 -> Group Representative:61.4 -> Avg:62 -> Marks:65 4 91 70
-Student:298 -> Group:28 -> Group Representative:57.2 -> Avg:57.2 -> Marks:100 62 52 13 
-Student:299 -> Group:39 -> Group Representative:27.6 -> Avg:28.8 -> Marks:22 58 0 36
-Student:300 -> Group:1 -> Group Representative:55.8 -> Avg:56.4 -> Marks:12 85 31 72 
-Student:301 -> Group:4 -> Group Representative:48 -> Avg:48 -> Marks:53 3 75 38
-Student:302 -> Group:19 -> Group Representative:46.6 -> Avg:46.8 -> Marks:59 0 96 51
-Student:303 -> Group:43 -> Group Representative:33 -> Avg:32 -> Marks:57 42 36 16
-Student:304 -> Group:39 -> Group Representative:27.6 -> Avg:24.2 -> Marks:2 12 47 40 
-Student:305 -> Group:39 -> Group Representative:27.6 -> Avg:22.4 -> Marks:3 72 13 15 
-Student:306 -> Group:31 -> Group Representative:54.8 -> Avg:54.6 -> Marks:43 9 94 38 
-Student:307 -> Group:36 -> Group Representative:50.2 -> Avg:50.4 -> Marks:77 70 58 14
-Student:308 -> Group:12 -> Group Representative:35 -> Avg:36.2 -> Marks:16 20 63 1
-Student:309 -> Group:7 -> Group Representative:76.6 -> Avg:79.4 -> Marks:78 74 82 67
-Student:310 -> Group:19 -> Group Representative:46.6 -> Avg:46.8 -> Marks:76 17 78 41 
-Student:311 -> Group:21 -> Group Representative:51 -> Avg:51.8 -> Marks:31 56 66 58 
-Student:312 -> Group:11 -> Group Representative:73.2 -> Avg:72.6 -> Marks:45 99 66 94
-Student:313 -> Group:4 -> Group Representative:48 -> Avg:47.6 -> Marks:61 70 1 43
-Student:314 -> Group:27 -> Group Representative:64.8 -> Avg:65.2 -> Marks:48 89 85 19 
-Student:315 -> Group:8 -> Group Representative:61.4 -> Avg:61 -> Marks:91 78 94 30
-Student:316 -> Group:31 -> Group Representative:54.8 -> Avg:53.4 -> Marks:55 100 29 57
-Student:317 -> Group:48 -> Group Representative:41.4 -> Avg:41 -> Marks:75 81 18 13
-Student:318 -> Group:27 -> Group Representative:64.8 -> Avg:65 -> Marks:44 51 78 83
-Student:319 -> Group:28 -> Group Representative:57.2 -> Avg:57.6 -> Marks:71 89 24 21
-Student:320 -> Group:19 -> Group Representative:46.6 -> Avg:47 -> Marks:0 73 99 21 
-Student:321 -> Group:47 -> Group Representative:40 -> Avg:40.6 -> Marks:49 20 29 16
-Student:322 -> Group:27 -> Group Representative:64.8 -> Avg:65 -> Marks:63 58 97 94 
-Student:323 -> Group:12 -> Group Representative:35 -> Avg:36.2 -> Marks:5 38 44 59
-Student:324 -> Group:38 -> Group Representative:60.4 -> Avg:60.2 -> Marks:54 64 77 90
-Student:325 -> Group:21 -> Group Representative:51 -> Avg:51.2 -> Marks:27 95 66 53
-Student:326 -> Group:9 -> Group Representative:42.6 -> Avg:43 -> Marks:36 28 22 71 
-Student:327 -> Group:25 -> Group Representative:45.4 -> Avg:45.8 -> Marks:27 7 62 60
-Student:328 -> Group:28 -> Group Representative:57.2 -> Avg:57.2 -> Marks:68 88 49 27 
-Student:329 -> Group:1 -> Group Representative:55.8 -> Avg:56.2 -> Marks:96 33 53 15
-Student:330 -> Group:38 -> Group Representative:60.4 -> Avg:60.2 -> Marks:44 71 83 92
-Student:331 -> Group:17 -> Group Representative:34 -> Avg:33.8 -> Marks:95 29 18 24
-Student:332 -> Group:43 -> Group Representative:33 -> Avg:30.6 -> Marks:70 36 22 24 
-Student:333 -> Group:22 -> Group Representative:44.4 -> Avg:44.8 -> Marks:31 25 80 76 
-Student:334 -> Group:39 -> Group Representative:27.6 -> Avg:18 -> Marks:18 1 2 53
-Student:335 -> Group:39 -> Group Representative:27.6 -> Avg:26.2 -> Marks:77 13 1 0
-Student:336 -> Group:32 -> Group Representative:69.8 -> Avg:69.4 -> Marks:98 65 89 8
-Student:337 -> Group:31 -> Group Representative:54.8 -> Avg:54.8 -> Marks:32 41 96 12 
-Student:338 -> Group:30 -> Group Representative:39.4 -> Avg:39.4 -> Marks:61 27 61 45 
-Student:339 -> Group:7 -> Group Representative:76.6 -> Avg:75.6 -> Marks:96 56 66 78
-Student:340 -> Group:7 -> Group Representative:76.6 -> Avg:82.6 -> Marks:93 81 89 64
-Student:341 -> Group:15 -> Group Representative:42.4 -> Avg:42.4 -> Marks:37 58 52 64
-Student:342 -> Group:32 -> Group Representative:69.8 -> Avg:69.8 -> Marks:93 63 27 83 
-Student:343 -> Group:28 -> Group Representative:57.2 -> Avg:56.8 -> Marks:88 22 16 97
-Student:344 -> Group:43 -> Group Representative:33 -> Avg:32.6 -> Marks:33 78 1 13 
-Student:345 -> Group:14 -> Group Representative:38.2 -> Avg:38.2 -> Marks:26 47 79 19
-Student:346 -> Group:43 -> Group Representative:33 -> Avg:32.2 -> Marks:17 67 3 60 
-Student:347 -> Group:21 -> Group Representative:51 -> Avg:52.6 -> Marks:46 83 43 61 
-Student:348 -> Group:32 -> Group Representative:69.8 -> Avg:71 -> Marks:86 51 81 99
-Student:349 -> Group:15 -> Group Representative:42.4 -> Avg:42.4 -> Marks:49 54 8 70
-Student:350 -> Group:36 -> Group Representative:50.2 -> Avg:50.2 -> Marks:42 37 69 80
-Student:351 -> Group:32 -> Group Representative:69.8 -> Avg:69 -> Marks:99 51 79 81 
-Student:352 -> Group:43 -> Group Representative:33 -> Avg:31.4 -> Marks:3 47 40 31
-Student:353 -> Group:1 -> Group Representative:55.8 -> Avg:55.8 -> Marks:46 51 47 97
-Student:354 -> Group:21 -> Group Representative:51 -> Avg:51.4 -> Marks:49 6 63 91
-Student:355 -> Group:1 -> Group Representative:55.8 -> Avg:56.4 -> Marks:62 67 41 51 
-Student:356 -> Group:4 -> Group Representative:48 -> Avg:48.4 -> Marks:72 48 58 42
-Student:357 -> Group:15 -> Group Representative:42.4 -> Avg:42.2 -> Marks:98 28 76 5 
-Student:358 -> Group:14 -> Group Representative:38.2 -> Avg:37.2 -> Marks:1 21 36 64
-Student:359 -> Group:30 -> Group Representative:39.4 -> Avg:39.4 -> Marks:61 75 61 0
-Student:360 -> Group:22 -> Group Representative:44.4 -> Avg:43.6 -> Marks:76 9 58 5
-Student:361 -> Group:40 -> Group Representative:66 -> Avg:65.8 -> Marks:94 94 36 75 
-Student:362 -> Group:7 -> Group Representative:76.6 -> Avg:76.6 -> Marks:77 82 46 84 
-Student:363 -> Group:43 -> Group Representative:33 -> Avg:32.8 -> Marks:18 24 37 66 
-Student:364 -> Group:39 -> Group Representative:27.6 -> Avg:19.2 -> Marks:1 27 53 2
-Student:365 -> Group:28 -> Group Representative:57.2 -> Avg:57.2 -> Marks:49 45 55 54
-Student:366 -> Group:8 -> Group Representative:61.4 -> Avg:61 -> Marks:81 69 19 52
-Student:367 -> Group:31 -> Group Representative:54.8 -> Avg:53.6 -> Marks:86 18 28 63 
-Student:368 -> Group:9 -> Group Representative:42.6 -> Avg:43.2 -> Marks:49 34 39 23
-Student:369 -> Group:39 -> Group Representative:27.6 -> Avg:27.6 -> Marks:37 32 43 17
-Student:370 -> Group:24 -> Group Representative:59.8 -> Avg:59 -> Marks:10 85 72 34 
-Student:371 -> Group:28 -> Group Representative:57.2 -> Avg:56.6 -> Marks:28 56 62 74
-Student:372 -> Group:31 -> Group Representative:54.8 -> Avg:54.6 -> Marks:85 4 79 35 
-Student:373 -> Group:21 -> Group Representative:51 -> Avg:52.8 -> Marks:24 92 65 33
-Student:374 -> Group:43 -> Group Representative:33 -> Avg:32 -> Marks:14 62 32 52
-Student:375 -> Group:8 -> Group Representative:61.4 -> Avg:61 -> Marks:28 74 51 86 
-Student:376 -> Group:18 -> Group Representative:46.2 -> Avg:46.2 -> Marks:13 93 61 52
-Student:377 -> Group:48 -> Group Representative:41.4 -> Avg:40.8 -> Marks:21 28 72 44 
-Student:378 -> Group:43 -> Group Representative:33 -> Avg:32.2 -> Marks:24 34 41 47 
-Student:379 -> Group:43 -> Group Representative:33 -> Avg:31.6 -> Marks:11 65 6 68
-Student:380 -> Group:27 -> Group Representative:64.8 -> Avg:64.6 -> Marks:64 99 23 72
-Student:381 -> Group:40 -> Group Representative:66 -> Avg:65.8 -> Marks:29 44 99 60
-Student:382 -> Group:6 -> Group Representative:64 -> Avg:63.8 -> Marks:66 58 93 96
-Student:383 -> Group:30 -> Group Representative:39.4 -> Avg:39.4 -> Marks:27 50 0 31
-Student:384 -> Group:21 -> Group Representative:51 -> Avg:51.4 -> Marks:49 23 92 8 
-Student:385 -> Group:23 -> Group Representative:73.8 -> Avg:74.2 -> Marks:75 84 44 85
-Student:386 -> Group:28 -> Group Representative:57.2 -> Avg:58 -> Marks:53 38 75 73 
-Student:387 -> Group:36 -> Group Representative:50.2 -> Avg:50.2 -> Marks:87 27 50 47
-Student:388 -> Group:14 -> Group Representative:38.2 -> Avg:37.4 -> Marks:50 1 88 28
-Student:389 -> Group:43 -> Group Representative:33 -> Avg:30.6 -> Marks:8 78 38 18
-Student:390 -> Group:40 -> Group Representative:66 -> Avg:65.8 -> Marks:80 100 89 38 
-Student:391 -> Group:40 -> Group Representative:66 -> Avg:66.2 -> Marks:44 27 78 90 
-Student:392 -> Group:12 -> Group Representative:35 -> Avg:35.8 -> Marks:6 18 62 25
-Student:393 -> Group:24 -> Group Representative:59.8 -> Avg:59.6 -> Marks:25 91 68 41
-Student:394 -> Group:40 -> Group Representative:66 -> Avg:67.2 -> Marks:55 46 90 63 
-Student:395 -> Group:6 -> Group Representative:64 -> Avg:63.8 -> Marks:0 71 71 80 
-Student:396 -> Group:18 -> Group Representative:46.2 -> Avg:46 -> Marks:41 37 67 67
-Student:397 -> Group:32 -> Group Representative:69.8 -> Avg:71.4 -> Marks:96 85 100 14
-Student:398 -> Group:24 -> Group Representative:59.8 -> Avg:59.2 -> Marks:86 97 63 12
-Student:399 -> Group:24 -> Group Representative:59.8 -> Avg:59.4 -> Marks:87 32 81 79 
-Student:400 -> Group:33 -> Group Representative:46.4 -> Avg:46.4 -> Marks:40 66 61 28
-Student:401 -> Group:8 -> Group Representative:61.4 -> Avg:61.6 -> Marks:93 92 33 34 
-Student:402 -> Group:28 -> Group Representative:57.2 -> Avg:58 -> Marks:46 95 33 87 
-Student:403 -> Group:31 -> Group Representative:54.8 -> Avg:53 -> Marks:61 50 58 28
-Student:404 -> Group:31 -> Group Representative:54.8 -> Avg:54.4 -> Marks:52 89 83 36
-Student:405 -> Group:31 -> Group Representative:54.8 -> Avg:54.4 -> Marks:14 59 100 64
-Student:406 -> Group:4 -> Group Representative:48 -> Avg:48.2 -> Marks:8 5 70 75 
-Student:407 -> Group:7 -> Group Representative:76.6 -> Avg:77.6 -> Marks:89 89 61 95
-Student:408 -> Group:36 -> Group Representative:50.2 -> Avg:50.4 -> Marks:82 32 0 81
-Student:409 -> Group:4 -> Group Representative:48 -> Avg:48.4 -> Marks:28 19 50 90
-Student:410 -> Group:12 -> Group Representative:35 -> Avg:35 -> Marks:83 14 36 35 
-Student:411 -> Group:47 -> Group Representative:40 -> Avg:40.2 -> Marks:44 70 7 39 
-Student:412 -> Group:23 -> Group Representative:73.8 -> Avg:73.6 -> Marks:49 84 92 69
-Student:413 -> Group:43 -> Group Representative:33 -> Avg:33 -> Marks:36 19 29 30
-Student:414 -> Group:31 -> Group Representative:54.8 -> Avg:53.6 -> Marks:8 28 40 99 
-Student:415 -> Group:40 -> Group Representative:66 -> Avg:66.4 -> Marks:51 78 42 93
-Student:416 -> Group:22 -> Group Representative:44.4 -> Avg:43.8 -> Marks:32 77 28 38
-Student:417 -> Group:43 -> Group Representative:33 -> Avg:32.8 -> Marks:3 43 48 1 
-Student:418 -> Group:32 -> Group Representative:69.8 -> Avg:71.4 -> Marks:75 83 65 95
-Student:419 -> Group:21 -> Group Representative:51 -> Avg:52.4 -> Marks:83 79 24 61
-Student:420 -> Group:6 -> Group Representative:64 -> Avg:64 -> Marks:52 72 85 33 
-Student:421 -> Group:8 -> Group Representative:61.4 -> Avg:62 -> Marks:95 63 17 98
-Student:422 -> Group:21 -> Group Representative:51 -> Avg:52 -> Marks:74 17 67 92 
-Student:423 -> Group:2 -> Group Representative:38.6 -> Avg:39 -> Marks:10 22 99 20
-Student:424 -> Group:24 -> Group Representative:59.8 -> Avg:59.8 -> Marks:3 98 97 8
-Student:425 -> Group:39 -> Group Representative:27.6 -> Avg:25.4 -> Marks:45 22 47 9
-Student:426 -> Group:7 -> Group Representative:76.6 -> Avg:76.2 -> Marks:66 56 92 79 
-Student:427 -> Group:19 -> Group Representative:46.6 -> Avg:46.8 -> Marks:40 72 6 33 
-Student:428 -> Group:10 -> Group Representative:50.8 -> Avg:50.8 -> Marks:65 21 91 38
-Student:429 -> Group:7 -> Group Representative:76.6 -> Avg:81 -> Marks:61 70 80 99
-Student:430 -> Group:14 -> Group Representative:38.2 -> Avg:37.2 -> Marks:39 9 25 53
-Student:431 -> Group:32 -> Group Representative:69.8 -> Avg:70.4 -> Marks:93 60 88 69 
-Student:432 -> Group:16 -> Group Representative:49.6 -> Avg:49.6 -> Marks:2 76 43 63 
-Student:433 -> Group:4 -> Group Representative:48 -> Avg:48.2 -> Marks:8 42 76 59
-Student:434 -> Group:3 -> Group Representative:41.8 -> Avg:41.8 -> Marks:49 50 76 18
-Student:435 -> Group:27 -> Group Representative:64.8 -> Avg:65.2 -> Marks:98 77 27 56 
-Student:436 -> Group:39 -> Group Representative:27.6 -> Avg:29 -> Marks:47 22 2 2 
-Student:437 -> Group:31 -> Group Representative:54.8 -> Avg:53.2 -> Marks:75 13 28 76
-Student:438 -> Group:22 -> Group Representative:44.4 -> Avg:43.6 -> Marks:66 63 19 47 
-Student:439 -> Group:21 -> Group Representative:51 -> Avg:52 -> Marks:41 59 57 86
-Student:440 -> Group:8 -> Group Representative:61.4 -> Avg:61.8 -> Marks:70 43 50 72
-Student:441 -> Group:42 -> Group Representative:62.8 -> Avg:62.6 -> Marks:21 97 85 20 
-Student:442 -> Group:42 -> Group Representative:62.8 -> Avg:62.2 -> Marks:38 84 32 85
-Student:443 -> Group:21 -> Group Representative:51 -> Avg:52.8 -> Marks:38 74 39 30
-Student:444 -> Group:43 -> Group Representative:33 -> Avg:33.2 -> Marks:62 25 16 39
-Student:445 -> Group:43 -> Group Representative:33 -> Avg:33.2 -> Marks:32 18 65 31 
-Student:446 -> Group:6 -> Group Representative:64 -> Avg:63.8 -> Marks:59 98 34 74
-Student:447 -> Group:19 -> Group Representative:46.6 -> Avg:47 -> Marks:15 93 36 77 
-Student:448 -> Group:24 -> Group Representative:59.8 -> Avg:58.6 -> Marks:22 63 84 42
-Student:449 -> Group:40 -> Group Representative:66 -> Avg:66.2 -> Marks:97 68 79 74 
-Student:450 -> Group:19 -> Group Representative:46.6 -> Avg:46.8 -> Marks:19 53 64 89
-Student:451 -> Group:28 -> Group Representative:57.2 -> Avg:57.2 -> Marks:26 16 66 78 
-Student:452 -> Group:47 -> Group Representative:40 -> Avg:40 -> Marks:52 33 61 44
-Student:453 -> Group:22 -> Group Representative:44.4 -> Avg:44 -> Marks:78 16 39 59
-Student:454 -> Group:8 -> Group Representative:61.4 -> Avg:61.6 -> Marks:19 84 76 62
-Student:455 -> Group:21 -> Group Representative:51 -> Avg:52 -> Marks:61 98 32 68 
-Student:456 -> Group:30 -> Group Representative:39.4 -> Avg:39.2 -> Marks:100 57 24 13 
-Student:457 -> Group:39 -> Group Representative:27.6 -> Avg:20 -> Marks:3 9 62 23
-Student:458 -> Group:39 -> Group Representative:27.6 -> Avg:27.4 -> Marks:41 13 27 19
-Student:459 -> Group:39 -> Group Representative:27.6 -> Avg:24.4 -> Marks:37 35 45 4
-Student:460 -> Group:48 -> Group Representative:41.4 -> Avg:41 -> Marks:60 31 30 55 
-Student:461 -> Group:28 -> Group Representative:57.2 -> Avg:57.2 -> Marks:52 84 14 45 
-Student:462 -> Group:12 -> Group Representative:35 -> Avg:36.6 -> Marks:52 21 31 63
-Student:463 -> Group:47 -> Group Representative:40 -> Avg:40.2 -> Marks:10 17 88 37
-Student:464 -> Group:6 -> Group Representative:64 -> Avg:63.6 -> Marks:28 95 64 65
-Student:465 -> Group:27 -> Group Representative:64.8 -> Avg:65 -> Marks:88 59 55 48 
-Student:466 -> Group:3 -> Group Representative:41.8 -> Avg:41.8 -> Marks:2 68 57 38 
-Student:467 -> Group:39 -> Group Representative:27.6 -> Avg:27 -> Marks:31 57 22 11 
-Student:468 -> Group:10 -> Group Representative:50.8 -> Avg:50.6 -> Marks:67 30 16 62
-Student:469 -> Group:30 -> Group Representative:39.4 -> Avg:39.6 -> Marks:21 13 37 52
-Student:470 -> Group:30 -> Group Representative:39.4 -> Avg:39.2 -> Marks:71 18 84 22
-Student:471 -> Group:36 -> Group Representative:50.2 -> Avg:50.2 -> Marks:41 57 100 0 
-Student:472 -> Group:28 -> Group Representative:57.2 -> Avg:57.2 -> Marks:70 29 50 59 
-Student:473 -> Group:39 -> Group Representative:27.6 -> Avg:29 -> Marks:23 28 39 46 
-Student:474 -> Group:36 -> Group Representative:50.2 -> Avg:50 -> Marks:65 41 65 66
-Student:475 -> Group:7 -> Group Representative:76.6 -> Avg:76.4 -> Marks:45 73 97 90
-Student:476 -> Group:8 -> Group Representative:61.4 -> Avg:62 -> Marks:100 58 92 37
-Student:477 -> Group:39 -> Group Representative:27.6 -> Avg:27.4 -> Marks:20 25 6 6 
-Student:478 -> Group:21 -> Group Representative:51 -> Avg:52.2 -> Marks:39 90 47 4 
-Student:479 -> Group:19 -> Group Representative:46.6 -> Avg:47.2 -> Marks:77 24 95 22
-Student:480 -> Group:14 -> Group Representative:38.2 -> Avg:38 -> Marks:21 28 50 56
-Student:481 -> Group:11 -> Group Representative:73.2 -> Avg:72 -> Marks:82 99 57 62
-Student:482 -> Group:42 -> Group Representative:62.8 -> Avg:63.2 -> Marks:35 72 43 83 
-Student:483 -> Group:7 -> Group Representative:76.6 -> Avg:75.4 -> Marks:99 97 56 97 
-Student:484 -> Group:4 -> Group Representative:48 -> Avg:48.2 -> Marks:51 17 8 83 
-Student:485 -> Group:21 -> Group Representative:51 -> Avg:52 -> Marks:78 63 5 59
-Student:486 -> Group:32 -> Group Representative:69.8 -> Avg:69.6 -> Marks:79 100 53 88
-Student:487 -> Group:41 -> Group Representative:45.2 -> Avg:45.2 -> Marks:46 4 33 87
-Student:488 -> Group:6 -> Group Representative:64 -> Avg:64 -> Marks:76 64 99 68 
-Student:489 -> Group:30 -> Group Representative:39.4 -> Avg:39.2 -> Marks:84 56 4 18 
-Student:490 -> Group:22 -> Group Representative:44.4 -> Avg:44 -> Marks:71 46 24 21
-Student:491 -> Group:25 -> Group Representative:45.4 -> Avg:45.4 -> Marks:97 61 29 33
-Student:492 -> Group:22 -> Group Representative:44.4 -> Avg:43.6 -> Marks:81 51 40 41
-Student:493 -> Group:4 -> Group Representative:48 -> Avg:48 -> Marks:100 23 76 19 
-Student:494 -> Group:14 -> Group Representative:38.2 -> Avg:38.4 -> Marks:5 35 41 92 
-Student:495 -> Group:42 -> Group Representative:62.8 -> Avg:63 -> Marks:14 88 91 67 
-Student:496 -> Group:16 -> Group Representative:49.6 -> Avg:49.8 -> Marks:32 51 28 78
-Student:497 -> Group:1 -> Group Representative:55.8 -> Avg:56 -> Marks:66 83 43 81
-Student:498 -> Group:12 -> Group Representative:35 -> Avg:35.4 -> Marks:92 3 48 0
-Student:499 -> Group:41 -> Group Representative:45.2 -> Avg:45 -> Marks:13 100 44 27 
-Student:500 -> Group:43 -> Group Representative:33 -> Avg:31.4 -> Marks:3 86 29 13 
-Student:501 -> Group:28 -> Group Representative:57.2 -> Avg:58.2 -> Marks:81 15 4 94
-Student:502 -> Group:6 -> Group Representative:64 -> Avg:64.2 -> Marks:74 58 94 81
-Student:503 -> Group:22 -> Group Representative:44.4 -> Avg:43.6 -> Marks:54 26 85 6
-Student:504 -> Group:1 -> Group Representative:55.8 -> Avg:56.4 -> Marks:66 21 77 20
-Student:505 -> Group:31 -> Group Representative:54.8 -> Avg:53 -> Marks:36 63 79 82 
-Student:506 -> Group:22 -> Group Representative:44.4 -> Avg:44.4 -> Marks:24 100 28 10 
-Student:507 -> Group:42 -> Group Representative:62.8 -> Avg:62.8 -> Marks:77 11 99 46
-Student:508 -> Group:31 -> Group Representative:54.8 -> Avg:54.4 -> Marks:33 29 51 76
-Student:509 -> Group:43 -> Group Representative:33 -> Avg:33 -> Marks:4 38 56 54 
-Student:510 -> Group:21 -> Group Representative:51 -> Avg:52.2 -> Marks:85 71 97 1
-Student:511 -> Group:9 -> Group Representative:42.6 -> Avg:42.6 -> Marks:28 70 47 57
-Student:512 -> Group:4 -> Group Representative:48 -> Avg:48 -> Marks:68 46 64 51 
-Student:513 -> Group:39 -> Group Representative:27.6 -> Avg:20.4 -> Marks:5 33 8 2
-Student:514 -> Group:31 -> Group Representative:54.8 -> Avg:53.4 -> Marks:45 58 28 50 
-Student:515 -> Group:12 -> Group Representative:35 -> Avg:36.6 -> Marks:10 52 37 64
-Student:516 -> Group:4 -> Group Representative:48 -> Avg:47.4 -> Marks:7 83 55 89
-Student:517 -> Group:1 -> Group Representative:55.8 -> Avg:56.2 -> Marks:85 51 1 96
-Student:518 -> Group:28 -> Group Representative:57.2 -> Avg:57.8 -> Marks:6 83 86 21 
-Student:519 -> Group:39 -> Group Representative:27.6 -> Avg:26.2 -> Marks:16 21 83 11
-Student:520 -> Group:36 -> Group Representative:50.2 -> Avg:50.2 -> Marks:61 43 43 26 
-Student:521 -> Group:43 -> Group Representative:33 -> Avg:33.4 -> Marks:61 55 14 19
-Student:522 -> Group:4 -> Group Representative:48 -> Avg:47.6 -> Marks:16 21 55 54
-Student:523 -> Group:21 -> Group Representative:51 -> Avg:51 -> Marks:25 51 89 16
-Student:524 -> Group:47 -> Group Representative:40 -> Avg:40.4 -> Marks:11 70 1 73
-Student:525 -> Group:32 -> Group Representative:69.8 -> Avg:71 -> Marks:80 91 32 70 
-Student:526 -> Group:32 -> Group Representative:69.8 -> Avg:68.6 -> Marks:57 71 33 100 
-Student:527 -> Group:24 -> Group Representative:59.8 -> Avg:59.4 -> Marks:48 97 64 20
-Student:528 -> Group:28 -> Group Representative:57.2 -> Avg:57 -> Marks:31 47 76 45
-Student:529 -> Group:25 -> Group Representative:45.4 -> Avg:45.6 -> Marks:74 94 4 51
-Student:530 -> Group:4 -> Group Representative:48 -> Avg:47.6 -> Marks:2 26 88 87 
-Student:531 -> Group:4 -> Group Representative:48 -> Avg:47.8 -> Marks:88 32 61 19 
-Student:532 -> Group:2 -> Group Representative:38.6 -> Avg:38.6 -> Marks:6 42 38 76
-Student:533 -> Group:22 -> Group Representative:44.4 -> Avg:44.2 -> Marks:6 95 66 24
-Student:534 -> Group:43 -> Group Representative:33 -> Avg:31.6 -> Marks:20 16 46 3
-Student:535 -> Group:39 -> Group Representative:27.6 -> Avg:22.4 -> Marks:41 21 44 6
-Student:536 -> Group:25 -> Group Representative:45.4 -> Avg:45.6 -> Marks:18 51 90 27 
-Student:537 -> Group:42 -> Group Representative:62.8 -> Avg:63 -> Marks:55 28 71 78 
-Student:538 -> Group:19 -> Group Representative:46.6 -> Avg:46.8 -> Marks:8 21 84 86
-Student:539 -> Group:31 -> Group Representative:54.8 -> Avg:53.8 -> Marks:37 96 25 63
-Student:540 -> Group:38 -> Group Representative:60.4 -> Avg:60.6 -> Marks:0 91 77 44
-Student:541 -> Group:22 -> Group Representative:44.4 -> Avg:44.6 -> Marks:2 60 77 1 
-Student:542 -> Group:42 -> Group Representative:62.8 -> Avg:62.6 -> Marks:92 43 5 90 
-Student:543 -> Group:40 -> Group Representative:66 -> Avg:66.6 -> Marks:20 97 90 35
-Student:544 -> Group:48 -> Group Representative:41.4 -> Avg:41.2 -> Marks:58 0 92 12
-Student:545 -> Group:35 -> Group Representative:49.2 -> Avg:49.2 -> Marks:80 31 17 66
-Student:546 -> Group:32 -> Group Representative:69.8 -> Avg:70.2 -> Marks:83 97 72 44 
-Student:547 -> Group:32 -> Group Representative:69.8 -> Avg:70.2 -> Marks:91 20 94 84
-Student:548 -> Group:22 -> Group Representative:44.4 -> Avg:44.8 -> Marks:16 77 10 56
-Student:549 -> Group:48 -> Group Representative:41.4 -> Avg:40.8 -> Marks:5 78 38 63
-Student:550 -> Group:39 -> Group Representative:27.6 -> Avg:27.8 -> Marks:36 40 6 29
-Student:551 -> Group:39 -> Group Representative:27.6 -> Avg:26.4 -> Marks:17 37 20 25
-Student:552 -> Group:32 -> Group Representative:69.8 -> Avg:68.8 -> Marks:76 46 84 76 
-Student:553 -> Group:27 -> Group Representative:64.8 -> Avg:64.8 -> Marks:49 83 46 56 
-Student:554 -> Group:41 -> Group Representative:45.2 -> Avg:45 -> Marks:72 27 15 70
-Student:555 -> Group:4 -> Group Representative:48 -> Avg:47.8 -> Marks:76 43 6 53
-Student:556 -> Group:32 -> Group Representative:69.8 -> Avg:71 -> Marks:90 46 59 81 
-Student:557 -> Group:31 -> Group Representative:54.8 -> Avg:53.8 -> Marks:8 99 63 43
-Student:558 -> Group:25 -> Group Representative:45.4 -> Avg:45.4 -> Marks:16 97 62 18 
-Student:559 -> Group:36 -> Group Representative:50.2 -> Avg:50 -> Marks:37 11 90 43
-Student:560 -> Group:22 -> Group Representative:44.4 -> Avg:44 -> Marks:47 11 74 63
-Student:561 -> Group:39 -> Group Representative:27.6 -> Avg:26.8 -> Marks:20 4 30 32
-Student:562 -> Group:32 -> Group Representative:69.8 -> Avg:68 -> Marks:7 82 85 66 
-Student:563 -> Group:36 -> Group Representative:50.2 -> Avg:50.2 -> Marks:55 59 56 36
-Student:564 -> Group:7 -> Group Representative:76.6 -> Avg:81 -> Marks:93 55 63 98 
-Student:565 -> Group:18 -> Group Representative:46.2 -> Avg:46 -> Marks:56 37 5 38 
-Student:566 -> Group:41 -> Group Representative:45.2 -> Avg:45.2 -> Marks:35 29 42 43
-Student:567 -> Group:47 -> Group Representative:40 -> Avg:40.6 -> Marks:18 23 59 97
-Student:568 -> Group:30 -> Group Representative:39.4 -> Avg:39.6 -> Marks:6 20 37 88 
-Student:569 -> Group:1 -> Group Representative:55.8 -> Avg:55.8 -> Marks:7 92 43 87 
-Student:570 -> Group:9 -> Group Representative:42.6 -> Avg:43.2 -> Marks:40 23 19 95
-Student:571 -> Group:6 -> Group Representative:64 -> Avg:64.2 -> Marks:86 51 68 77
-Student:572 -> Group:39 -> Group Representative:27.6 -> Avg:29 -> Marks:9 29 61 5
-Student:573 -> Group:7 -> Group Representative:76.6 -> Avg:79.4 -> Marks:90 61 90 87
-Student:574 -> Group:36 -> Group Representative:50.2 -> Avg:50 -> Marks:70 38 18 51
-Student:575 -> Group:17 -> Group Representative:34 -> Avg:33.8 -> Marks:8 10 54 3 
-Student:576 -> Group:4 -> Group Representative:48 -> Avg:48.2 -> Marks:83 49 0 75 
-Student:577 -> Group:41 -> Group Representative:45.2 -> Avg:45 -> Marks:81 63 0 40 
-Student:578 -> Group:7 -> Group Representative:76.6 -> Avg:75.4 -> Marks:17 100 96 98
-Student:579 -> Group:23 -> Group Representative:73.8 -> Avg:74.6 -> Marks:72 87 63 75
-Student:580 -> Group:28 -> Group Representative:57.2 -> Avg:58.4 -> Marks:87 53 64 62 
-Student:581 -> Group:39 -> Group Representative:27.6 -> Avg:26.8 -> Marks:1 10 50 12 
-Student:582 -> Group:14 -> Group Representative:38.2 -> Avg:37.8 -> Marks:41 24 40 49
-Student:583 -> Group:6 -> Group Representative:64 -> Avg:63.4 -> Marks:62 68 65 68
-Student:584 -> Group:41 -> Group Representative:45.2 -> Avg:45.2 -> Marks:87 25 48 65 
-Student:585 -> Group:27 -> Group Representative:64.8 -> Avg:64.4 -> Marks:51 82 43 50 
-Student:586 -> Group:4 -> Group Representative:48 -> Avg:47.4 -> Marks:58 66 85 22
-Student:587 -> Group:40 -> Group Representative:66 -> Avg:66 -> Marks:61 23 97 100
-Student:588 -> Group:8 -> Group Representative:61.4 -> Avg:61 -> Marks:94 84 22 44
-Student:589 -> Group:43 -> Group Representative:33 -> Avg:32.2 -> Marks:33 8 27 25
-Student:590 -> Group:4 -> Group Representative:48 -> Avg:47.4 -> Marks:3 35 87 94
-Student:591 -> Group:12 -> Group Representative:35 -> Avg:36.2 -> Marks:44 36 16 26 
-Student:592 -> Group:6 -> Group Representative:64 -> Avg:64 -> Marks:37 71 88 78
-Student:593 -> Group:4 -> Group Representative:48 -> Avg:47.6 -> Marks:77 56 91 2
-Student:594 -> Group:25 -> Group Representative:45.4 -> Avg:45.6 -> Marks:54 2 31 60 
-Student:595 -> Group:38 -> Group Representative:60.4 -> Avg:60.8 -> Marks:21 32 83 98 
-Student:596 -> Group:1 -> Group Representative:55.8 -> Avg:56.2 -> Marks:62 93 63 62
-Student:597 -> Group:42 -> Group Representative:62.8 -> Avg:63 -> Marks:10 78 65 100
-Student:598 -> Group:19 -> Group Representative:46.6 -> Avg:46.6 -> Marks:80 37 0 63 
-Student:599 -> Group:28 -> Group Representative:57.2 -> Avg:57.8 -> Marks:51 26 43 97 
-Student:600 -> Group:28 -> Group Representative:57.2 -> Avg:57 -> Marks:98 1 39 54
-Student:601 -> Group:28 -> Group Representative:57.2 -> Avg:58.2 -> Marks:74 53 71 40
-Student:602 -> Group:21 -> Group Representative:51 -> Avg:51.2 -> Marks:27 5 93 76 
-Student:603 -> Group:2 -> Group Representative:38.6 -> Avg:38.6 -> Marks:74 21 31 22 
-Student:604 -> Group:32 -> Group Representative:69.8 -> Avg:68.2 -> Marks:38 69 92 68
-Student:605 -> Group:12 -> Group Representative:35 -> Avg:34.6 -> Marks:24 3 38 75
-Student:606 -> Group:32 -> Group Representative:69.8 -> Avg:69.6 -> Marks:62 64 54 82 
-Student:607 -> Group:14 -> Group Representative:38.2 -> Avg:37.4 -> Marks:5 5 34 76 
-Student:608 -> Group:47 -> Group Representative:40 -> Avg:40 -> Marks:22 50 47 27
-Student:609 -> Group:31 -> Group Representative:54.8 -> Avg:54.6 -> Marks:92 92 36 48
-Student:610 -> Group:24 -> Group Representative:59.8 -> Avg:60 -> Marks:45 59 92 62
-Student:611 -> Group:6 -> Group Representative:64 -> Avg:63.6 -> Marks:76 72 58 58 
-Student:612 -> Group:40 -> Group Representative:66 -> Avg:67.6 -> Marks:85 74 98 51 
-Student:613 -> Group:21 -> Group Representative:51 -> Avg:51.8 -> Marks:62 62 52 75
-Student:614 -> Group:2 -> Group Representative:38.6 -> Avg:38.8 -> Marks:58 61 2 73
-Student:615 -> Group:3 -> Group Representative:41.8 -> Avg:42 -> Marks:44 100 17 41 
-Student:616 -> Group:8 -> Group Representative:61.4 -> Avg:61.8 -> Marks:66 61 92 88 
-Student:617 -> Group:11 -> Group Representative:73.2 -> Avg:72.2 -> Marks:50 100 98 69
-Student:618 -> Group:21 -> Group Representative:51 -> Avg:52 -> Marks:56 47 56 4
-Student:619 -> Group:30 -> Group Representative:39.4 -> Avg:39.4 -> Marks:42 23 58 29
-Student:620 -> Group:39 -> Group Representative:27.6 -> Avg:12.4 -> Marks:12 36 11 2 
-Student:621 -> Group:11 -> Group Representative:73.2 -> Avg:73.2 -> Marks:99 96 11 60 
-Student:622 -> Group:35 -> Group Representative:49.2 -> Avg:49.4 -> Marks:44 49 58 72
-Student:623 -> Group:14 -> Group Representative:38.2 -> Avg:37.6 -> Marks:99 48 0 31 
-Student:624 -> Group:8 -> Group Representative:61.4 -> Avg:62 -> Marks:4 70 91 80
-Student:625 -> Group:16 -> Group Representative:49.6 -> Avg:49.8 -> Marks:21 78 14 86
-Student:626 -> Group:32 -> Group Representative:69.8 -> Avg:69.4 -> Marks:74 41 74 67
-Student:627 -> Group:27 -> Group Representative:64.8 -> Avg:65 -> Marks:94 53 96 38
-Student:628 -> Group:39 -> Group Representative:27.6 -> Avg:22.6 -> Marks:28 41 30 10
-Student:629 -> Group:25 -> Group Representative:45.4 -> Avg:45.8 -> Marks:97 7 22 53 
-Student:630 -> Group:40 -> Group Representative:66 -> Avg:66.4 -> Marks:96 70 47 87 
-Student:631 -> Group:48 -> Group Representative:41.4 -> Avg:41.2 -> Marks:61 7 93 6
-Student:632 -> Group:18 -> Group Representative:46.2 -> Avg:46.2 -> Marks:98 25 60 40
-Student:633 -> Group:12 -> Group Representative:35 -> Avg:35.6 -> Marks:9 83 18 43 
-Student:634 -> Group:39 -> Group Representative:27.6 -> Avg:29.4 -> Marks:8 47 75 16 
-Student:635 -> Group:28 -> Group Representative:57.2 -> Avg:58.2 -> Marks:13 86 94 53
-Student:636 -> Group:27 -> Group Representative:64.8 -> Avg:64.4 -> Marks:89 79 33 44
-Student:637 -> Group:20 -> Group Representative:55.2 -> Avg:55.2 -> Marks:9 77 49 98 
-Student:638 -> Group:24 -> Group Representative:59.8 -> Avg:59.2 -> Marks:6 100 51 48 
-Student:639 -> Group:6 -> Group Representative:64 -> Avg:63.6 -> Marks:48 69 88 14
-Student:640 -> Group:14 -> Group Representative:38.2 -> Avg:37.6 -> Marks:2 30 28 41
-Student:641 -> Group:39 -> Group Representative:27.6 -> Avg:28.2 -> Marks:14 3 16 61 
-Student:642 -> Group:21 -> Group Representative:51 -> Avg:51.4 -> Marks:64 91 32 52 
-Student:643 -> Group:4 -> Group Representative:48 -> Avg:48 -> Marks:83 12 75 55
-Student:644 -> Group:12 -> Group Representative:35 -> Avg:35.2 -> Marks:70 22 4 16
-Student:645 -> Group:38 -> Group Representative:60.4 -> Avg:60.6 -> Marks:33 60 29 86 
-Student:646 -> Group:19 -> Group Representative:46.6 -> Avg:46.6 -> Marks:32 68 27 9
-Student:647 -> Group:47 -> Group Representative:40 -> Avg:40.6 -> Marks:81 28 81 11 
-Student:648 -> Group:32 -> Group Representative:69.8 -> Avg:70.8 -> Marks:61 88 58 52
-Student:649 -> Group:15 -> Group Representative:42.4 -> Avg:42.2 -> Marks:91 9 16 72
-Student:650 -> Group:31 -> Group Representative:54.8 -> Avg:54.4 -> Marks:92 21 33 29 
-Student:651 -> Group:40 -> Group Representative:66 -> Avg:66.4 -> Marks:22 80 73 74 
-Student:652 -> Group:1 -> Group Representative:55.8 -> Avg:55.6 -> Marks:49 36 82 41
-Student:653 -> Group:27 -> Group Representative:64.8 -> Avg:64.6 -> Marks:34 94 37 71 
-Student:654 -> Group:4 -> Group Representative:48 -> Avg:48.6 -> Marks:30 11 75 27
-Student:655 -> Group:27 -> Group Representative:64.8 -> Avg:64.4 -> Marks:0 78 88 99 
-Student:656 -> Group:43 -> Group Representative:33 -> Avg:33.4 -> Marks:0 64 23 78 
-Student:657 -> Group:32 -> Group Representative:69.8 -> Avg:69.2 -> Marks:98 82 45 54
-Student:658 -> Group:24 -> Group Representative:59.8 -> Avg:59.2 -> Marks:88 77 86 33
-Student:659 -> Group:21 -> Group Representative:51 -> Avg:52.6 -> Marks:71 67 19 81
-Student:660 -> Group:12 -> Group Representative:35 -> Avg:35 -> Marks:16 6 40 30 
-Student:661 -> Group:6 -> Group Representative:64 -> Avg:64 -> Marks:81 79 36 88 
-Student:662 -> Group:15 -> Group Representative:42.4 -> Avg:42.4 -> Marks:3 72 25 65
-Student:663 -> Group:4 -> Group Representative:48 -> Avg:48.4 -> Marks:8 99 52 18
-Student:664 -> Group:31 -> Group Representative:54.8 -> Avg:54.2 -> Marks:14 77 82 16 
-Student:665 -> Group:28 -> Group Representative:57.2 -> Avg:56.6 -> Marks:66 99 21 23 
-Student:666 -> Group:31 -> Group Representative:54.8 -> Avg:53.6 -> Marks:67 10 30 83
-Student:667 -> Group:40 -> Group Representative:66 -> Avg:66 -> Marks:74 68 88 20
-Student:668 -> Group:40 -> Group Representative:66 -> Avg:66 -> Marks:77 55 90 35
-Student:669 -> Group:27 -> Group Representative:64.8 -> Avg:64.4 -> Marks:76 59 28 60 
-Student:670 -> Group:14 -> Group Representative:38.2 -> Avg:38.2 -> Marks:8 72 10 74 
-Student:671 -> Group:39 -> Group Representative:27.6 -> Avg:27.2 -> Marks:66 1 23 8
-Student:672 -> Group:32 -> Group Representative:69.8 -> Avg:68.4 -> Marks:57 87 73 70
-Student:673 -> Group:11 -> Group Representative:73.2 -> Avg:73 -> Marks:74 93 69 38
-Student:674 -> Group:42 -> Group Representative:62.8 -> Avg:63.2 -> Marks:87 37 92 21 
-Student:675 -> Group:8 -> Group Representative:61.4 -> Avg:61.4 -> Marks:77 65 80 17 
-Student:676 -> Group:19 -> Group Representative:46.6 -> Avg:47.2 -> Marks:2 45 83 99
-Student:677 -> Group:24 -> Group Representative:59.8 -> Avg:59.4 -> Marks:19 77 47 70 
-Student:678 -> Group:18 -> Group Representative:46.2 -> Avg:46.2 -> Marks:76 93 11 38
-Student:679 -> Group:23 -> Group Representative:73.8 -> Avg:73.8 -> Marks:75 94 95 71
-Student:680 -> Group:48 -> Group Representative:41.4 -> Avg:41 -> Marks:27 57 7 92 
-Student:681 -> Group:22 -> Group Representative:44.4 -> Avg:44.2 -> Marks:84 8 52 67 
-Student:682 -> Group:14 -> Group Representative:38.2 -> Avg:38.2 -> Marks:5 36 3 72
-Student:683 -> Group:30 -> Group Representative:39.4 -> Avg:39.2 -> Marks:26 7 40 51
-Student:684 -> Group:17 -> Group Representative:34 -> Avg:34 -> Marks:32 8 28 47 
-Student:685 -> Group:40 -> Group Representative:66 -> Avg:65.8 -> Marks:12 95 40 96
-Student:686 -> Group:25 -> Group Representative:45.4 -> Avg:45.4 -> Marks:37 0 82 45
-Student:687 -> Group:4 -> Group Representative:48 -> Avg:48.4 -> Marks:42 40 91 18 
-Student:688 -> Group:25 -> Group Representative:45.4 -> Avg:45.8 -> Marks:82 35 28 68
-Student:689 -> Group:19 -> Group Representative:46.6 -> Avg:46.6 -> Marks:25 62 48 59 
-Student:690 -> Group:8 -> Group Representative:61.4 -> Avg:61 -> Marks:74 58 67 88 
-Student:691 -> Group:43 -> Group Representative:33 -> Avg:31.8 -> Marks:9 14 5 34
-Student:692 -> Group:25 -> Group Representative:45.4 -> Avg:45.4 -> Marks:34 47 47 26
-Student:693 -> Group:43 -> Group Representative:33 -> Avg:33.4 -> Marks:74 11 21 45
-Student:694 -> Group:9 -> Group Representative:42.6 -> Avg:43 -> Marks:64 93 27 2 
-Student:695 -> Group:36 -> Group Representative:50.2 -> Avg:50.2 -> Marks:34 14 55 94 
-Student:696 -> Group:8 -> Group Representative:61.4 -> Avg:61.6 -> Marks:45 72 41 80
-Student:697 -> Group:36 -> Group Representative:50.2 -> Avg:50 -> Marks:26 45 95 55
-Student:698 -> Group:33 -> Group Representative:46.4 -> Avg:46.4 -> Marks:44 24 55 34
-Student:699 -> Group:2 -> Group Representative:38.6 -> Avg:38.6 -> Marks:17 44 17 36 
-Student:700 -> Group:43 -> Group Representative:33 -> Avg:31.6 -> Marks:1 51 44 16 
-Student:701 -> Group:35 -> Group Representative:49.2 -> Avg:48.8 -> Marks:8 99 8 47 
-Student:702 -> Group:22 -> Group Representative:44.4 -> Avg:44 -> Marks:22 43 65 10
-Student:703 -> Group:24 -> Group Representative:59.8 -> Avg:59 -> Marks:2 31 99 80
-Student:704 -> Group:38 -> Group Representative:60.4 -> Avg:60.2 -> Marks:38 64 26 91
-Student:705 -> Group:31 -> Group Representative:54.8 -> Avg:54.8 -> Marks:31 50 79 48 
-Student:706 -> Group:40 -> Group Representative:66 -> Avg:66 -> Marks:71 20 80 85 
-Student:707 -> Group:7 -> Group Representative:76.6 -> Avg:89.6 -> Marks:91 94 97 85
-Student:708 -> Group:11 -> Group Representative:73.2 -> Avg:72 -> Marks:69 95 57 40
-Student:709 -> Group:1 -> Group Representative:55.8 -> Avg:56.4 -> Marks:95 58 50 0
-Student:710 -> Group:1 -> Group Representative:55.8 -> Avg:56.2 -> Marks:81 26 70 49
-Student:711 -> Group:28 -> Group Representative:57.2 -> Avg:57.6 -> Marks:36 86 78 76 
-Student:712 -> Group:14 -> Group Representative:38.2 -> Avg:37.6 -> Marks:22 78 1 33 
-Student:713 -> Group:16 -> Group Representative:49.6 -> Avg:49.8 -> Marks:89 84 4 50
-Student:714 -> Group:18 -> Group Representative:46.2 -> Avg:46.2 -> Marks:40 15 67 87
-Student:715 -> Group:12 -> Group Representative:35 -> Avg:35 -> Marks:6 26 70 21 
-Student:716 -> Group:21 -> Group Representative:51 -> Avg:52.2 -> Marks:74 57 22 100
-Student:717 -> Group:32 -> Group Representative:69.8 -> Avg:69.6 -> Marks:93 92 92 42 
-Student:718 -> Group:19 -> Group Representative:46.6 -> Avg:47 -> Marks:29 86 15 27
-Student:719 -> Group:31 -> Group Representative:54.8 -> Avg:53.4 -> Marks:73 74 40 48
-Student:720 -> Group:39 -> Group Representative:27.6 -> Avg:18 -> Marks:24 13 39 9
-Student:721 -> Group:36 -> Group Representative:50.2 -> Avg:50 -> Marks:16 89 75 10 
-Student:722 -> Group:48 -> Group Representative:41.4 -> Avg:41 -> Marks:41 82 28 4 
-Student:723 -> Group:22 -> Group Representative:44.4 -> Avg:43.8 -> Marks:27 38 50 26 
-Student:724 -> Group:40 -> Group Representative:66 -> Avg:67.8 -> Marks:60 97 86 92
-Student:725 -> Group:39 -> Group Representative:27.6 -> Avg:27.6 -> Marks:0 17 45 7
-Student:726 -> Group:23 -> Group Representative:73.8 -> Avg:73.6 -> Marks:57 70 78 66
-Student:727 -> Group:21 -> Group Representative:51 -> Avg:51.6 -> Marks:90 40 74 42 
-Student:728 -> Group:15 -> Group Representative:42.4 -> Avg:42.4 -> Marks:38 36 36 61 
-Student:729 -> Group:42 -> Group Representative:62.8 -> Avg:62.8 -> Marks:83 100 36 71 
-Student:730 -> Group:11 -> Group Representative:73.2 -> Avg:73.4 -> Marks:96 44 54 76
-Student:731 -> Group:12 -> Group Representative:35 -> Avg:36.4 -> Marks:4 19 88 29 
-Student:732 -> Group:21 -> Group Representative:51 -> Avg:52.4 -> Marks:60 47 59 96
-Student:733 -> Group:7 -> Group Representative:76.6 -> Avg:83 -> Marks:66 93 90 87
-Student:734 -> Group:41 -> Group Representative:45.2 -> Avg:45.2 -> Marks:69 44 12 51 
-Student:735 -> Group:7 -> Group Representative:76.6 -> Avg:75.4 -> Marks:81 40 91 77
-Student:736 -> Group:32 -> Group Representative:69.8 -> Avg:68.8 -> Marks:74 43 93 61
-Student:737 -> Group:9 -> Group Representative:42.6 -> Avg:43.2 -> Marks:6 29 80 88
-Student:738 -> Group:9 -> Group Representative:42.6 -> Avg:43 -> Marks:34 32 67 77 
-Student:739 -> Group:1 -> Group Representative:55.8 -> Avg:56 -> Marks:55 64 50 11 
-Student:740 -> Group:17 -> Group Representative:34 -> Avg:33.8 -> Marks:95 3 28 42
-Student:741 -> Group:12 -> Group Representative:35 -> Avg:36.4 -> Marks:47 6 12 100
-Student:742 -> Group:21 -> Group Representative:51 -> Avg:52 -> Marks:31 69 53 37
-Student:743 -> Group:31 -> Group Representative:54.8 -> Avg:53.8 -> Marks:27 69 54 77
-Student:744 -> Group:1 -> Group Representative:55.8 -> Avg:55.6 -> Marks:80 96 16 58 
-Student:745 -> Group:24 -> Group Representative:59.8 -> Avg:60 -> Marks:58 4 78 83
-Student:746 -> Group:9 -> Group Representative:42.6 -> Avg:42.8 -> Marks:65 56 6 64
-Student:747 -> Group:5 -> Group Representative:41.6 -> Avg:41.6 -> Marks:37 1 17 67 
-Student:748 -> Group:1 -> Group Representative:55.8 -> Avg:56 -> Marks:84 91 31 4
-Student:749 -> Group:6 -> Group Representative:64 -> Avg:63.8 -> Marks:62 95 33 42 
-Student:750 -> Group:15 -> Group Representative:42.4 -> Avg:42.2 -> Marks:10 95 4 33
-Student:751 -> Group:24 -> Group Representative:59.8 -> Avg:59.2 -> Marks:92 31 77 81
-Student:752 -> Group:17 -> Group Representative:34 -> Avg:34.4 -> Marks:22 8 29 45 
-Student:753 -> Group:21 -> Group Representative:51 -> Avg:52 -> Marks:78 73 9 67 
-Student:754 -> Group:22 -> Group Representative:44.4 -> Avg:44 -> Marks:84 47 51 38
-Student:755 -> Group:21 -> Group Representative:51 -> Avg:51.8 -> Marks:75 14 76 38
-Student:756 -> Group:42 -> Group Representative:62.8 -> Avg:63 -> Marks:83 98 83 11
-Student:757 -> Group:40 -> Group Representative:66 -> Avg:67 -> Marks:69 79 82 57 
-Student:758 -> Group:39 -> Group Representative:27.6 -> Avg:22.4 -> Marks:15 1 6 45 
-Student:759 -> Group:19 -> Group Representative:46.6 -> Avg:46.8 -> Marks:66 28 60 41
-Student:760 -> Group:12 -> Group Representative:35 -> Avg:34.6 -> Marks:44 44 65 17
-Student:761 -> Group:40 -> Group Representative:66 -> Avg:65.8 -> Marks:91 80 10 86
-Student:762 -> Group:1 -> Group Representative:55.8 -> Avg:56.2 -> Marks:24 48 74 39 
-Student:763 -> Group:21 -> Group Representative:51 -> Avg:52.8 -> Marks:3 64 87 14 
-Student:764 -> Group:19 -> Group Representative:46.6 -> Avg:46.6 -> Marks:89 55 36 39
-Student:765 -> Group:19 -> Group Representative:46.6 -> Avg:47.2 -> Marks:64 5 52 59
-Student:766 -> Group:21 -> Group Representative:51 -> Avg:51 -> Marks:21 54 80 18 
-Student:767 -> Group:36 -> Group Representative:50.2 -> Avg:50.4 -> Marks:49 50 73 39
-Student:768 -> Group:39 -> Group Representative:27.6 -> Avg:22.8 -> Marks:24 7 30 8 
-Student:769 -> Group:43 -> Group Representative:33 -> Avg:33.4 -> Marks:89 7 7 6 
-Student:770 -> Group:41 -> Group Representative:45.2 -> Avg:45 -> Marks:21 44 47 27
-Student:771 -> Group:39 -> Group Representative:27.6 -> Avg:28.2 -> Marks:9 20 93 10
-Student:772 -> Group:27 -> Group Representative:64.8 -> Avg:64.6 -> Marks:91 50 37 97
-Student:773 -> Group:21 -> Group Representative:51 -> Avg:51 -> Marks:36 71 15 33 
-Student:774 -> Group:47 -> Group Representative:40 -> Avg:39.8 -> Marks:94 3 13 21 
-Student:775 -> Group:25 -> Group Representative:45.4 -> Avg:45.4 -> Marks:68 30 13 34
-Student:776 -> Group:23 -> Group Representative:73.8 -> Avg:74.4 -> Marks:98 92 87 42
-Student:777 -> Group:12 -> Group Representative:35 -> Avg:36 -> Marks:20 22 34 55
-Student:778 -> Group:12 -> Group Representative:35 -> Avg:35.6 -> Marks:27 21 3 29 
-Student:779 -> Group:4 -> Group Representative:48 -> Avg:47.8 -> Marks:34 92 34 63 
-Student:780 -> Group:6 -> Group Representative:64 -> Avg:64 -> Marks:56 54 89 91
-Student:781 -> Group:28 -> Group Representative:57.2 -> Avg:58.2 -> Marks:75 71 29 98
-Student:782 -> Group:16 -> Group Representative:49.6 -> Avg:49.6 -> Marks:50 57 36 33
-Student:783 -> Group:17 -> Group Representative:34 -> Avg:33.8 -> Marks:52 21 59 4 
-Student:784 -> Group:3 -> Group Representative:41.8 -> Avg:41.8 -> Marks:62 32 61 43 
-Student:785 -> Group:28 -> Group Representative:57.2 -> Avg:58 -> Marks:49 58 83 79
-Student:786 -> Group:47 -> Group Representative:40 -> Avg:40.6 -> Marks:0 42 86 35
-Student:787 -> Group:48 -> Group Representative:41.4 -> Avg:41.4 -> Marks:74 68 7 13 
-Student:788 -> Group:21 -> Group Representative:51 -> Avg:51 -> Marks:62 56 92 42
-Student:789 -> Group:14 -> Group Representative:38.2 -> Avg:37.6 -> Marks:32 80 49 13 
-Student:790 -> Group:20 -> Group Representative:55.2 -> Avg:55.2 -> Marks:37 34 79 31
-Student:791 -> Group:8 -> Group Representative:61.4 -> Avg:61.8 -> Marks:78 89 68 74
-Student:792 -> Group:16 -> Group Representative:49.6 -> Avg:49.8 -> Marks:90 62 43 32 
-Student:793 -> Group:48 -> Group Representative:41.4 -> Avg:40.8 -> Marks:68 10 52 72
-Student:794 -> Group:43 -> Group Representative:33 -> Avg:33 -> Marks:48 11 45 57 
-Student:795 -> Group:47 -> Group Representative:40 -> Avg:40.4 -> Marks:40 36 3 34 
-Student:796 -> Group:36 -> Group Representative:50.2 -> Avg:50 -> Marks:38 96 10 61
-Student:797 -> Group:48 -> Group Representative:41.4 -> Avg:41.4 -> Marks:29 6 15 88
-Student:798 -> Group:7 -> Group Representative:76.6 -> Avg:78.4 -> Marks:60 100 90 49
-Student:799 -> Group:40 -> Group Representative:66 -> Avg:67.8 -> Marks:83 40 64 90 
-Student:800 -> Group:23 -> Group Representative:73.8 -> Avg:74.6 -> Marks:29 98 62 84 
-Student:801 -> Group:43 -> Group Representative:33 -> Avg:33 -> Marks:58 28 56 11
-Student:802 -> Group:39 -> Group Representative:27.6 -> Avg:29.4 -> Marks:9 10 38 1
-Student:803 -> Group:19 -> Group Representative:46.6 -> Avg:46.8 -> Marks:48 69 0 52
-Student:804 -> Group:9 -> Group Representative:42.6 -> Avg:43 -> Marks:64 51 60 0 
-Student:805 -> Group:1 -> Group Representative:55.8 -> Avg:56 -> Marks:76 71 94 7 
-Student:806 -> Group:6 -> Group Representative:64 -> Avg:64.2 -> Marks:58 49 96 92 
-Student:807 -> Group:43 -> Group Representative:33 -> Avg:31.8 -> Marks:10 28 7 28
-Student:808 -> Group:48 -> Group Representative:41.4 -> Avg:41.4 -> Marks:6 27 92 19
-Student:809 -> Group:4 -> Group Representative:48 -> Avg:48 -> Marks:56 78 25 40
-Student:810 -> Group:22 -> Group Representative:44.4 -> Avg:44.6 -> Marks:58 25 23 70 
-Student:811 -> Group:39 -> Group Representative:27.6 -> Avg:7.6 -> Marks:18 0 3 7 
-Student:812 -> Group:21 -> Group Representative:51 -> Avg:51.6 -> Marks:96 14 65 57
-Student:813 -> Group:27 -> Group Representative:64.8 -> Avg:64.8 -> Marks:91 90 40 80
-Student:814 -> Group:28 -> Group Representative:57.2 -> Avg:56.8 -> Marks:57 51 77 28 
-Student:815 -> Group:14 -> Group Representative:38.2 -> Avg:37.4 -> Marks:46 49 11 17
-Student:816 -> Group:2 -> Group Representative:38.6 -> Avg:38.6 -> Marks:17 10 99 52 
-Student:817 -> Group:14 -> Group Representative:38.2 -> Avg:37.6 -> Marks:50 14 83 29
-Student:818 -> Group:31 -> Group Representative:54.8 -> Avg:53 -> Marks:74 28 22 91
-Student:819 -> Group:1 -> Group Representative:55.8 -> Avg:56 -> Marks:25 71 50 39
-Student:820 -> Group:40 -> Group Representative:66 -> Avg:66 -> Marks:97 39 55 86 
-Student:821 -> Group:14 -> Group Representative:38.2 -> Avg:38.4 -> Marks:11 5 72 97 
-Student:822 -> Group:39 -> Group Representative:27.6 -> Avg:23.6 -> Marks:16 13 18 45 
-Student:823 -> Group:18 -> Group Representative:46.2 -> Avg:46.2 -> Marks:64 71 75 20
-Student:824 -> Group:28 -> Group Representative:57.2 -> Avg:56.8 -> Marks:66 92 28 55
-Student:825 -> Group:39 -> Group Representative:27.6 -> Avg:29.8 -> Marks:41 37 0 37 
-Student:826 -> Group:21 -> Group Representative:51 -> Avg:51.8 -> Marks:97 16 21 89
-Student:827 -> Group:28 -> Group Representative:57.2 -> Avg:57.8 -> Marks:74 31 85 35 
-Student:828 -> Group:8 -> Group Representative:61.4 -> Avg:62 -> Marks:26 9 87 92 
-Student:829 -> Group:25 -> Group Representative:45.4 -> Avg:45.8 -> Marks:63 21 53 36
-Student:830 -> Group:24 -> Group Representative:59.8 -> Avg:59.4 -> Marks:74 8 66 91
-Student:831 -> Group:24 -> Group Representative:59.8 -> Avg:58.8 -> Marks:91 57 18 84
-Student:832 -> Group:42 -> Group Representative:62.8 -> Avg:63.2 -> Marks:59 24 65 77 
-Student:833 -> Group:48 -> Group Representative:41.4 -> Avg:40.8 -> Marks:44 44 11 33 
-Student:834 -> Group:6 -> Group Representative:64 -> Avg:63.4 -> Marks:91 53 18 55
-Student:835 -> Group:33 -> Group Representative:46.4 -> Avg:46.4 -> Marks:0 4 85 55
-Student:836 -> Group:18 -> Group Representative:46.2 -> Avg:46.2 -> Marks:35 45 39 62 
-Student:837 -> Group:21 -> Group Representative:51 -> Avg:52 -> Marks:40 71 92 26
-Student:838 -> Group:46 -> Group Representative:55 -> Avg:55 -> Marks:17 83 79 82
-Student:839 -> Group:22 -> Group Representative:44.4 -> Avg:43.8 -> Marks:24 31 67 78
-Student:840 -> Group:21 -> Group Representative:51 -> Avg:52.2 -> Marks:83 22 40 69 
-Student:841 -> Group:32 -> Group Representative:69.8 -> Avg:69.6 -> Marks:37 83 64 95 
-Student:842 -> Group:40 -> Group Representative:66 -> Avg:67 -> Marks:33 79 55 83
-Student:843 -> Group:19 -> Group Representative:46.6 -> Avg:46.8 -> Marks:59 81 5 82 
-Student:844 -> Group:1 -> Group Representative:55.8 -> Avg:56 -> Marks:91 1 66 95
-Student:845 -> Group:40 -> Group Representative:66 -> Avg:65.8 -> Marks:93 79 37 74
-Student:846 -> Group:20 -> Group Representative:55.2 -> Avg:55.2 -> Marks:86 56 98 16 
-Student:847 -> Group:30 -> Group Representative:39.4 -> Avg:39.4 -> Marks:48 30 8 80 
-Student:848 -> Group:32 -> Group Representative:69.8 -> Avg:69.2 -> Marks:59 96 77 44
-Student:849 -> Group:33 -> Group Representative:46.4 -> Avg:46.4 -> Marks:5 3 62 63
-Student:850 -> Group:1 -> Group Representative:55.8 -> Avg:56 -> Marks:74 2 93 79
-Student:851 -> Group:15 -> Group Representative:42.4 -> Avg:42.4 -> Marks:57 44 56 44 
-Student:852 -> Group:24 -> Group Representative:59.8 -> Avg:59.4 -> Marks:27 84 86 92 
-Student:853 -> Group:24 -> Group Representative:59.8 -> Avg:60 -> Marks:44 59 71 80
-Student:854 -> Group:31 -> Group Representative:54.8 -> Avg:53.8 -> Marks:23 90 85 62
-Student:855 -> Group:33 -> Group Representative:46.4 -> Avg:46.4 -> Marks:89 35 22 82
-Student:856 -> Group:48 -> Group Representative:41.4 -> Avg:41.4 -> Marks:39 72 8 76 
-Student:857 -> Group:39 -> Group Representative:27.6 -> Avg:28.2 -> Marks:14 5 41 38 
-Student:858 -> Group:28 -> Group Representative:57.2 -> Avg:57.2 -> Marks:3 75 73 95 
-Student:859 -> Group:12 -> Group Representative:35 -> Avg:36.4 -> Marks:35 1 16 65
-Student:860 -> Group:31 -> Group Representative:54.8 -> Avg:54.2 -> Marks:54 43 75 38
-Student:861 -> Group:40 -> Group Representative:66 -> Avg:65.6 -> Marks:77 81 34 79
-Student:862 -> Group:39 -> Group Representative:27.6 -> Avg:29.8 -> Marks:18 13 24 52 
-Student:863 -> Group:21 -> Group Representative:51 -> Avg:51.8 -> Marks:52 87 29 48 
-Student:864 -> Group:1 -> Group Representative:55.8 -> Avg:56.2 -> Marks:90 25 62 45 
-Student:865 -> Group:48 -> Group Representative:41.4 -> Avg:41.2 -> Marks:9 27 17 61
-Student:866 -> Group:19 -> Group Representative:46.6 -> Avg:46.8 -> Marks:84 74 2 35
-Student:867 -> Group:39 -> Group Representative:27.6 -> Avg:29.2 -> Marks:57 14 8 18 
-Student:868 -> Group:27 -> Group Representative:64.8 -> Avg:64.4 -> Marks:49 90 69 85
-Student:869 -> Group:36 -> Group Representative:50.2 -> Avg:50.4 -> Marks:30 8 80 90 
-Student:870 -> Group:40 -> Group Representative:66 -> Avg:67.2 -> Marks:65 84 60 99
-Student:871 -> Group:40 -> Group Representative:66 -> Avg:66 -> Marks:84 50 15 84
-Student:872 -> Group:17 -> Group Representative:34 -> Avg:34 -> Marks:10 9 29 88
-Student:873 -> Group:19 -> Group Representative:46.6 -> Avg:47.2 -> Marks:56 95 7 28 
-Student:874 -> Group:47 -> Group Representative:40 -> Avg:40.2 -> Marks:88 48 1 26 
-Student:875 -> Group:8 -> Group Representative:61.4 -> Avg:62 -> Marks:80 76 5 69
-Student:876 -> Group:20 -> Group Representative:55.2 -> Avg:55.2 -> Marks:42 21 93 53
-Student:877 -> Group:21 -> Group Representative:51 -> Avg:52.2 -> Marks:65 23 59 45 
-Student:878 -> Group:1 -> Group Representative:55.8 -> Avg:55.8 -> Marks:5 56 72 70
-Student:879 -> Group:12 -> Group Representative:35 -> Avg:35.4 -> Marks:43 39 13 5
-Student:880 -> Group:25 -> Group Representative:45.4 -> Avg:45.4 -> Marks:55 41 34 5 
-Student:881 -> Group:47 -> Group Representative:40 -> Avg:40.2 -> Marks:76 13 1 15
-Student:882 -> Group:31 -> Group Representative:54.8 -> Avg:54.2 -> Marks:76 17 69 67
-Student:883 -> Group:35 -> Group Representative:49.2 -> Avg:49.4 -> Marks:76 98 4 18
-Student:884 -> Group:4 -> Group Representative:48 -> Avg:48.6 -> Marks:91 41 89 13 
-Student:885 -> Group:19 -> Group Representative:46.6 -> Avg:46.6 -> Marks:82 54 23 7 
-Student:886 -> Group:9 -> Group Representative:42.6 -> Avg:43 -> Marks:56 17 86 15
-Student:887 -> Group:1 -> Group Representative:55.8 -> Avg:56.4 -> Marks:99 69 15 69 
-Student:888 -> Group:6 -> Group Representative:64 -> Avg:63.6 -> Marks:95 87 60 4
-Student:889 -> Group:32 -> Group Representative:69.8 -> Avg:69.2 -> Marks:99 20 61 77
-Student:890 -> Group:31 -> Group Representative:54.8 -> Avg:54.2 -> Marks:50 34 80 18 
-Student:891 -> Group:40 -> Group Representative:66 -> Avg:65.4 -> Marks:46 38 73 86 
-Student:892 -> Group:6 -> Group Representative:64 -> Avg:63.6 -> Marks:23 66 96 79
-Student:893 -> Group:7 -> Group Representative:76.6 -> Avg:80.8 -> Marks:84 70 95 60
-Student:894 -> Group:6 -> Group Representative:64 -> Avg:64.2 -> Marks:85 5 72 66
-Student:895 -> Group:31 -> Group Representative:54.8 -> Avg:53.8 -> Marks:15 60 66 55 
-Student:896 -> Group:7 -> Group Representative:76.6 -> Avg:78 -> Marks:75 83 62 70 
-Student:897 -> Group:9 -> Group Representative:42.6 -> Avg:42.6 -> Marks:56 33 22 76
-Student:898 -> Group:24 -> Group Representative:59.8 -> Avg:60 -> Marks:30 57 60 85
-Student:899 -> Group:39 -> Group Representative:27.6 -> Avg:29.6 -> Marks:66 34 7 20 
-Student:900 -> Group:25 -> Group Representative:45.4 -> Avg:45.8 -> Marks:52 62 67 14
-Student:901 -> Group:28 -> Group Representative:57.2 -> Avg:58.4 -> Marks:45 9 68 99 
-Student:902 -> Group:12 -> Group Representative:35 -> Avg:35.2 -> Marks:14 67 13 29 
-Student:903 -> Group:32 -> Group Representative:69.8 -> Avg:71.2 -> Marks:49 94 53 81
-Student:904 -> Group:39 -> Group Representative:27.6 -> Avg:28.4 -> Marks:5 51 27 49
-Student:905 -> Group:31 -> Group Representative:54.8 -> Avg:53.6 -> Marks:57 85 75 25
-Student:906 -> Group:39 -> Group Representative:27.6 -> Avg:28.8 -> Marks:13 6 35 38 
-Student:907 -> Group:21 -> Group Representative:51 -> Avg:51.6 -> Marks:0 21 99 54 
-Student:908 -> Group:39 -> Group Representative:27.6 -> Avg:24.2 -> Marks:21 19 0 27
-Student:909 -> Group:31 -> Group Representative:54.8 -> Avg:53.4 -> Marks:21 26 96 74
-Student:910 -> Group:7 -> Group Representative:76.6 -> Avg:77.8 -> Marks:75 93 96 71
-Student:911 -> Group:28 -> Group Representative:57.2 -> Avg:57.8 -> Marks:97 86 28 4 
-Student:912 -> Group:25 -> Group Representative:45.4 -> Avg:45.4 -> Marks:26 71 67 27 
-Student:913 -> Group:17 -> Group Representative:34 -> Avg:34.2 -> Marks:57 21 57 14 
-Student:914 -> Group:40 -> Group Representative:66 -> Avg:65.4 -> Marks:79 75 33 55 
-Student:915 -> Group:23 -> Group Representative:73.8 -> Avg:74.2 -> Marks:59 90 86 53
-Student:916 -> Group:31 -> Group Representative:54.8 -> Avg:53 -> Marks:23 74 48 50
-Student:917 -> Group:40 -> Group Representative:66 -> Avg:65.8 -> Marks:100 53 56 47
-Student:918 -> Group:17 -> Group Representative:34 -> Avg:33.8 -> Marks:57 53 17 22 
-Student:919 -> Group:10 -> Group Representative:50.8 -> Avg:50.6 -> Marks:64 16 65 29
-Student:920 -> Group:42 -> Group Representative:62.8 -> Avg:63.2 -> Marks:94 47 30 81 
-Student:921 -> Group:4 -> Group Representative:48 -> Avg:47.8 -> Marks:68 41 39 48
-Student:922 -> Group:21 -> Group Representative:51 -> Avg:51 -> Marks:98 53 6 93
-Student:923 -> Group:30 -> Group Representative:39.4 -> Avg:39.2 -> Marks:19 34 100 17 
-Student:924 -> Group:22 -> Group Representative:44.4 -> Avg:44 -> Marks:15 52 18 84
-Student:925 -> Group:11 -> Group Representative:73.2 -> Avg:71.8 -> Marks:83 48 53 95 
-Student:926 -> Group:47 -> Group Representative:40 -> Avg:40.4 -> Marks:3 65 33 9
-Student:927 -> Group:20 -> Group Representative:55.2 -> Avg:55.4 -> Marks:22 100 16 59
-Student:928 -> Group:17 -> Group Representative:34 -> Avg:33.8 -> Marks:0 49 49 27
-Student:929 -> Group:39 -> Group Representative:27.6 -> Avg:29.8 -> Marks:17 96 6 6 
-Student:930 -> Group:15 -> Group Representative:42.4 -> Avg:42.4 -> Marks:65 57 46 22 
-Student:931 -> Group:39 -> Group Representative:27.6 -> Avg:25.8 -> Marks:21 1 17 21
-Student:932 -> Group:21 -> Group Representative:51 -> Avg:51.6 -> Marks:39 22 85 58
-Student:933 -> Group:1 -> Group Representative:55.8 -> Avg:56.2 -> Marks:71 27 30 78
-Student:934 -> Group:21 -> Group Representative:51 -> Avg:51.4 -> Marks:30 74 59 50 
-Student:935 -> Group:40 -> Group Representative:66 -> Avg:67.8 -> Marks:43 95 88 84 
-Student:936 -> Group:25 -> Group Representative:45.4 -> Avg:45.4 -> Marks:33 51 4 53
-Student:937 -> Group:14 -> Group Representative:38.2 -> Avg:37.8 -> Marks:29 28 30 2
-Student:938 -> Group:39 -> Group Representative:27.6 -> Avg:24.8 -> Marks:20 11 55 35 
-Student:939 -> Group:8 -> Group Representative:61.4 -> Avg:61.6 -> Marks:51 11 93 80 
-Student:940 -> Group:12 -> Group Representative:35 -> Avg:35.2 -> Marks:67 29 4 73
-Student:941 -> Group:11 -> Group Representative:73.2 -> Avg:72.8 -> Marks:74 32 95 63
-Student:942 -> Group:1 -> Group Representative:55.8 -> Avg:56.2 -> Marks:92 87 26 6
-Student:943 -> Group:19 -> Group Representative:46.6 -> Avg:46.6 -> Marks:13 84 47 76 
-Student:944 -> Group:21 -> Group Representative:51 -> Avg:51.2 -> Marks:69 66 29 1
-Student:945 -> Group:9 -> Group Representative:42.6 -> Avg:43.2 -> Marks:24 75 19 33
-Student:946 -> Group:18 -> Group Representative:46.2 -> Avg:46.2 -> Marks:74 46 42 38 
-Student:947 -> Group:48 -> Group Representative:41.4 -> Avg:41.2 -> Marks:19 27 51 53
-Student:948 -> Group:22 -> Group Representative:44.4 -> Avg:44.6 -> Marks:45 5 44 59 
-Student:949 -> Group:14 -> Group Representative:38.2 -> Avg:37.6 -> Marks:65 76 6 39
-Student:950 -> Group:6 -> Group Representative:64 -> Avg:63.4 -> Marks:42 99 85 44
-Student:951 -> Group:31 -> Group Representative:54.8 -> Avg:53.2 -> Marks:79 1 61 91
-Student:952 -> Group:17 -> Group Representative:34 -> Avg:33.8 -> Marks:2 78 11 67 
-Student:953 -> Group:11 -> Group Representative:73.2 -> Avg:72.6 -> Marks:60 92 25 92 
-Student:954 -> Group:27 -> Group Representative:64.8 -> Avg:65.2 -> Marks:88 29 41 87
-Student:955 -> Group:30 -> Group Representative:39.4 -> Avg:39.2 -> Marks:52 60 22 27 
-Student:956 -> Group:21 -> Group Representative:51 -> Avg:52.8 -> Marks:42 55 83 38
-Student:957 -> Group:27 -> Group Representative:64.8 -> Avg:65.2 -> Marks:71 19 96 77
-Student:958 -> Group:2 -> Group Representative:38.6 -> Avg:38.8 -> Marks:82 20 41 46 
-Student:959 -> Group:40 -> Group Representative:66 -> Avg:66.2 -> Marks:82 90 79 40 
-Student:960 -> Group:6 -> Group Representative:64 -> Avg:63.6 -> Marks:43 47 48 95
-Student:961 -> Group:21 -> Group Representative:51 -> Avg:52 -> Marks:36 44 81 30
-Student:962 -> Group:21 -> Group Representative:51 -> Avg:51.6 -> Marks:58 48 13 60
-Student:963 -> Group:9 -> Group Representative:42.6 -> Avg:42.8 -> Marks:9 33 15 74 
-Student:964 -> Group:21 -> Group Representative:51 -> Avg:52.6 -> Marks:53 45 56 26 
-Student:965 -> Group:28 -> Group Representative:57.2 -> Avg:58.4 -> Marks:91 17 68 35
-Student:966 -> Group:21 -> Group Representative:51 -> Avg:52.2 -> Marks:29 25 81 64
-Student:967 -> Group:2 -> Group Representative:38.6 -> Avg:39 -> Marks:1 28 6 90
-Student:968 -> Group:47 -> Group Representative:40 -> Avg:39.8 -> Marks:61 41 32 25
-Student:969 -> Group:42 -> Group Representative:62.8 -> Avg:62.2 -> Marks:89 71 84 25 
-Student:970 -> Group:19 -> Group Representative:46.6 -> Avg:46.6 -> Marks:16 87 71 53
-Student:971 -> Group:43 -> Group Representative:33 -> Avg:31.6 -> Marks:13 19 54 6
-Student:972 -> Group:41 -> Group Representative:45.2 -> Avg:45.2 -> Marks:0 81 32 81 
-Student:973 -> Group:30 -> Group Representative:39.4 -> Avg:39.4 -> Marks:62 3 37 33
-Student:974 -> Group:21 -> Group Representative:51 -> Avg:51 -> Marks:76 43 23 57 
-Student:975 -> Group:27 -> Group Representative:64.8 -> Avg:64.4 -> Marks:65 97 40 45
-Student:976 -> Group:9 -> Group Representative:42.6 -> Avg:42.8 -> Marks:97 35 78 0
-Student:977 -> Group:32 -> Group Representative:69.8 -> Avg:68 -> Marks:71 13 78 95
-Student:978 -> Group:43 -> Group Representative:33 -> Avg:31.8 -> Marks:66 15 72 2 
-Student:979 -> Group:39 -> Group Representative:27.6 -> Avg:27.6 -> Marks:28 6 63 41 
-Student:980 -> Group:10 -> Group Representative:50.8 -> Avg:50.6 -> Marks:43 83 64 59
-Student:981 -> Group:22 -> Group Representative:44.4 -> Avg:44.8 -> Marks:25 56 38 48 
-Student:982 -> Group:14 -> Group Representative:38.2 -> Avg:38.2 -> Marks:60 3 78 12
-Student:983 -> Group:43 -> Group Representative:33 -> Avg:31.4 -> Marks:20 79 29 29
-Student:984 -> Group:43 -> Group Representative:33 -> Avg:33.4 -> Marks:79 4 70 6 
-Student:985 -> Group:27 -> Group Representative:64.8 -> Avg:64.8 -> Marks:77 49 61 55 
-Student:986 -> Group:42 -> Group Representative:62.8 -> Avg:63.2 -> Marks:99 85 73 18
-Student:987 -> Group:14 -> Group Representative:38.2 -> Avg:36.8 -> Marks:4 60 2 54
-Student:988 -> Group:12 -> Group Representative:35 -> Avg:35 -> Marks:66 20 17 3 
-Student:989 -> Group:43 -> Group Representative:33 -> Avg:33 -> Marks:16 2 45 62
-Student:990 -> Group:21 -> Group Representative:51 -> Avg:51.8 -> Marks:9 71 56 94 
-Student:991 -> Group:1 -> Group Representative:55.8 -> Avg:56.4 -> Marks:72 34 100 24
-Student:992 -> Group:12 -> Group Representative:35 -> Avg:35 -> Marks:27 14 2 95
-Student:993 -> Group:17 -> Group Representative:34 -> Avg:34.4 -> Marks:31 28 44 0 
-Student:994 -> Group:35 -> Group Representative:49.2 -> Avg:49 -> Marks:93 4 55 1
-Student:995 -> Group:9 -> Group Representative:42.6 -> Avg:43.4 -> Marks:43 51 49 54
-Student:996 -> Group:17 -> Group Representative:34 -> Avg:33.8 -> Marks:73 62 9 19 
-Student:997 -> Group:27 -> Group Representative:64.8 -> Avg:64.8 -> Marks:93 80 20 35
-Student:998 -> Group:4 -> Group Representative:48 -> Avg:48.6 -> Marks:52 13 82 31 
-Student:999 -> Group:21 -> Group Representative:51 -> Avg:51.8 -> Marks:73 55 86 31
-Student:1000 -> Group:24 -> Group Representative:59.8 -> Avg:59.4 -> Marks:92 54 55 72
+Student:1 -> Group:39 -> Group Representative:34 -> Avg:33.6 -> Marks:11 44 9 52 52 
+Student:2 -> Group:3 -> Group Representative:35.4 -> Avg:35.4 -> Marks:11 19 16 85 46
+Student:3 -> Group:40 -> Group Representative:57.4 -> Avg:57.8 -> Marks:97 28 43 90 31 
+Student:4 -> Group:5 -> Group Representative:54.4 -> Avg:54.8 -> Marks:27 11 97 47 92
+Student:5 -> Group:17 -> Group Representative:67.6 -> Avg:68.2 -> Marks:87 61 48 72 73
+Student:6 -> Group:7 -> Group Representative:50.2 -> Avg:50.2 -> Marks:35 45 58 90 23
+Student:7 -> Group:1 -> Group Representative:70 -> Avg:70.2 -> Marks:71 34 64 94 88
+Student:8 -> Group:24 -> Group Representative:39.6 -> Avg:38.4 -> Marks:24 67 85 8 8 
+Student:9 -> Group:18 -> Group Representative:59 -> Avg:59.2 -> Marks:3 16 85 100 92
+Student:10 -> Group:16 -> Group Representative:44 -> Avg:44 -> Marks:56 79 49 23 13 
+Student:11 -> Group:22 -> Group Representative:31 -> Avg:29.2 -> Marks:3 69 4 53 17
+Student:12 -> Group:40 -> Group Representative:57.4 -> Avg:57.6 -> Marks:92 23 55 48 70 
+Student:13 -> Group:12 -> Group Representative:66 -> Avg:65.6 -> Marks:99 59 66 19 85
+Student:14 -> Group:19 -> Group Representative:48.6 -> Avg:48 -> Marks:59 86 13 60 22
+Student:15 -> Group:11 -> Group Representative:64.6 -> Avg:63 -> Marks:87 28 77 58 65 
+Student:16 -> Group:20 -> Group Representative:55.8 -> Avg:55.2 -> Marks:16 33 74 88 65
+Student:17 -> Group:43 -> Group Representative:46.6 -> Avg:46.4 -> Marks:9 75 51 14 83 
+Student:18 -> Group:27 -> Group Representative:46 -> Avg:46.2 -> Marks:49 28 93 37 24
+Student:19 -> Group:3 -> Group Representative:35.4 -> Avg:37.4 -> Marks:4 6 45 57 75 
+Student:20 -> Group:49 -> Group Representative:42.2 -> Avg:42 -> Marks:77 54 55 18 6
+Student:21 -> Group:9 -> Group Representative:44.6 -> Avg:45 -> Marks:12 87 48 78 0 
+Student:22 -> Group:18 -> Group Representative:59 -> Avg:59 -> Marks:8 71 59 83 74
+Student:23 -> Group:1 -> Group Representative:70 -> Avg:70 -> Marks:51 93 34 86 86
+Student:24 -> Group:40 -> Group Representative:57.4 -> Avg:57.8 -> Marks:71 42 71 93 12 
+Student:25 -> Group:8 -> Group Representative:53.4 -> Avg:52.2 -> Marks:60 97 20 65 19 
+Student:26 -> Group:7 -> Group Representative:50.2 -> Avg:50.6 -> Marks:57 16 72 90 18
+Student:27 -> Group:7 -> Group Representative:50.2 -> Avg:51.4 -> Marks:91 24 39 17 86 
+Student:28 -> Group:24 -> Group Representative:39.6 -> Avg:40 -> Marks:28 96 7 14 55 
+Student:29 -> Group:3 -> Group Representative:35.4 -> Avg:36.6 -> Marks:49 33 1 56 44
+Student:30 -> Group:21 -> Group Representative:21.8 -> Avg:24.4 -> Marks:20 7 28 63 4 
+Student:31 -> Group:8 -> Group Representative:53.4 -> Avg:53.2 -> Marks:56 31 85 65 29
+Student:32 -> Group:46 -> Group Representative:60.6 -> Avg:61.2 -> Marks:81 58 61 24 82
+Student:33 -> Group:4 -> Group Representative:57.2 -> Avg:57 -> Marks:22 61 87 57 58 
+Student:34 -> Group:5 -> Group Representative:54.4 -> Avg:54.2 -> Marks:29 64 41 61 76
+Student:35 -> Group:3 -> Group Representative:35.4 -> Avg:35.8 -> Marks:1 44 53 64 17 
+Student:36 -> Group:38 -> Group Representative:43.6 -> Avg:43.2 -> Marks:35 20 66 53 42
+Student:37 -> Group:21 -> Group Representative:21.8 -> Avg:24.4 -> Marks:0 8 90 4 20 
+Student:38 -> Group:44 -> Group Representative:19.4 -> Avg:17.2 -> Marks:19 52 10 0 5
+Student:39 -> Group:42 -> Group Representative:42.8 -> Avg:42.6 -> Marks:34 91 4 60 24 
+Student:40 -> Group:21 -> Group Representative:21.8 -> Avg:22.6 -> Marks:41 46 14 6 6
+Student:41 -> Group:9 -> Group Representative:44.6 -> Avg:45 -> Marks:68 60 28 16 53 
+Student:42 -> Group:32 -> Group Representative:48.8 -> Avg:49 -> Marks:81 60 11 2 91
+Student:43 -> Group:34 -> Group Representative:60.2 -> Avg:60.2 -> Marks:84 65 39 79 34 
+Student:44 -> Group:25 -> Group Representative:56.4 -> Avg:56.6 -> Marks:100 97 8 3 75 
+Student:45 -> Group:2 -> Group Representative:60.4 -> Avg:60.4 -> Marks:90 27 51 48 86
+Student:46 -> Group:10 -> Group Representative:43.8 -> Avg:43.8 -> Marks:18 88 29 28 56 
+Student:47 -> Group:21 -> Group Representative:21.8 -> Avg:23.2 -> Marks:16 1 22 62 15
+Student:48 -> Group:24 -> Group Representative:39.6 -> Avg:39.2 -> Marks:27 77 35 19 38 
+Student:49 -> Group:12 -> Group Representative:66 -> Avg:66.8 -> Marks:68 79 17 70 100
+Student:50 -> Group:19 -> Group Representative:48.6 -> Avg:47.6 -> Marks:42 33 75 41 47 
+Student:51 -> Group:22 -> Group Representative:31 -> Avg:27.4 -> Marks:36 22 71 3 5
+Student:52 -> Group:8 -> Group Representative:53.4 -> Avg:52.4 -> Marks:41 27 98 66 30 
+Student:53 -> Group:40 -> Group Representative:57.4 -> Avg:57.6 -> Marks:73 98 43 32 42
+Student:54 -> Group:12 -> Group Representative:66 -> Avg:66.4 -> Marks:24 100 83 86 39 
+Student:55 -> Group:3 -> Group Representative:35.4 -> Avg:35.8 -> Marks:57 14 28 80 0 
+Student:56 -> Group:5 -> Group Representative:54.4 -> Avg:54.6 -> Marks:25 59 89 99 1 
+Student:57 -> Group:19 -> Group Representative:48.6 -> Avg:48.4 -> Marks:34 32 90 49 37
+Student:58 -> Group:12 -> Group Representative:66 -> Avg:66.8 -> Marks:68 31 82 69 84 
+Student:59 -> Group:31 -> Group Representative:31.8 -> Avg:31.8 -> Marks:12 56 67 17 7
+Student:60 -> Group:11 -> Group Representative:64.6 -> Avg:62.6 -> Marks:38 99 33 86 57
+Student:61 -> Group:17 -> Group Representative:67.6 -> Avg:68.2 -> Marks:60 36 91 99 55
+Student:62 -> Group:11 -> Group Representative:64.6 -> Avg:62.8 -> Marks:72 80 21 99 42
+Student:63 -> Group:24 -> Group Representative:39.6 -> Avg:39.2 -> Marks:14 67 95 19 1 
+Student:64 -> Group:8 -> Group Representative:53.4 -> Avg:52 -> Marks:74 95 32 18 41
+Student:65 -> Group:31 -> Group Representative:31.8 -> Avg:31.8 -> Marks:35 1 14 34 75 
+Student:66 -> Group:3 -> Group Representative:35.4 -> Avg:36 -> Marks:40 87 41 2 10 
+Student:67 -> Group:8 -> Group Representative:53.4 -> Avg:53.2 -> Marks:70 72 67 19 38
+Student:68 -> Group:35 -> Group Representative:45.4 -> Avg:45.4 -> Marks:62 9 44 26 86 
+Student:69 -> Group:9 -> Group Representative:44.6 -> Avg:44.6 -> Marks:46 87 7 61 22
+Student:70 -> Group:8 -> Group Representative:53.4 -> Avg:53.6 -> Marks:89 83 53 29 14
+Student:71 -> Group:6 -> Group Representative:64.8 -> Avg:65.2 -> Marks:39 81 60 63 83 
+Student:72 -> Group:8 -> Group Representative:53.4 -> Avg:53.6 -> Marks:48 43 84 40 53 
+Student:73 -> Group:9 -> Group Representative:44.6 -> Avg:45 -> Marks:29 62 39 61 34
+Student:74 -> Group:49 -> Group Representative:42.2 -> Avg:41.6 -> Marks:31 2 35 69 71
+Student:75 -> Group:7 -> Group Representative:50.2 -> Avg:50 -> Marks:61 84 76 27 2 
+Student:76 -> Group:5 -> Group Representative:54.4 -> Avg:54 -> Marks:74 85 46 42 23
+Student:77 -> Group:32 -> Group Representative:48.8 -> Avg:49.4 -> Marks:100 35 11 87 14 
+Student:78 -> Group:20 -> Group Representative:55.8 -> Avg:55.6 -> Marks:30 92 31 100 25
+Student:79 -> Group:48 -> Group Representative:74 -> Avg:79.4 -> Marks:73 57 97 83 87 
+Student:80 -> Group:25 -> Group Representative:56.4 -> Avg:56.4 -> Marks:7 80 1 99 95
+Student:81 -> Group:24 -> Group Representative:39.6 -> Avg:39.6 -> Marks:45 35 39 1 78 
+Student:82 -> Group:28 -> Group Representative:59.6 -> Avg:59.4 -> Marks:89 54 68 20 66 
+Student:83 -> Group:21 -> Group Representative:21.8 -> Avg:23 -> Marks:32 2 7 37 37
+Student:84 -> Group:32 -> Group Representative:48.8 -> Avg:49.4 -> Marks:52 98 24 34 39
+Student:85 -> Group:7 -> Group Representative:50.2 -> Avg:50.4 -> Marks:14 20 62 83 73 
+Student:86 -> Group:7 -> Group Representative:50.2 -> Avg:51.4 -> Marks:59 61 32 37 68
+Student:87 -> Group:24 -> Group Representative:39.6 -> Avg:38.8 -> Marks:44 45 18 36 51 
+Student:88 -> Group:26 -> Group Representative:44.2 -> Avg:44.2 -> Marks:67 32 26 45 51
+Student:89 -> Group:5 -> Group Representative:54.4 -> Avg:55 -> Marks:16 81 30 99 49 
+Student:90 -> Group:3 -> Group Representative:35.4 -> Avg:36.8 -> Marks:36 18 9 43 78
+Student:91 -> Group:48 -> Group Representative:74 -> Avg:75 -> Marks:54 65 91 71 94 
+Student:92 -> Group:8 -> Group Representative:53.4 -> Avg:52.4 -> Marks:16 95 50 80 21
+Student:93 -> Group:3 -> Group Representative:35.4 -> Avg:37.2 -> Marks:43 42 69 23 9 
+Student:94 -> Group:11 -> Group Representative:64.6 -> Avg:64.6 -> Marks:54 93 95 35 46
+Student:95 -> Group:3 -> Group Representative:35.4 -> Avg:36.4 -> Marks:85 3 13 62 19 
+Student:96 -> Group:48 -> Group Representative:74 -> Avg:80.4 -> Marks:92 90 69 70 81
+Student:97 -> Group:29 -> Group Representative:33 -> Avg:32.8 -> Marks:41 5 75 39 4 
+Student:98 -> Group:22 -> Group Representative:31 -> Avg:27.2 -> Marks:42 30 17 23 24
+Student:99 -> Group:32 -> Group Representative:48.8 -> Avg:48.8 -> Marks:33 100 12 55 44 
+Student:100 -> Group:43 -> Group Representative:46.6 -> Avg:46.8 -> Marks:92 4 38 28 72
+Student:101 -> Group:5 -> Group Representative:54.4 -> Avg:54.2 -> Marks:60 0 25 93 93 
+Student:102 -> Group:38 -> Group Representative:43.6 -> Avg:43.6 -> Marks:33 17 5 72 91
+Student:103 -> Group:3 -> Group Representative:35.4 -> Avg:37.2 -> Marks:35 17 19 92 23 
+Student:104 -> Group:30 -> Group Representative:71.6 -> Avg:71.6 -> Marks:57 52 74 87 88
+Student:105 -> Group:32 -> Group Representative:48.8 -> Avg:49.2 -> Marks:45 22 55 82 42 
+Student:106 -> Group:39 -> Group Representative:34 -> Avg:34.4 -> Marks:74 15 18 15 50
+Student:107 -> Group:8 -> Group Representative:53.4 -> Avg:52.2 -> Marks:22 19 52 76 92
+Student:108 -> Group:21 -> Group Representative:21.8 -> Avg:24.6 -> Marks:59 2 6 20 36
+Student:109 -> Group:8 -> Group Representative:53.4 -> Avg:53.2 -> Marks:70 78 0 88 30
+Student:110 -> Group:43 -> Group Representative:46.6 -> Avg:47.4 -> Marks:89 52 24 60 12 
+Student:111 -> Group:8 -> Group Representative:53.4 -> Avg:52.8 -> Marks:50 49 84 8 73 
+Student:112 -> Group:49 -> Group Representative:42.2 -> Avg:42.2 -> Marks:54 53 54 23 27
+Student:113 -> Group:18 -> Group Representative:59 -> Avg:59.2 -> Marks:35 80 81 52 48 
+Student:114 -> Group:4 -> Group Representative:57.2 -> Avg:57 -> Marks:78 77 99 29 2
+Student:115 -> Group:43 -> Group Representative:46.6 -> Avg:47.4 -> Marks:75 26 32 23 81 
+Student:116 -> Group:7 -> Group Representative:50.2 -> Avg:50.6 -> Marks:73 64 7 57 52 
+Student:117 -> Group:12 -> Group Representative:66 -> Avg:65.6 -> Marks:85 95 53 63 32
+Student:118 -> Group:11 -> Group Representative:64.6 -> Avg:62.8 -> Marks:19 95 6 95 99 
+Student:119 -> Group:38 -> Group Representative:43.6 -> Avg:43.6 -> Marks:11 46 38 83 40 
+Student:120 -> Group:48 -> Group Representative:74 -> Avg:74.4 -> Marks:53 98 87 77 57
+Student:121 -> Group:7 -> Group Representative:50.2 -> Avg:51.2 -> Marks:28 55 61 88 24 
+Student:122 -> Group:18 -> Group Representative:59 -> Avg:58.2 -> Marks:99 59 57 66 10
+Student:123 -> Group:21 -> Group Representative:21.8 -> Avg:21.8 -> Marks:75 5 3 3 23 
+Student:124 -> Group:22 -> Group Representative:31 -> Avg:28.4 -> Marks:23 5 0 76 38
+Student:125 -> Group:8 -> Group Representative:53.4 -> Avg:53.4 -> Marks:91 73 79 14 10 
+Student:126 -> Group:18 -> Group Representative:59 -> Avg:58.4 -> Marks:87 31 53 44 77
+Student:127 -> Group:28 -> Group Representative:59.6 -> Avg:59.8 -> Marks:69 5 77 95 53 
+Student:128 -> Group:1 -> Group Representative:70 -> Avg:70.2 -> Marks:67 58 78 65 83 
+Student:129 -> Group:34 -> Group Representative:60.2 -> Avg:60.2 -> Marks:76 43 76 27 79
+Student:130 -> Group:22 -> Group Representative:31 -> Avg:28.8 -> Marks:73 19 10 3 39 
+Student:131 -> Group:3 -> Group Representative:35.4 -> Avg:36.4 -> Marks:50 32 85 6 9
+Student:132 -> Group:5 -> Group Representative:54.4 -> Avg:54.2 -> Marks:34 77 88 21 51 
+Student:133 -> Group:3 -> Group Representative:35.4 -> Avg:36.8 -> Marks:74 38 33 2 37
+Student:134 -> Group:24 -> Group Representative:39.6 -> Avg:38.4 -> Marks:95 3 4 48 42 
+Student:135 -> Group:22 -> Group Representative:31 -> Avg:27.4 -> Marks:10 8 45 39 35
+Student:136 -> Group:13 -> Group Representative:40.6 -> Avg:41.4 -> Marks:29 37 23 41 77 
+Student:137 -> Group:29 -> Group Representative:33 -> Avg:32.8 -> Marks:47 65 1 32 19
+Student:138 -> Group:22 -> Group Representative:31 -> Avg:28.2 -> Marks:1 30 7 40 63
+Student:139 -> Group:32 -> Group Representative:48.8 -> Avg:49.2 -> Marks:25 40 36 82 63 
+Student:140 -> Group:8 -> Group Representative:53.4 -> Avg:52.4 -> Marks:82 93 10 69 8 
+Student:141 -> Group:49 -> Group Representative:42.2 -> Avg:42 -> Marks:12 91 7 80 20
+Student:142 -> Group:18 -> Group Representative:59 -> Avg:58.2 -> Marks:67 36 71 91 26
+Student:143 -> Group:32 -> Group Representative:48.8 -> Avg:49 -> Marks:88 21 86 2 48 
+Student:144 -> Group:48 -> Group Representative:74 -> Avg:79.4 -> Marks:78 31 98 97 93
+Student:145 -> Group:8 -> Group Representative:53.4 -> Avg:52.6 -> Marks:18 36 80 92 37 
+Student:146 -> Group:22 -> Group Representative:31 -> Avg:28.6 -> Marks:25 64 20 11 23 
+Student:147 -> Group:8 -> Group Representative:53.4 -> Avg:52.8 -> Marks:86 81 15 42 40
+Student:148 -> Group:19 -> Group Representative:48.6 -> Avg:48.6 -> Marks:71 13 82 41 36 
+Student:149 -> Group:1 -> Group Representative:70 -> Avg:69.6 -> Marks:85 43 74 56 90
+Student:150 -> Group:22 -> Group Representative:31 -> Avg:28.4 -> Marks:32 1 18 26 65 
+Student:151 -> Group:13 -> Group Representative:40.6 -> Avg:41 -> Marks:20 68 10 79 28
+Student:152 -> Group:19 -> Group Representative:48.6 -> Avg:47.8 -> Marks:58 16 43 70 52 
+Student:153 -> Group:13 -> Group Representative:40.6 -> Avg:41.4 -> Marks:84 70 27 1 25
+Student:154 -> Group:39 -> Group Representative:34 -> Avg:33.6 -> Marks:5 61 2 7 93 
+Student:155 -> Group:22 -> Group Representative:31 -> Avg:30.6 -> Marks:61 2 12 39 39
+Student:156 -> Group:7 -> Group Representative:50.2 -> Avg:49.6 -> Marks:52 71 6 95 24 
+Student:157 -> Group:26 -> Group Representative:44.2 -> Avg:44.4 -> Marks:32 50 83 51 6
+Student:158 -> Group:1 -> Group Representative:70 -> Avg:70.6 -> Marks:65 92 73 89 34 
+Student:159 -> Group:7 -> Group Representative:50.2 -> Avg:51.2 -> Marks:60 42 68 72 14
+Student:160 -> Group:22 -> Group Representative:31 -> Avg:28.6 -> Marks:33 10 23 69 8 
+Student:161 -> Group:8 -> Group Representative:53.4 -> Avg:53.2 -> Marks:23 51 84 72 36
+Student:162 -> Group:44 -> Group Representative:19.4 -> Avg:19.2 -> Marks:26 13 39 6 12 
+Student:163 -> Group:8 -> Group Representative:53.4 -> Avg:52.6 -> Marks:80 48 4 64 67
+Student:164 -> Group:48 -> Group Representative:74 -> Avg:77.6 -> Marks:93 100 94 41 60 
+Student:165 -> Group:5 -> Group Representative:54.4 -> Avg:55 -> Marks:43 57 83 86 6 
+Student:166 -> Group:22 -> Group Representative:31 -> Avg:27 -> Marks:60 2 28 1 44
+Student:167 -> Group:3 -> Group Representative:35.4 -> Avg:36.4 -> Marks:44 82 48 3 5
+Student:168 -> Group:22 -> Group Representative:31 -> Avg:29.2 -> Marks:24 55 40 21 6 
+Student:169 -> Group:11 -> Group Representative:64.6 -> Avg:62.8 -> Marks:43 84 75 77 35
+Student:170 -> Group:46 -> Group Representative:60.6 -> Avg:61.8 -> Marks:78 40 72 29 90
+Student:171 -> Group:34 -> Group Representative:60.2 -> Avg:60 -> Marks:69 72 86 4 69 
+Student:172 -> Group:5 -> Group Representative:54.4 -> Avg:54.6 -> Marks:7 77 94 28 67
+Student:173 -> Group:20 -> Group Representative:55.8 -> Avg:55.6 -> Marks:63 64 70 18 63 
+Student:174 -> Group:20 -> Group Representative:55.8 -> Avg:55.2 -> Marks:40 28 91 27 90 
+Student:175 -> Group:12 -> Group Representative:66 -> Avg:66.8 -> Marks:75 44 78 92 45
+Student:176 -> Group:40 -> Group Representative:57.4 -> Avg:57.8 -> Marks:92 86 54 13 44
+Student:177 -> Group:40 -> Group Representative:57.4 -> Avg:57.6 -> Marks:95 33 30 48 82 
+Student:178 -> Group:1 -> Group Representative:70 -> Avg:68.8 -> Marks:73 83 19 69 100
+Student:179 -> Group:24 -> Group Representative:39.6 -> Avg:37.8 -> Marks:89 51 28 10 11
+Student:180 -> Group:39 -> Group Representative:34 -> Avg:34.2 -> Marks:71 51 1 35 13
+Student:181 -> Group:24 -> Group Representative:39.6 -> Avg:37.6 -> Marks:55 15 13 99 6 
+Student:182 -> Group:18 -> Group Representative:59 -> Avg:59 -> Marks:76 37 85 96 1 
+Student:183 -> Group:8 -> Group Representative:53.4 -> Avg:52.4 -> Marks:23 74 29 90 46
+Student:184 -> Group:42 -> Group Representative:42.8 -> Avg:43 -> Marks:44 30 52 84 5 
+Student:185 -> Group:11 -> Group Representative:64.6 -> Avg:63.8 -> Marks:54 20 89 87 69
+Student:186 -> Group:10 -> Group Representative:43.8 -> Avg:43.8 -> Marks:74 21 7 87 30 
+Student:187 -> Group:39 -> Group Representative:34 -> Avg:34 -> Marks:10 26 3 95 36 
+Student:188 -> Group:32 -> Group Representative:48.8 -> Avg:49 -> Marks:35 19 92 0 99 
+Student:189 -> Group:21 -> Group Representative:21.8 -> Avg:22.8 -> Marks:20 35 22 32 5
+Student:190 -> Group:19 -> Group Representative:48.6 -> Avg:48 -> Marks:46 41 75 46 32
+Student:191 -> Group:27 -> Group Representative:46 -> Avg:46.2 -> Marks:18 52 28 77 56 
+Student:192 -> Group:46 -> Group Representative:60.6 -> Avg:62.4 -> Marks:95 12 81 81 43
+Student:193 -> Group:24 -> Group Representative:39.6 -> Avg:38.8 -> Marks:25 81 63 0 25 
+Student:194 -> Group:19 -> Group Representative:48.6 -> Avg:48 -> Marks:23 20 62 75 60
+Student:195 -> Group:1 -> Group Representative:70 -> Avg:70 -> Marks:66 54 63 91 76
+Student:196 -> Group:11 -> Group Representative:64.6 -> Avg:64.4 -> Marks:33 50 93 78 68 
+Student:197 -> Group:22 -> Group Representative:31 -> Avg:30.4 -> Marks:34 85 4 4 25
+Student:198 -> Group:3 -> Group Representative:35.4 -> Avg:35.2 -> Marks:5 80 43 46 2
+Student:199 -> Group:13 -> Group Representative:40.6 -> Avg:40.8 -> Marks:96 18 37 2 51 
+Student:200 -> Group:40 -> Group Representative:57.4 -> Avg:57.8 -> Marks:89 89 15 81 15
+Student:201 -> Group:12 -> Group Representative:66 -> Avg:66.8 -> Marks:12 87 98 98 39 
+Student:202 -> Group:20 -> Group Representative:55.8 -> Avg:55.2 -> Marks:77 49 64 30 56
+Student:203 -> Group:43 -> Group Representative:46.6 -> Avg:47.4 -> Marks:96 41 15 40 45 
+Student:204 -> Group:32 -> Group Representative:48.8 -> Avg:49.2 -> Marks:78 34 11 57 66
+Student:205 -> Group:43 -> Group Representative:46.6 -> Avg:47 -> Marks:94 1 62 51 27 
+Student:206 -> Group:43 -> Group Representative:46.6 -> Avg:47.2 -> Marks:45 10 21 99 61
+Student:207 -> Group:3 -> Group Representative:35.4 -> Avg:37 -> Marks:67 22 53 33 10
+Student:208 -> Group:18 -> Group Representative:59 -> Avg:59.2 -> Marks:23 89 24 92 68 
+Student:209 -> Group:7 -> Group Representative:50.2 -> Avg:50.6 -> Marks:35 79 41 97 1
+Student:210 -> Group:1 -> Group Representative:70 -> Avg:69 -> Marks:19 83 65 96 82 
+Student:211 -> Group:46 -> Group Representative:60.6 -> Avg:61.4 -> Marks:62 94 92 46 13
+Student:212 -> Group:8 -> Group Representative:53.4 -> Avg:52 -> Marks:56 26 83 85 10 
+Student:213 -> Group:48 -> Group Representative:74 -> Avg:76.8 -> Marks:73 58 88 79 86
+Student:214 -> Group:11 -> Group Representative:64.6 -> Avg:64.6 -> Marks:87 97 37 35 67 
+Student:215 -> Group:12 -> Group Representative:66 -> Avg:66.8 -> Marks:99 92 80 25 38
+Student:216 -> Group:10 -> Group Representative:43.8 -> Avg:43.8 -> Marks:58 48 37 22 54 
+Student:217 -> Group:19 -> Group Representative:48.6 -> Avg:48 -> Marks:59 3 63 91 24
+Student:218 -> Group:42 -> Group Representative:42.8 -> Avg:42.6 -> Marks:51 30 25 33 74 
+Student:219 -> Group:27 -> Group Representative:46 -> Avg:46 -> Marks:35 61 33 91 10
+Student:220 -> Group:1 -> Group Representative:70 -> Avg:70.2 -> Marks:72 69 15 100 95 
+Student:221 -> Group:3 -> Group Representative:35.4 -> Avg:37 -> Marks:37 45 3 40 60
+Student:222 -> Group:13 -> Group Representative:40.6 -> Avg:40.4 -> Marks:19 4 97 30 52 
+Student:223 -> Group:22 -> Group Representative:31 -> Avg:27.4 -> Marks:6 54 58 1 18
+Student:224 -> Group:7 -> Group Representative:50.2 -> Avg:51.8 -> Marks:47 79 8 61 64 
+Student:225 -> Group:3 -> Group Representative:35.4 -> Avg:35.2 -> Marks:29 77 20 2 48 
+Student:226 -> Group:18 -> Group Representative:59 -> Avg:58.4 -> Marks:52 72 13 65 90
+Student:227 -> Group:36 -> Group Representative:56 -> Avg:56 -> Marks:37 32 97 87 27 
+Student:228 -> Group:2 -> Group Representative:60.4 -> Avg:60.4 -> Marks:78 98 22 36 68
+Student:229 -> Group:35 -> Group Representative:45.4 -> Avg:45.2 -> Marks:22 73 22 14 95 
+Student:230 -> Group:12 -> Group Representative:66 -> Avg:66.8 -> Marks:59 24 88 89 74
+Student:231 -> Group:3 -> Group Representative:35.4 -> Avg:35.8 -> Marks:70 6 74 28 1 
+Student:232 -> Group:8 -> Group Representative:53.4 -> Avg:53.8 -> Marks:43 76 7 78 65
+Student:233 -> Group:21 -> Group Representative:21.8 -> Avg:24.6 -> Marks:26 4 37 21 35 
+Student:234 -> Group:43 -> Group Representative:46.6 -> Avg:46.6 -> Marks:0 19 82 36 96
+Student:235 -> Group:40 -> Group Representative:57.4 -> Avg:57.4 -> Marks:90 36 80 55 26 
+Student:236 -> Group:22 -> Group Representative:31 -> Avg:27 -> Marks:18 5 40 10 62
+Student:237 -> Group:49 -> Group Representative:42.2 -> Avg:42.2 -> Marks:47 46 47 61 10
+Student:238 -> Group:35 -> Group Representative:45.4 -> Avg:45.2 -> Marks:84 6 42 47 47 
+Student:239 -> Group:1 -> Group Representative:70 -> Avg:69 -> Marks:81 57 65 94 48
+Student:240 -> Group:46 -> Group Representative:60.6 -> Avg:61 -> Marks:45 74 67 99 20 
+Student:241 -> Group:7 -> Group Representative:50.2 -> Avg:50.6 -> Marks:3 96 89 26 39
+Student:242 -> Group:12 -> Group Representative:66 -> Avg:66.4 -> Marks:89 90 18 56 79 
+Student:243 -> Group:7 -> Group Representative:50.2 -> Avg:50.2 -> Marks:57 69 94 5 26
+Student:244 -> Group:3 -> Group Representative:35.4 -> Avg:36.6 -> Marks:23 37 33 66 24 
+Student:245 -> Group:38 -> Group Representative:43.6 -> Avg:43.4 -> Marks:26 74 14 7 96
+Student:246 -> Group:24 -> Group Representative:39.6 -> Avg:39.6 -> Marks:34 9 50 14 91 
+Student:247 -> Group:7 -> Group Representative:50.2 -> Avg:49.8 -> Marks:26 43 38 78 64
+Student:248 -> Group:3 -> Group Representative:35.4 -> Avg:37.4 -> Marks:34 62 23 42 26 
+Student:249 -> Group:11 -> Group Representative:64.6 -> Avg:64.6 -> Marks:76 65 79 32 71
+Student:250 -> Group:49 -> Group Representative:42.2 -> Avg:41.6 -> Marks:92 13 77 3 23 
+Student:251 -> Group:28 -> Group Representative:59.6 -> Avg:59.4 -> Marks:51 96 50 72 28
+Student:252 -> Group:21 -> Group Representative:21.8 -> Avg:26.4 -> Marks:9 23 42 11 47 
+Student:253 -> Group:17 -> Group Representative:67.6 -> Avg:67.4 -> Marks:85 33 96 93 30
+Student:254 -> Group:1 -> Group Representative:70 -> Avg:69.8 -> Marks:83 64 34 79 89 
+Student:255 -> Group:35 -> Group Representative:45.4 -> Avg:45.2 -> Marks:39 56 36 70 25
+Student:256 -> Group:11 -> Group Representative:64.6 -> Avg:62.8 -> Marks:54 68 35 83 74 
+Student:257 -> Group:3 -> Group Representative:35.4 -> Avg:35.4 -> Marks:68 59 7 11 32
+Student:258 -> Group:9 -> Group Representative:44.6 -> Avg:44.8 -> Marks:84 58 12 25 45 
+Student:259 -> Group:8 -> Group Representative:53.4 -> Avg:52 -> Marks:66 76 3 94 21
+Student:260 -> Group:43 -> Group Representative:46.6 -> Avg:46.6 -> Marks:68 22 3 48 92 
+Student:261 -> Group:34 -> Group Representative:60.2 -> Avg:60.2 -> Marks:67 30 93 81 30
+Student:262 -> Group:46 -> Group Representative:60.6 -> Avg:62.4 -> Marks:93 84 74 47 14 
+Student:263 -> Group:30 -> Group Representative:71.6 -> Avg:71.2 -> Marks:68 29 74 96 89
+Student:264 -> Group:43 -> Group Representative:46.6 -> Avg:47 -> Marks:96 3 33 94 9
+Student:265 -> Group:46 -> Group Representative:60.6 -> Avg:62.4 -> Marks:57 99 45 76 35 
+Student:266 -> Group:7 -> Group Representative:50.2 -> Avg:50 -> Marks:30 53 37 55 75
+Student:267 -> Group:46 -> Group Representative:60.6 -> Avg:61 -> Marks:6 100 53 72 74 
+Student:268 -> Group:48 -> Group Representative:74 -> Avg:79.4 -> Marks:88 64 88 88 69
+Student:269 -> Group:27 -> Group Representative:46 -> Avg:46.2 -> Marks:32 98 71 1 29 
+Student:270 -> Group:13 -> Group Representative:40.6 -> Avg:40.4 -> Marks:32 25 6 95 44
+Student:271 -> Group:39 -> Group Representative:34 -> Avg:33.8 -> Marks:12 12 43 13 89 
+Student:272 -> Group:24 -> Group Representative:39.6 -> Avg:39.4 -> Marks:59 19 23 34 62
+Student:273 -> Group:43 -> Group Representative:46.6 -> Avg:47 -> Marks:21 86 67 41 20 
+Student:274 -> Group:24 -> Group Representative:39.6 -> Avg:39.6 -> Marks:28 35 7 93 35
+Student:275 -> Group:43 -> Group Representative:46.6 -> Avg:47.4 -> Marks:52 38 92 2 53
+Student:276 -> Group:32 -> Group Representative:48.8 -> Avg:49.2 -> Marks:5 97 6 41 97 
+Student:277 -> Group:3 -> Group Representative:35.4 -> Avg:37 -> Marks:87 3 4 45 46
+Student:278 -> Group:43 -> Group Representative:46.6 -> Avg:47 -> Marks:39 42 71 13 70
+Student:279 -> Group:21 -> Group Representative:21.8 -> Avg:25.2 -> Marks:11 16 8 54 37
+Student:280 -> Group:49 -> Group Representative:42.2 -> Avg:41.6 -> Marks:69 43 31 19 46 
+Student:281 -> Group:19 -> Group Representative:48.6 -> Avg:48.6 -> Marks:30 85 95 19 14 
+Student:282 -> Group:13 -> Group Representative:40.6 -> Avg:40.4 -> Marks:37 89 31 34 11
+Student:283 -> Group:18 -> Group Representative:59 -> Avg:59 -> Marks:98 87 60 6 44 
+Student:284 -> Group:24 -> Group Representative:39.6 -> Avg:38.8 -> Marks:35 53 38 29 39 
+Student:285 -> Group:7 -> Group Representative:50.2 -> Avg:50.8 -> Marks:48 57 30 44 75
+Student:286 -> Group:8 -> Group Representative:53.4 -> Avg:52.6 -> Marks:63 86 26 55 33 
+Student:287 -> Group:24 -> Group Representative:39.6 -> Avg:39.2 -> Marks:50 52 25 68 1 
+Student:288 -> Group:32 -> Group Representative:48.8 -> Avg:49.2 -> Marks:84 59 13 21 69
+Student:289 -> Group:3 -> Group Representative:35.4 -> Avg:36.6 -> Marks:38 24 44 32 45 
+Student:290 -> Group:32 -> Group Representative:48.8 -> Avg:48.8 -> Marks:34 52 10 63 85 
+Student:291 -> Group:20 -> Group Representative:55.8 -> Avg:55.6 -> Marks:65 26 57 52 78
+Student:292 -> Group:39 -> Group Representative:34 -> Avg:34.4 -> Marks:38 13 68 2 51
+Student:293 -> Group:7 -> Group Representative:50.2 -> Avg:50.2 -> Marks:93 5 10 91 52 
+Student:294 -> Group:10 -> Group Representative:43.8 -> Avg:43.8 -> Marks:15 19 87 21 77
+Student:295 -> Group:49 -> Group Representative:42.2 -> Avg:41.6 -> Marks:9 8 89 34 68 
+Student:296 -> Group:21 -> Group Representative:21.8 -> Avg:25.8 -> Marks:39 28 33 15 14 
+Student:297 -> Group:38 -> Group Representative:43.6 -> Avg:43.4 -> Marks:25 37 14 76 65 
+Student:298 -> Group:48 -> Group Representative:74 -> Avg:78.6 -> Marks:95 84 91 74 49
+Student:299 -> Group:1 -> Group Representative:70 -> Avg:70.6 -> Marks:71 35 97 97 53 
+Student:300 -> Group:6 -> Group Representative:64.8 -> Avg:65 -> Marks:83 9 99 73 61
+Student:301 -> Group:7 -> Group Representative:50.2 -> Avg:50.2 -> Marks:10 80 71 59 31 
+Student:302 -> Group:3 -> Group Representative:35.4 -> Avg:37 -> Marks:43 5 69 2 66 
+Student:303 -> Group:11 -> Group Representative:64.6 -> Avg:63.6 -> Marks:94 49 45 66 64 
+Student:304 -> Group:21 -> Group Representative:21.8 -> Avg:25.2 -> Marks:11 97 2 6 10
+Student:305 -> Group:1 -> Group Representative:70 -> Avg:70.4 -> Marks:55 100 68 34 95 
+Student:306 -> Group:22 -> Group Representative:31 -> Avg:30.8 -> Marks:2 30 56 22 44
+Student:307 -> Group:17 -> Group Representative:67.6 -> Avg:67 -> Marks:67 78 83 18 89
+Student:308 -> Group:19 -> Group Representative:48.6 -> Avg:48 -> Marks:28 50 48 27 87
+Student:309 -> Group:24 -> Group Representative:39.6 -> Avg:39.6 -> Marks:48 18 48 19 65 
+Student:310 -> Group:7 -> Group Representative:50.2 -> Avg:49.6 -> Marks:67 6 51 96 28 
+Student:311 -> Group:44 -> Group Representative:19.4 -> Avg:15 -> Marks:4 19 14 37 1
+Student:312 -> Group:7 -> Group Representative:50.2 -> Avg:50.2 -> Marks:69 77 35 23 47 
+Student:313 -> Group:18 -> Group Representative:59 -> Avg:59 -> Marks:94 61 13 30 97 
+Student:314 -> Group:8 -> Group Representative:53.4 -> Avg:52.6 -> Marks:83 9 41 41 89
+Student:315 -> Group:3 -> Group Representative:35.4 -> Avg:34.8 -> Marks:29 83 5 36 21 
+Student:316 -> Group:11 -> Group Representative:64.6 -> Avg:64.6 -> Marks:43 96 93 57 34 
+Student:317 -> Group:25 -> Group Representative:56.4 -> Avg:56.8 -> Marks:38 97 62 86 1 
+Student:318 -> Group:25 -> Group Representative:56.4 -> Avg:56.2 -> Marks:52 78 41 92 18 
+Student:319 -> Group:13 -> Group Representative:40.6 -> Avg:40.6 -> Marks:69 56 10 13 55
+Student:320 -> Group:22 -> Group Representative:31 -> Avg:28 -> Marks:18 16 40 1 65
+Student:321 -> Group:43 -> Group Representative:46.6 -> Avg:47.2 -> Marks:38 89 64 27 18 
+Student:322 -> Group:32 -> Group Representative:48.8 -> Avg:49 -> Marks:69 2 41 43 90
+Student:323 -> Group:7 -> Group Representative:50.2 -> Avg:51 -> Marks:78 82 17 13 65 
+Student:324 -> Group:7 -> Group Representative:50.2 -> Avg:49.6 -> Marks:36 32 43 90 47
+Student:325 -> Group:19 -> Group Representative:48.6 -> Avg:48 -> Marks:79 45 19 25 72 
+Student:326 -> Group:1 -> Group Representative:70 -> Avg:70 -> Marks:51 19 98 94 88
+Student:327 -> Group:48 -> Group Representative:74 -> Avg:77.8 -> Marks:80 100 100 98 11 
+Student:328 -> Group:46 -> Group Representative:60.6 -> Avg:61 -> Marks:85 32 88 6 94 
+Student:329 -> Group:33 -> Group Representative:32.4 -> Avg:32.4 -> Marks:66 7 24 8 57 
+Student:330 -> Group:5 -> Group Representative:54.4 -> Avg:54.2 -> Marks:72 85 26 50 38 
+Student:331 -> Group:7 -> Group Representative:50.2 -> Avg:49.6 -> Marks:11 61 78 2 96
+Student:332 -> Group:38 -> Group Representative:43.6 -> Avg:43.4 -> Marks:26 11 89 78 13 
+Student:333 -> Group:1 -> Group Representative:70 -> Avg:70.2 -> Marks:97 43 87 72 52
+Student:334 -> Group:48 -> Group Representative:74 -> Avg:76 -> Marks:74 55 85 86 80 
+Student:335 -> Group:7 -> Group Representative:50.2 -> Avg:51.2 -> Marks:48 94 7 17 90 
+Student:336 -> Group:7 -> Group Representative:50.2 -> Avg:51 -> Marks:7 57 72 33 86
+Student:337 -> Group:7 -> Group Representative:50.2 -> Avg:50.4 -> Marks:79 46 10 82 35 
+Student:338 -> Group:7 -> Group Representative:50.2 -> Avg:51.6 -> Marks:55 34 64 48 57 
+Student:339 -> Group:30 -> Group Representative:71.6 -> Avg:71 -> Marks:96 66 40 75 78 
+Student:340 -> Group:38 -> Group Representative:43.6 -> Avg:43.6 -> Marks:41 61 51 57 8
+Student:341 -> Group:21 -> Group Representative:21.8 -> Avg:21.6 -> Marks:31 12 27 37 1 
+Student:342 -> Group:33 -> Group Representative:32.4 -> Avg:32.4 -> Marks:19 41 40 3 59 
+Student:343 -> Group:29 -> Group Representative:33 -> Avg:33.4 -> Marks:51 30 10 75 1
+Student:344 -> Group:8 -> Group Representative:53.4 -> Avg:53.4 -> Marks:2 97 84 15 69 
+Student:345 -> Group:39 -> Group Representative:34 -> Avg:34 -> Marks:52 11 18 3 86 
+Student:346 -> Group:43 -> Group Representative:46.6 -> Avg:47.2 -> Marks:51 78 22 57 28 
+Student:347 -> Group:21 -> Group Representative:21.8 -> Avg:24.6 -> Marks:57 2 9 12 43
+Student:348 -> Group:40 -> Group Representative:57.4 -> Avg:58 -> Marks:80 98 68 13 31 
+Student:349 -> Group:43 -> Group Representative:46.6 -> Avg:47.4 -> Marks:90 16 37 18 76 
+Student:350 -> Group:13 -> Group Representative:40.6 -> Avg:41.4 -> Marks:17 78 38 14 60 
+Student:351 -> Group:17 -> Group Representative:67.6 -> Avg:68 -> Marks:14 75 92 76 83
+Student:352 -> Group:19 -> Group Representative:48.6 -> Avg:48 -> Marks:86 55 21 58 20
+Student:353 -> Group:22 -> Group Representative:31 -> Avg:29 -> Marks:11 30 17 64 23 
+Student:354 -> Group:7 -> Group Representative:50.2 -> Avg:50.6 -> Marks:98 10 77 9 59 
+Student:355 -> Group:24 -> Group Representative:39.6 -> Avg:39.4 -> Marks:1 58 8 84 46
+Student:356 -> Group:8 -> Group Representative:53.4 -> Avg:53.4 -> Marks:71 27 32 83 54 
+Student:357 -> Group:7 -> Group Representative:50.2 -> Avg:51.8 -> Marks:85 35 96 31 12
+Student:358 -> Group:21 -> Group Representative:21.8 -> Avg:23.4 -> Marks:46 16 36 13 6 
+Student:359 -> Group:8 -> Group Representative:53.4 -> Avg:52.4 -> Marks:71 69 64 9 49
+Student:360 -> Group:22 -> Group Representative:31 -> Avg:30.6 -> Marks:0 21 20 12 100 
+Student:361 -> Group:43 -> Group Representative:46.6 -> Avg:47.4 -> Marks:49 85 55 48 0 
+Student:362 -> Group:1 -> Group Representative:70 -> Avg:69.6 -> Marks:82 74 65 33 94
+Student:363 -> Group:2 -> Group Representative:60.4 -> Avg:60.4 -> Marks:24 84 64 78 52
+Student:364 -> Group:18 -> Group Representative:59 -> Avg:58.2 -> Marks:18 76 40 84 73 
+Student:365 -> Group:11 -> Group Representative:64.6 -> Avg:64.2 -> Marks:89 96 28 89 19
+Student:366 -> Group:3 -> Group Representative:35.4 -> Avg:35.2 -> Marks:17 84 27 12 36 
+Student:367 -> Group:26 -> Group Representative:44.2 -> Avg:44.4 -> Marks:48 35 94 35 10 
+Student:368 -> Group:32 -> Group Representative:48.8 -> Avg:49.4 -> Marks:54 21 34 47 91
+Student:369 -> Group:40 -> Group Representative:57.4 -> Avg:58 -> Marks:8 57 87 39 99
+Student:370 -> Group:19 -> Group Representative:48.6 -> Avg:48.6 -> Marks:87 29 14 21 92 
+Student:371 -> Group:48 -> Group Representative:74 -> Avg:85.2 -> Marks:100 38 99 91 98
+Student:372 -> Group:11 -> Group Representative:64.6 -> Avg:64.4 -> Marks:86 81 0 74 81 
+Student:373 -> Group:33 -> Group Representative:32.4 -> Avg:32.6 -> Marks:36 7 16 58 46 
+Student:374 -> Group:20 -> Group Representative:55.8 -> Avg:55.8 -> Marks:100 99 62 6 12
+Student:375 -> Group:19 -> Group Representative:48.6 -> Avg:48.4 -> Marks:31 31 84 91 5
+Student:376 -> Group:7 -> Group Representative:50.2 -> Avg:51.4 -> Marks:83 94 58 5 17 
+Student:377 -> Group:8 -> Group Representative:53.4 -> Avg:53.4 -> Marks:27 59 98 22 61
+Student:378 -> Group:22 -> Group Representative:31 -> Avg:31.4 -> Marks:31 18 43 60 5 
+Student:379 -> Group:16 -> Group Representative:44 -> Avg:44 -> Marks:21 22 64 71 42
+Student:380 -> Group:48 -> Group Representative:74 -> Avg:77 -> Marks:71 91 49 74 100 
+Student:381 -> Group:22 -> Group Representative:31 -> Avg:30.4 -> Marks:17 35 38 52 10 
+Student:382 -> Group:5 -> Group Representative:54.4 -> Avg:54.4 -> Marks:88 36 44 60 44
+Student:383 -> Group:28 -> Group Representative:59.6 -> Avg:59.8 -> Marks:99 54 71 13 62 
+Student:384 -> Group:8 -> Group Representative:53.4 -> Avg:53.8 -> Marks:27 12 60 100 70
+Student:385 -> Group:19 -> Group Representative:48.6 -> Avg:48 -> Marks:63 60 66 7 44 
+Student:386 -> Group:13 -> Group Representative:40.6 -> Avg:40.8 -> Marks:70 22 66 35 11 
+Student:387 -> Group:48 -> Group Representative:74 -> Avg:74.8 -> Marks:95 69 94 55 61 
+Student:388 -> Group:3 -> Group Representative:35.4 -> Avg:35.4 -> Marks:5 69 0 56 47
+Student:389 -> Group:25 -> Group Representative:56.4 -> Avg:56.8 -> Marks:53 76 55 7 93 
+Student:390 -> Group:18 -> Group Representative:59 -> Avg:58.2 -> Marks:7 70 49 67 98 
+Student:391 -> Group:11 -> Group Representative:64.6 -> Avg:64.6 -> Marks:50 91 98 63 21
+Student:392 -> Group:7 -> Group Representative:50.2 -> Avg:50 -> Marks:70 38 38 97 7 
+Student:393 -> Group:8 -> Group Representative:53.4 -> Avg:53.8 -> Marks:15 96 54 57 47
+Student:394 -> Group:18 -> Group Representative:59 -> Avg:58.4 -> Marks:30 96 63 87 16 
+Student:395 -> Group:8 -> Group Representative:53.4 -> Avg:53.8 -> Marks:77 37 29 90 36
+Student:396 -> Group:7 -> Group Representative:50.2 -> Avg:51.4 -> Marks:65 32 53 32 75 
+Student:397 -> Group:3 -> Group Representative:35.4 -> Avg:35.8 -> Marks:65 25 6 7 76
+Student:398 -> Group:21 -> Group Representative:21.8 -> Avg:26.2 -> Marks:25 12 24 1 69 
+Student:399 -> Group:1 -> Group Representative:70 -> Avg:69.6 -> Marks:90 60 90 82 26 
+Student:400 -> Group:10 -> Group Representative:43.8 -> Avg:43.8 -> Marks:28 81 9 6 95 
+Student:401 -> Group:48 -> Group Representative:74 -> Avg:77 -> Marks:79 82 74 99 51 
+Student:402 -> Group:8 -> Group Representative:53.4 -> Avg:52.4 -> Marks:69 16 70 67 40
+Student:403 -> Group:8 -> Group Representative:53.4 -> Avg:52.4 -> Marks:99 3 81 71 8
+Student:404 -> Group:28 -> Group Representative:59.6 -> Avg:59.4 -> Marks:16 22 84 95 80
+Student:405 -> Group:13 -> Group Representative:40.6 -> Avg:41.4 -> Marks:46 80 69 4 8 
+Student:406 -> Group:6 -> Group Representative:64.8 -> Avg:64.8 -> Marks:19 90 85 98 32 
+Student:407 -> Group:25 -> Group Representative:56.4 -> Avg:56.4 -> Marks:61 31 80 23 87
+Student:408 -> Group:25 -> Group Representative:56.4 -> Avg:56.8 -> Marks:49 39 44 70 82 
+Student:409 -> Group:11 -> Group Representative:64.6 -> Avg:63 -> Marks:99 75 5 41 95
+Student:410 -> Group:4 -> Group Representative:57.2 -> Avg:57.2 -> Marks:100 61 95 30 0
+Student:411 -> Group:32 -> Group Representative:48.8 -> Avg:49.4 -> Marks:61 10 44 45 87
+Student:412 -> Group:20 -> Group Representative:55.8 -> Avg:55.8 -> Marks:66 68 23 100 22
+Student:413 -> Group:7 -> Group Representative:50.2 -> Avg:50.6 -> Marks:6 99 8 73 67 
+Student:414 -> Group:19 -> Group Representative:48.6 -> Avg:48 -> Marks:27 5 92 92 24
+Student:415 -> Group:22 -> Group Representative:31 -> Avg:28.6 -> Marks:11 5 54 43 30 
+Student:416 -> Group:49 -> Group Representative:42.2 -> Avg:41.6 -> Marks:2 43 77 45 41 
+Student:417 -> Group:7 -> Group Representative:50.2 -> Avg:50 -> Marks:30 94 85 41 0
+Student:418 -> Group:18 -> Group Representative:59 -> Avg:58.4 -> Marks:90 51 41 26 84 
+Student:419 -> Group:34 -> Group Representative:60.2 -> Avg:60.2 -> Marks:52 46 62 42 99 
+Student:420 -> Group:22 -> Group Representative:31 -> Avg:27 -> Marks:9 11 58 54 3
+Student:421 -> Group:11 -> Group Representative:64.6 -> Avg:64.2 -> Marks:93 78 2 62 86 
+Student:422 -> Group:19 -> Group Representative:48.6 -> Avg:48.4 -> Marks:78 53 97 10 4 
+Student:423 -> Group:19 -> Group Representative:48.6 -> Avg:48.4 -> Marks:95 5 34 65 43
+Student:424 -> Group:11 -> Group Representative:64.6 -> Avg:64.2 -> Marks:64 83 72 29 73
+Student:425 -> Group:11 -> Group Representative:64.6 -> Avg:64 -> Marks:42 100 87 12 79
+Student:426 -> Group:18 -> Group Representative:59 -> Avg:59 -> Marks:90 53 2 53 97
+Student:427 -> Group:16 -> Group Representative:44 -> Avg:44 -> Marks:50 47 88 22 13 
+Student:428 -> Group:7 -> Group Representative:50.2 -> Avg:51.2 -> Marks:28 81 59 63 25 
+Student:429 -> Group:7 -> Group Representative:50.2 -> Avg:49.6 -> Marks:27 91 59 49 22
+Student:430 -> Group:49 -> Group Representative:42.2 -> Avg:41.8 -> Marks:86 48 8 14 53 
+Student:431 -> Group:3 -> Group Representative:35.4 -> Avg:35 -> Marks:58 19 8 65 25
+Student:432 -> Group:16 -> Group Representative:44 -> Avg:44 -> Marks:55 72 28 5 60 
+Student:433 -> Group:13 -> Group Representative:40.6 -> Avg:40.6 -> Marks:12 46 46 31 68 
+Student:434 -> Group:29 -> Group Representative:33 -> Avg:33 -> Marks:9 47 41 41 27
+Student:435 -> Group:5 -> Group Representative:54.4 -> Avg:54.2 -> Marks:25 59 40 88 59 
+Student:436 -> Group:11 -> Group Representative:64.6 -> Avg:63.6 -> Marks:94 43 36 49 96 
+Student:437 -> Group:3 -> Group Representative:35.4 -> Avg:36.6 -> Marks:10 32 43 96 2 
+Student:438 -> Group:30 -> Group Representative:71.6 -> Avg:72.2 -> Marks:19 93 92 94 63 
+Student:439 -> Group:20 -> Group Representative:55.8 -> Avg:55.8 -> Marks:49 15 92 81 42 
+Student:440 -> Group:7 -> Group Representative:50.2 -> Avg:51 -> Marks:33 85 95 2 40
+Student:441 -> Group:3 -> Group Representative:35.4 -> Avg:36.8 -> Marks:6 32 58 59 29 
+Student:442 -> Group:25 -> Group Representative:56.4 -> Avg:56.4 -> Marks:83 15 60 96 28 
+Student:443 -> Group:13 -> Group Representative:40.6 -> Avg:40.8 -> Marks:29 72 45 21 37
+Student:444 -> Group:3 -> Group Representative:35.4 -> Avg:36.8 -> Marks:19 26 84 37 18 
+Student:445 -> Group:24 -> Group Representative:39.6 -> Avg:39.6 -> Marks:21 78 1 37 61
+Student:446 -> Group:29 -> Group Representative:33 -> Avg:33 -> Marks:46 62 11 22 24 
+Student:447 -> Group:5 -> Group Representative:54.4 -> Avg:54.2 -> Marks:51 34 82 8 96
+Student:448 -> Group:26 -> Group Representative:44.2 -> Avg:44.2 -> Marks:56 47 69 18 31 
+Student:449 -> Group:12 -> Group Representative:66 -> Avg:65.8 -> Marks:79 39 66 62 83 
+Student:450 -> Group:25 -> Group Representative:56.4 -> Avg:56.4 -> Marks:0 74 24 92 92
+Student:451 -> Group:19 -> Group Representative:48.6 -> Avg:47.8 -> Marks:1 66 70 75 27 
+Student:452 -> Group:19 -> Group Representative:48.6 -> Avg:47.6 -> Marks:62 73 53 36 14
+Student:453 -> Group:34 -> Group Representative:60.2 -> Avg:60.2 -> Marks:95 92 79 22 13
+Student:454 -> Group:18 -> Group Representative:59 -> Avg:58.4 -> Marks:58 40 85 23 86 
+Student:455 -> Group:3 -> Group Representative:35.4 -> Avg:36.6 -> Marks:86 3 39 15 40 
+Student:456 -> Group:1 -> Group Representative:70 -> Avg:69.2 -> Marks:85 61 66 90 44
+Student:457 -> Group:24 -> Group Representative:39.6 -> Avg:38.8 -> Marks:61 14 16 5 98
+Student:458 -> Group:49 -> Group Representative:42.2 -> Avg:41.6 -> Marks:60 73 1 45 29
+Student:459 -> Group:24 -> Group Representative:39.6 -> Avg:38.4 -> Marks:70 19 35 27 41 
+Student:460 -> Group:6 -> Group Representative:64.8 -> Avg:64.8 -> Marks:19 57 99 57 92
+Student:461 -> Group:38 -> Group Representative:43.6 -> Avg:43.2 -> Marks:60 7 38 73 38 
+Student:462 -> Group:19 -> Group Representative:48.6 -> Avg:47.8 -> Marks:31 86 26 92 4 
+Student:463 -> Group:5 -> Group Representative:54.4 -> Avg:55 -> Marks:2 28 99 83 63
+Student:464 -> Group:22 -> Group Representative:31 -> Avg:29.8 -> Marks:29 36 1 41 42 
+Student:465 -> Group:22 -> Group Representative:31 -> Avg:30.2 -> Marks:37 37 22 47 8
+Student:466 -> Group:19 -> Group Representative:48.6 -> Avg:48.2 -> Marks:75 37 53 6 70
+Student:467 -> Group:5 -> Group Representative:54.4 -> Avg:54 -> Marks:29 73 50 68 50 
+Student:468 -> Group:8 -> Group Representative:53.4 -> Avg:53.4 -> Marks:98 62 73 11 23 
+Student:469 -> Group:26 -> Group Representative:44.2 -> Avg:44.2 -> Marks:5 50 20 73 73
+Student:470 -> Group:20 -> Group Representative:55.8 -> Avg:55.2 -> Marks:36 46 68 94 32
+Student:471 -> Group:48 -> Group Representative:74 -> Avg:86.4 -> Marks:94 96 73 99 70
+Student:472 -> Group:21 -> Group Representative:21.8 -> Avg:21 -> Marks:78 8 2 7 10
+Student:473 -> Group:48 -> Group Representative:74 -> Avg:76.2 -> Marks:80 27 94 93 87 
+Student:474 -> Group:17 -> Group Representative:67.6 -> Avg:68 -> Marks:82 24 93 89 52 
+Student:475 -> Group:17 -> Group Representative:67.6 -> Avg:68.2 -> Marks:51 91 93 73 33
+Student:476 -> Group:17 -> Group Representative:67.6 -> Avg:68.6 -> Marks:42 52 100 62 87 
+Student:477 -> Group:22 -> Group Representative:31 -> Avg:28 -> Marks:9 1 20 93 17 
+Student:478 -> Group:8 -> Group Representative:53.4 -> Avg:53.2 -> Marks:59 100 7 6 94
+Student:479 -> Group:24 -> Group Representative:39.6 -> Avg:39.4 -> Marks:35 25 66 64 7
+Student:480 -> Group:39 -> Group Representative:34 -> Avg:34.4 -> Marks:19 25 64 35 29
+Student:481 -> Group:22 -> Group Representative:31 -> Avg:31 -> Marks:8 94 25 11 17 
+Student:482 -> Group:13 -> Group Representative:40.6 -> Avg:40.6 -> Marks:46 31 7 54 65
+Student:483 -> Group:17 -> Group Representative:67.6 -> Avg:68.2 -> Marks:54 32 98 93 64 
+Student:484 -> Group:43 -> Group Representative:46.6 -> Avg:47.4 -> Marks:51 1 80 73 32 
+Student:485 -> Group:49 -> Group Representative:42.2 -> Avg:41.8 -> Marks:33 12 76 43 45 
+Student:486 -> Group:19 -> Group Representative:48.6 -> Avg:48.6 -> Marks:29 46 20 68 80 
+Student:487 -> Group:28 -> Group Representative:59.6 -> Avg:59.6 -> Marks:43 85 83 47 40
+Student:488 -> Group:7 -> Group Representative:50.2 -> Avg:51.2 -> Marks:19 20 34 90 93
+Student:489 -> Group:30 -> Group Representative:71.6 -> Avg:72.4 -> Marks:55 97 46 75 89
+Student:490 -> Group:49 -> Group Representative:42.2 -> Avg:41.6 -> Marks:52 74 58 24 0
+Student:491 -> Group:17 -> Group Representative:67.6 -> Avg:68.2 -> Marks:1 96 66 80 98
+Student:492 -> Group:12 -> Group Representative:66 -> Avg:66.4 -> Marks:73 54 85 37 83 
+Student:493 -> Group:26 -> Group Representative:44.2 -> Avg:44.2 -> Marks:4 85 51 61 20
+Student:494 -> Group:33 -> Group Representative:32.4 -> Avg:32.4 -> Marks:46 0 26 85 5
+Student:495 -> Group:22 -> Group Representative:31 -> Avg:31.4 -> Marks:26 28 66 25 12 
+Student:496 -> Group:7 -> Group Representative:50.2 -> Avg:49.6 -> Marks:92 3 57 90 6 
+Student:497 -> Group:11 -> Group Representative:64.6 -> Avg:62.8 -> Marks:25 77 79 35 98 
+Student:498 -> Group:49 -> Group Representative:42.2 -> Avg:42 -> Marks:41 38 76 23 32 
+Student:499 -> Group:17 -> Group Representative:67.6 -> Avg:67.2 -> Marks:84 59 54 81 58
+Student:500 -> Group:8 -> Group Representative:53.4 -> Avg:53.8 -> Marks:38 42 67 53 69
+Student:501 -> Group:3 -> Group Representative:35.4 -> Avg:37.4 -> Marks:44 19 31 13 80 
+Student:502 -> Group:9 -> Group Representative:44.6 -> Avg:44.6 -> Marks:51 58 12 80 22 
+Student:503 -> Group:39 -> Group Representative:34 -> Avg:34.4 -> Marks:32 45 22 32 41 
+Student:504 -> Group:18 -> Group Representative:59 -> Avg:59.2 -> Marks:43 68 14 94 77 
+Student:505 -> Group:8 -> Group Representative:53.4 -> Avg:53.4 -> Marks:52 30 56 70 59
+Student:506 -> Group:5 -> Group Representative:54.4 -> Avg:54.2 -> Marks:20 95 35 97 24
+Student:507 -> Group:22 -> Group Representative:31 -> Avg:29.2 -> Marks:18 21 32 12 63 
+Student:508 -> Group:24 -> Group Representative:39.6 -> Avg:37.8 -> Marks:95 2 1 16 75
+Student:509 -> Group:13 -> Group Representative:40.6 -> Avg:41.2 -> Marks:86 22 70 26 2 
+Student:510 -> Group:31 -> Group Representative:31.8 -> Avg:31.8 -> Marks:16 10 31 50 52 
+Student:511 -> Group:11 -> Group Representative:64.6 -> Avg:62.6 -> Marks:75 100 64 59 15 
+Student:512 -> Group:34 -> Group Representative:60.2 -> Avg:60 -> Marks:100 31 43 78 48 
+Student:513 -> Group:39 -> Group Representative:34 -> Avg:34.2 -> Marks:67 2 11 49 42
+Student:514 -> Group:34 -> Group Representative:60.2 -> Avg:60.2 -> Marks:53 83 30 75 60 
+Student:515 -> Group:16 -> Group Representative:44 -> Avg:44 -> Marks:34 82 21 79 4 
+Student:516 -> Group:7 -> Group Representative:50.2 -> Avg:51 -> Marks:28 78 91 51 7 
+Student:517 -> Group:12 -> Group Representative:66 -> Avg:66 -> Marks:91 85 5 84 65 
+Student:518 -> Group:28 -> Group Representative:59.6 -> Avg:59.6 -> Marks:74 14 98 29 83
+Student:519 -> Group:43 -> Group Representative:46.6 -> Avg:46.6 -> Marks:19 58 49 54 53 
+Student:520 -> Group:8 -> Group Representative:53.4 -> Avg:53.6 -> Marks:86 60 17 77 28 
+Student:521 -> Group:27 -> Group Representative:46 -> Avg:46.2 -> Marks:65 47 83 30 6 
+Student:522 -> Group:43 -> Group Representative:46.6 -> Avg:46.4 -> Marks:3 23 63 98 45
+Student:523 -> Group:27 -> Group Representative:46 -> Avg:45.8 -> Marks:12 87 36 15 79 
+Student:524 -> Group:32 -> Group Representative:48.8 -> Avg:48.8 -> Marks:15 83 52 56 38
+Student:525 -> Group:8 -> Group Representative:53.4 -> Avg:53.4 -> Marks:61 76 21 89 20
+Student:526 -> Group:22 -> Group Representative:31 -> Avg:28.4 -> Marks:2 29 15 85 11 
+Student:527 -> Group:22 -> Group Representative:31 -> Avg:29.2 -> Marks:47 22 21 43 13
+Student:528 -> Group:34 -> Group Representative:60.2 -> Avg:60 -> Marks:41 34 89 66 70
+Student:529 -> Group:24 -> Group Representative:39.6 -> Avg:39.6 -> Marks:67 35 31 52 13 
+Student:530 -> Group:17 -> Group Representative:67.6 -> Avg:67.6 -> Marks:84 91 6 73 84
+Student:531 -> Group:21 -> Group Representative:21.8 -> Avg:20.6 -> Marks:7 45 34 6 11
+Student:532 -> Group:8 -> Group Representative:53.4 -> Avg:53.8 -> Marks:27 97 85 30 30 
+Student:533 -> Group:18 -> Group Representative:59 -> Avg:58.2 -> Marks:50 50 96 90 5
+Student:534 -> Group:11 -> Group Representative:64.6 -> Avg:62.8 -> Marks:6 95 29 85 99
+Student:535 -> Group:46 -> Group Representative:60.6 -> Avg:61.4 -> Marks:91 35 41 45 95 
+Student:536 -> Group:49 -> Group Representative:42.2 -> Avg:41.8 -> Marks:91 34 6 62 16
+Student:537 -> Group:4 -> Group Representative:57.2 -> Avg:57.2 -> Marks:72 74 56 67 17
+Student:538 -> Group:8 -> Group Representative:53.4 -> Avg:53.4 -> Marks:49 87 13 59 59 
+Student:539 -> Group:6 -> Group Representative:64.8 -> Avg:64.8 -> Marks:71 77 49 77 50
+Student:540 -> Group:21 -> Group Representative:21.8 -> Avg:23 -> Marks:13 13 55 3 31 
+Student:541 -> Group:24 -> Group Representative:39.6 -> Avg:38 -> Marks:1 32 68 1 88
+Student:542 -> Group:27 -> Group Representative:46 -> Avg:46.2 -> Marks:14 70 45 28 74
+Student:543 -> Group:40 -> Group Representative:57.4 -> Avg:58 -> Marks:29 60 82 21 98
+Student:544 -> Group:3 -> Group Representative:35.4 -> Avg:35.6 -> Marks:43 25 14 46 50
+Student:545 -> Group:3 -> Group Representative:35.4 -> Avg:35.8 -> Marks:16 72 25 32 34 
+Student:546 -> Group:5 -> Group Representative:54.4 -> Avg:54.8 -> Marks:60 98 2 26 88
+Student:547 -> Group:18 -> Group Representative:59 -> Avg:58.4 -> Marks:24 78 72 23 95 
+Student:548 -> Group:3 -> Group Representative:35.4 -> Avg:36.8 -> Marks:85 12 64 15 8
+Student:549 -> Group:32 -> Group Representative:48.8 -> Avg:49 -> Marks:1 54 86 58 46 
+Student:550 -> Group:40 -> Group Representative:57.4 -> Avg:57.8 -> Marks:25 89 83 19 73
+Student:551 -> Group:8 -> Group Representative:53.4 -> Avg:52 -> Marks:4 96 1 66 93 
+Student:552 -> Group:26 -> Group Representative:44.2 -> Avg:44.2 -> Marks:46 4 24 50 97
+Student:553 -> Group:43 -> Group Representative:46.6 -> Avg:46.8 -> Marks:33 16 75 68 42 
+Student:554 -> Group:24 -> Group Representative:39.6 -> Avg:39.6 -> Marks:9 55 30 74 30
+Student:555 -> Group:43 -> Group Representative:46.6 -> Avg:47 -> Marks:24 52 3 62 94 
+Student:556 -> Group:43 -> Group Representative:46.6 -> Avg:46.8 -> Marks:100 30 10 66 28
+Student:557 -> Group:46 -> Group Representative:60.6 -> Avg:60.6 -> Marks:21 29 99 68 86 
+Student:558 -> Group:22 -> Group Representative:31 -> Avg:27 -> Marks:22 19 58 5 31
+Student:559 -> Group:4 -> Group Representative:57.2 -> Avg:57.2 -> Marks:9 67 65 78 67 
+Student:560 -> Group:11 -> Group Representative:64.6 -> Avg:64 -> Marks:91 52 75 74 28 
+Student:561 -> Group:49 -> Group Representative:42.2 -> Avg:42 -> Marks:40 28 40 28 74
+Student:562 -> Group:19 -> Group Representative:48.6 -> Avg:48 -> Marks:63 18 78 11 70
+Student:563 -> Group:28 -> Group Representative:59.6 -> Avg:59.4 -> Marks:2 77 97 49 72
+Student:564 -> Group:6 -> Group Representative:64.8 -> Avg:64.8 -> Marks:88 49 81 74 32 
+Student:565 -> Group:1 -> Group Representative:70 -> Avg:70.8 -> Marks:87 92 16 85 74
+Student:567 -> Group:7 -> Group Representative:50.2 -> Avg:51.8 -> Marks:78 43 79 32 27
+Student:568 -> Group:34 -> Group Representative:60.2 -> Avg:60 -> Marks:27 71 66 50 86
+Student:569 -> Group:24 -> Group Representative:39.6 -> Avg:39.6 -> Marks:64 25 19 74 16
+Student:570 -> Group:7 -> Group Representative:50.2 -> Avg:51.8 -> Marks:76 32 89 57 5
+Student:571 -> Group:17 -> Group Representative:67.6 -> Avg:68.2 -> Marks:87 84 98 61 11
+Student:572 -> Group:31 -> Group Representative:31.8 -> Avg:31.8 -> Marks:21 38 30 39 31
+Student:573 -> Group:24 -> Group Representative:39.6 -> Avg:39.2 -> Marks:22 11 50 65 48
+Student:574 -> Group:46 -> Group Representative:60.6 -> Avg:62.4 -> Marks:98 13 74 97 30
+Student:575 -> Group:20 -> Group Representative:55.8 -> Avg:55.4 -> Marks:95 89 27 51 15
+Student:576 -> Group:42 -> Group Representative:42.8 -> Avg:42.8 -> Marks:32 55 56 7 64
+Student:577 -> Group:19 -> Group Representative:48.6 -> Avg:47.6 -> Marks:65 30 57 36 50
+Student:578 -> Group:27 -> Group Representative:46 -> Avg:46 -> Marks:42 6 67 16 99
+Student:579 -> Group:5 -> Group Representative:54.4 -> Avg:54 -> Marks:77 31 72 78 12
+Student:580 -> Group:3 -> Group Representative:35.4 -> Avg:37.2 -> Marks:33 79 36 34 4
+Student:581 -> Group:35 -> Group Representative:45.4 -> Avg:45.4 -> Marks:57 35 70 42 23
+Student:582 -> Group:48 -> Group Representative:74 -> Avg:81.2 -> Marks:63 97 73 87 86
+Student:583 -> Group:21 -> Group Representative:21.8 -> Avg:25.6 -> Marks:34 9 31 14 40
+Student:584 -> Group:43 -> Group Representative:46.6 -> Avg:47.2 -> Marks:20 90 31 28 67
+Student:585 -> Group:38 -> Group Representative:43.6 -> Avg:43.4 -> Marks:38 44 24 57 54
+Student:586 -> Group:44 -> Group Representative:19.4 -> Avg:19.4 -> Marks:0 20 13 23 41
+Student:587 -> Group:39 -> Group Representative:34 -> Avg:33.8 -> Marks:1 18 4 49 97
+Student:588 -> Group:34 -> Group Representative:60.2 -> Avg:60.2 -> Marks:71 99 31 90 10 
+Student:589 -> Group:20 -> Group Representative:55.8 -> Avg:55.8 -> Marks:80 95 21 78 5  
+Student:590 -> Group:5 -> Group Representative:54.4 -> Avg:54.8 -> Marks:73 77 79 31 14 
+Student:591 -> Group:33 -> Group Representative:32.4 -> Avg:32.6 -> Marks:3 14 11 50 85 
+Student:592 -> Group:21 -> Group Representative:21.8 -> Avg:21.2 -> Marks:14 20 4 67 1  
+Student:593 -> Group:10 -> Group Representative:43.8 -> Avg:43.8 -> Marks:28 21 80 83 7 
+Student:594 -> Group:13 -> Group Representative:40.6 -> Avg:40.6 -> Marks:45 33 2 68 55 
+Student:595 -> Group:46 -> Group Representative:60.6 -> Avg:62.2 -> Marks:59 85 71 73 23 
+Student:596 -> Group:22 -> Group Representative:31 -> Avg:28.2 -> Marks:37 5 17 81 1     
+Student:597 -> Group:8 -> Group Representative:53.4 -> Avg:52.2 -> Marks:84 38 41 28 70  
+Student:598 -> Group:24 -> Group Representative:39.6 -> Avg:40 -> Marks:72 51 31 14 32   
+Student:599 -> Group:8 -> Group Representative:53.4 -> Avg:52 -> Marks:48 69 86 7 50 
+Student:600 -> Group:46 -> Group Representative:60.6 -> Avg:62.2 -> Marks:43 55 61 72 80
+Student:601 -> Group:5 -> Group Representative:54.4 -> Avg:54.4 -> Marks:27 55 29 83 78 
+Student:602 -> Group:31 -> Group Representative:31.8 -> Avg:31.6 -> Marks:89 33 1 33 2
+Student:603 -> Group:12 -> Group Representative:66 -> Avg:65.8 -> Marks:77 60 56 83 53
+Student:604 -> Group:48 -> Group Representative:74 -> Avg:77.2 -> Marks:74 85 43 98 86
+Student:605 -> Group:34 -> Group Representative:60.2 -> Avg:60.2 -> Marks:93 90 72 42 4 
+Student:606 -> Group:5 -> Group Representative:54.4 -> Avg:54.4 -> Marks:59 18 84 78 33 
+Student:607 -> Group:5 -> Group Representative:54.4 -> Avg:54.6 -> Marks:100 48 67 11 47 
+Student:608 -> Group:39 -> Group Representative:34 -> Avg:34.6 -> Marks:60 43 26 31 13
+Student:609 -> Group:7 -> Group Representative:50.2 -> Avg:50.2 -> Marks:69 65 20 94 3
+Student:610 -> Group:22 -> Group Representative:31 -> Avg:28.6 -> Marks:22 19 18 84 0 
+Student:611 -> Group:24 -> Group Representative:39.6 -> Avg:37.8 -> Marks:1 23 17 73 75
+Student:612 -> Group:25 -> Group Representative:56.4 -> Avg:56.6 -> Marks:52 81 33 37 80
+Student:613 -> Group:1 -> Group Representative:70 -> Avg:68.8 -> Marks:28 83 91 66 76 
+Student:614 -> Group:27 -> Group Representative:46 -> Avg:46.2 -> Marks:42 53 65 34 37
+Student:615 -> Group:18 -> Group Representative:59 -> Avg:58.8 -> Marks:39 91 62 10 92 
+Student:616 -> Group:40 -> Group Representative:57.4 -> Avg:58 -> Marks:90 44 31 80 45 
+Student:617 -> Group:18 -> Group Representative:59 -> Avg:58.6 -> Marks:29 75 65 84 40
+Student:618 -> Group:43 -> Group Representative:46.6 -> Avg:47.4 -> Marks:24 37 86 61 29
+Student:619 -> Group:7 -> Group Representative:50.2 -> Avg:50.4 -> Marks:40 18 72 74 48
+Student:620 -> Group:11 -> Group Representative:64.6 -> Avg:64.2 -> Marks:83 37 65 65 71 
+Student:621 -> Group:22 -> Group Representative:31 -> Avg:31 -> Marks:0 1 21 46 87
+Student:622 -> Group:43 -> Group Representative:46.6 -> Avg:47.2 -> Marks:70 33 16 39 78
+Student:623 -> Group:11 -> Group Representative:64.6 -> Avg:64 -> Marks:100 6 24 97 93 
+Student:624 -> Group:44 -> Group Representative:19.4 -> Avg:18.2 -> Marks:28 16 24 21 2
+Student:625 -> Group:7 -> Group Representative:50.2 -> Avg:50.2 -> Marks:16 11 51 93 80
+Student:626 -> Group:4 -> Group Representative:57.2 -> Avg:57.2 -> Marks:88 43 73 2 80 
+Student:627 -> Group:19 -> Group Representative:48.6 -> Avg:48.6 -> Marks:64 30 57 21 71
+Student:628 -> Group:1 -> Group Representative:70 -> Avg:70 -> Marks:73 99 89 66 23
+Student:629 -> Group:11 -> Group Representative:64.6 -> Avg:63.2 -> Marks:67 77 0 89 83 
+Student:630 -> Group:19 -> Group Representative:48.6 -> Avg:48.2 -> Marks:21 71 69 71 9 
+Student:631 -> Group:11 -> Group Representative:64.6 -> Avg:64.6 -> Marks:93 51 30 61 88 
+Student:632 -> Group:8 -> Group Representative:53.4 -> Avg:52.2 -> Marks:64 57 74 50 16 
+Student:633 -> Group:35 -> Group Representative:45.4 -> Avg:45.6 -> Marks:5 11 52 100 60
+Student:634 -> Group:5 -> Group Representative:54.4 -> Avg:55 -> Marks:46 81 76 34 38
+Student:635 -> Group:31 -> Group Representative:31.8 -> Avg:32 -> Marks:1 94 26 33 6 
+Student:636 -> Group:43 -> Group Representative:46.6 -> Avg:46.4 -> Marks:50 44 32 77 29 
+Student:637 -> Group:48 -> Group Representative:74 -> Avg:91 -> Marks:96 98 85 96 80
+Student:638 -> Group:22 -> Group Representative:31 -> Avg:27.8 -> Marks:24 15 28 34 38
+Student:639 -> Group:3 -> Group Representative:35.4 -> Avg:34.8 -> Marks:55 50 1 43 25
+Student:640 -> Group:8 -> Group Representative:53.4 -> Avg:53.4 -> Marks:94 30 28 26 89 
+Student:641 -> Group:7 -> Group Representative:50.2 -> Avg:51.6 -> Marks:42 99 33 83 1 
+Student:642 -> Group:7 -> Group Representative:50.2 -> Avg:50.6 -> Marks:59 25 5 83 81
+Student:643 -> Group:3 -> Group Representative:35.4 -> Avg:36.6 -> Marks:22 24 24 22 91 
+Student:644 -> Group:21 -> Group Representative:21.8 -> Avg:25.4 -> Marks:57 11 32 8 19
+Student:645 -> Group:3 -> Group Representative:35.4 -> Avg:37.2 -> Marks:23 93 29 10 31
+Student:646 -> Group:13 -> Group Representative:40.6 -> Avg:40.2 -> Marks:83 13 17 17 71 
+Student:647 -> Group:24 -> Group Representative:39.6 -> Avg:39.6 -> Marks:72 22 22 82 0 
+Student:648 -> Group:13 -> Group Representative:40.6 -> Avg:40.6 -> Marks:46 10 97 21 29 
+Student:649 -> Group:38 -> Group Representative:43.6 -> Avg:43.6 -> Marks:1 88 13 63 53 
+Student:650 -> Group:11 -> Group Representative:64.6 -> Avg:64.2 -> Marks:96 28 73 50 74
+Student:651 -> Group:8 -> Group Representative:53.4 -> Avg:52.8 -> Marks:16 96 48 73 31
+Student:652 -> Group:48 -> Group Representative:74 -> Avg:77 -> Marks:97 100 64 53 71 
+Student:653 -> Group:27 -> Group Representative:46 -> Avg:46.2 -> Marks:61 51 22 70 27 
+Student:654 -> Group:35 -> Group Representative:45.4 -> Avg:45.2 -> Marks:65 37 11 17 96 
+Student:655 -> Group:7 -> Group Representative:50.2 -> Avg:51.6 -> Marks:72 99 11 30 46 
+Student:656 -> Group:13 -> Group Representative:40.6 -> Avg:40.4 -> Marks:22 63 76 18 23
+Student:657 -> Group:28 -> Group Representative:59.6 -> Avg:59.6 -> Marks:92 60 57 6 83 
+Student:658 -> Group:17 -> Group Representative:67.6 -> Avg:67.4 -> Marks:28 45 77 97 90
+Student:659 -> Group:8 -> Group Representative:53.4 -> Avg:52 -> Marks:90 75 3 9 83 
+Student:660 -> Group:30 -> Group Representative:71.6 -> Avg:71.2 -> Marks:72 94 51 55 84 
+Student:661 -> Group:18 -> Group Representative:59 -> Avg:58.6 -> Marks:59 39 70 47 78
+Student:662 -> Group:18 -> Group Representative:59 -> Avg:58.6 -> Marks:81 98 71 15 28 
+Student:663 -> Group:9 -> Group Representative:44.6 -> Avg:44.8 -> Marks:50 51 57 31 35
+Student:664 -> Group:5 -> Group Representative:54.4 -> Avg:54.6 -> Marks:83 58 100 26 6
+Student:665 -> Group:33 -> Group Representative:32.4 -> Avg:32.4 -> Marks:34 18 42 34 34
+Student:666 -> Group:24 -> Group Representative:39.6 -> Avg:39.6 -> Marks:19 71 68 39 1 
+Student:667 -> Group:11 -> Group Representative:64.6 -> Avg:63.6 -> Marks:57 75 50 71 65 
+Student:668 -> Group:46 -> Group Representative:60.6 -> Avg:60.6 -> Marks:24 75 67 92 45 
+Student:669 -> Group:32 -> Group Representative:48.8 -> Avg:48.8 -> Marks:85 49 28 24 58
+Student:670 -> Group:27 -> Group Representative:46 -> Avg:45.8 -> Marks:81 10 35 39 64 
+Student:671 -> Group:22 -> Group Representative:31 -> Avg:31.2 -> Marks:89 16 5 5 41 
+Student:672 -> Group:42 -> Group Representative:42.8 -> Avg:42.8 -> Marks:32 2 74 77 29
+Student:673 -> Group:3 -> Group Representative:35.4 -> Avg:36.8 -> Marks:3 15 39 52 75
+Student:674 -> Group:5 -> Group Representative:54.4 -> Avg:54.6 -> Marks:24 76 83 2 88
+Student:675 -> Group:42 -> Group Representative:42.8 -> Avg:42.6 -> Marks:90 32 36 41 14 
+Student:676 -> Group:20 -> Group Representative:55.8 -> Avg:55.8 -> Marks:86 22 100 59 12 
+Student:677 -> Group:44 -> Group Representative:19.4 -> Avg:15.2 -> Marks:6 1 2 36 31
+Student:678 -> Group:7 -> Group Representative:50.2 -> Avg:50.8 -> Marks:49 77 100 1 27
+Student:679 -> Group:1 -> Group Representative:70 -> Avg:68.8 -> Marks:91 14 55 92 92
+Student:680 -> Group:22 -> Group Representative:31 -> Avg:26.8 -> Marks:30 10 14 49 31 
+Student:681 -> Group:12 -> Group Representative:66 -> Avg:66 -> Marks:85 10 44 97 94
+Student:682 -> Group:17 -> Group Representative:67.6 -> Avg:67 -> Marks:98 96 66 55 20
+Student:683 -> Group:8 -> Group Representative:53.4 -> Avg:52 -> Marks:24 86 46 40 64
+Student:684 -> Group:4 -> Group Representative:57.2 -> Avg:57 -> Marks:56 98 86 7 38 
+Student:685 -> Group:1 -> Group Representative:70 -> Avg:70 -> Marks:88 55 85 38 84 
+Student:686 -> Group:7 -> Group Representative:50.2 -> Avg:51.6 -> Marks:68 35 49 37 69
+Student:687 -> Group:12 -> Group Representative:66 -> Avg:65.6 -> Marks:20 95 42 85 86
+Student:688 -> Group:20 -> Group Representative:55.8 -> Avg:55.2 -> Marks:88 87 1 18 82 
+Student:689 -> Group:8 -> Group Representative:53.4 -> Avg:53.4 -> Marks:90 4 68 17 88
+Student:690 -> Group:3 -> Group Representative:35.4 -> Avg:37 -> Marks:41 72 22 29 21 
+Student:691 -> Group:26 -> Group Representative:44.2 -> Avg:44.4 -> Marks:95 28 3 63 33 
+Student:692 -> Group:8 -> Group Representative:53.4 -> Avg:52.6 -> Marks:47 17 37 76 86
+Student:693 -> Group:3 -> Group Representative:35.4 -> Avg:37.2 -> Marks:35 53 7 87 4
+Student:694 -> Group:4 -> Group Representative:57.2 -> Avg:57.2 -> Marks:16 52 29 89 100 
+Student:695 -> Group:17 -> Group Representative:67.6 -> Avg:68 -> Marks:85 80 82 4 89 
+Student:696 -> Group:25 -> Group Representative:56.4 -> Avg:56.6 -> Marks:54 65 72 51 41
+Student:697 -> Group:3 -> Group Representative:35.4 -> Avg:36.6 -> Marks:19 18 37 54 55
+Student:698 -> Group:25 -> Group Representative:56.4 -> Avg:56.2 -> Marks:63 25 17 99 77 
+Student:699 -> Group:25 -> Group Representative:56.4 -> Avg:56.2 -> Marks:62 8 92 34 85
+Student:700 -> Group:7 -> Group Representative:50.2 -> Avg:51.6 -> Marks:50 84 36 58 30 
+Student:701 -> Group:43 -> Group Representative:46.6 -> Avg:46.6 -> Marks:78 12 25 50 68
+Student:702 -> Group:29 -> Group Representative:33 -> Avg:33.4 -> Marks:6 93 19 2 47
+Student:703 -> Group:24 -> Group Representative:39.6 -> Avg:38 -> Marks:83 20 42 20 25
+Student:704 -> Group:35 -> Group Representative:45.4 -> Avg:45.2 -> Marks:58 47 3 19 99 
+Student:705 -> Group:8 -> Group Representative:53.4 -> Avg:53.4 -> Marks:4 76 97 54 36
+Student:706 -> Group:43 -> Group Representative:46.6 -> Avg:47.2 -> Marks:61 99 27 3 46
+Student:707 -> Group:30 -> Group Representative:71.6 -> Avg:72.2 -> Marks:100 90 32 68 71 
+Student:708 -> Group:9 -> Group Representative:44.6 -> Avg:44.6 -> Marks:86 12 47 60 18 
+Student:709 -> Group:16 -> Group Representative:44 -> Avg:44 -> Marks:95 13 19 40 53
+Student:710 -> Group:7 -> Group Representative:50.2 -> Avg:51 -> Marks:42 27 74 79 33 
+Student:711 -> Group:7 -> Group Representative:50.2 -> Avg:51.6 -> Marks:30 97 82 49 0
+Student:712 -> Group:34 -> Group Representative:60.2 -> Avg:60 -> Marks:97 5 95 38 65
+Student:713 -> Group:36 -> Group Representative:56 -> Avg:56 -> Marks:95 29 89 31 36 
+Student:714 -> Group:1 -> Group Representative:70 -> Avg:69.6 -> Marks:84 34 96 58 76 
+Student:715 -> Group:27 -> Group Representative:46 -> Avg:45.8 -> Marks:11 50 28 80 60
+Student:716 -> Group:8 -> Group Representative:53.4 -> Avg:53.4 -> Marks:24 76 23 61 83
+Student:717 -> Group:7 -> Group Representative:50.2 -> Avg:50 -> Marks:62 52 45 77 14 
+Student:718 -> Group:12 -> Group Representative:66 -> Avg:66 -> Marks:68 45 45 93 79
+Student:719 -> Group:46 -> Group Representative:60.6 -> Avg:61.2 -> Marks:91 22 88 12 93 
+Student:720 -> Group:43 -> Group Representative:46.6 -> Avg:47 -> Marks:73 63 81 17 1
+Student:721 -> Group:34 -> Group Representative:60.2 -> Avg:60 -> Marks:60 98 71 35 36 
+Student:722 -> Group:8 -> Group Representative:53.4 -> Avg:52.6 -> Marks:92 95 57 16 3
+Student:723 -> Group:42 -> Group Representative:42.8 -> Avg:43 -> Marks:82 24 56 34 19 
+Student:724 -> Group:30 -> Group Representative:71.6 -> Avg:72.4 -> Marks:50 99 41 82 90 
+Student:725 -> Group:43 -> Group Representative:46.6 -> Avg:47 -> Marks:38 57 74 18 48
+Student:726 -> Group:5 -> Group Representative:54.4 -> Avg:54.8 -> Marks:17 96 98 2 61
+Student:727 -> Group:16 -> Group Representative:44 -> Avg:44 -> Marks:6 72 11 59 72 
+Student:728 -> Group:46 -> Group Representative:60.6 -> Avg:62.4 -> Marks:77 68 82 50 35
+Student:729 -> Group:32 -> Group Representative:48.8 -> Avg:49 -> Marks:46 16 32 85 66 
+Student:730 -> Group:10 -> Group Representative:43.8 -> Avg:43.8 -> Marks:30 99 43 11 36 
+Student:731 -> Group:43 -> Group Representative:46.6 -> Avg:47.4 -> Marks:9 1 73 66 88
+Student:732 -> Group:8 -> Group Representative:53.4 -> Avg:52.8 -> Marks:17 69 78 60 40
+Student:733 -> Group:1 -> Group Representative:70 -> Avg:69.8 -> Marks:89 39 44 90 87 
+Student:734 -> Group:29 -> Group Representative:33 -> Avg:33.4 -> Marks:15 21 24 16 91 
+Student:735 -> Group:45 -> Group Representative:73.6 -> Avg:73.2 -> Marks:91 59 77 99 40
+Student:736 -> Group:16 -> Group Representative:44 -> Avg:44 -> Marks:89 2 54 23 52
+Student:737 -> Group:3 -> Group Representative:35.4 -> Avg:37.4 -> Marks:68 2 18 43 56
+Student:738 -> Group:48 -> Group Representative:74 -> Avg:75.2 -> Marks:48 47 100 81 100 
+Student:739 -> Group:28 -> Group Representative:59.6 -> Avg:59.8 -> Marks:28 100 61 68 42
+Student:740 -> Group:48 -> Group Representative:74 -> Avg:82.8 -> Marks:41 85 95 94 99 
+Student:741 -> Group:39 -> Group Representative:34 -> Avg:34 -> Marks:11 2 25 87 45
+Student:742 -> Group:19 -> Group Representative:48.6 -> Avg:48 -> Marks:21 77 26 77 39
+Student:743 -> Group:11 -> Group Representative:64.6 -> Avg:63 -> Marks:21 64 51 99 80 
+Student:744 -> Group:3 -> Group Representative:35.4 -> Avg:37.2 -> Marks:58 68 21 25 14 
+Student:745 -> Group:46 -> Group Representative:60.6 -> Avg:60.8 -> Marks:67 54 49 72 62
+Student:746 -> Group:28 -> Group Representative:59.6 -> Avg:59.4 -> Marks:90 72 82 17 36
+Student:747 -> Group:48 -> Group Representative:74 -> Avg:79 -> Marks:100 99 11 96 89
+Student:748 -> Group:13 -> Group Representative:40.6 -> Avg:41.2 -> Marks:49 53 59 7 38 
+Student:749 -> Group:8 -> Group Representative:53.4 -> Avg:52.4 -> Marks:60 50 4 79 69
+Student:750 -> Group:18 -> Group Representative:59 -> Avg:59 -> Marks:58 55 57 61 64
+Student:751 -> Group:24 -> Group Representative:39.6 -> Avg:39 -> Marks:8 58 52 28 49
+Student:752 -> Group:11 -> Group Representative:64.6 -> Avg:64.4 -> Marks:88 22 95 60 57 
+Student:753 -> Group:22 -> Group Representative:31 -> Avg:27 -> Marks:31 74 10 14 6
+Student:754 -> Group:11 -> Group Representative:64.6 -> Avg:63.4 -> Marks:81 74 51 88 23 
+Student:755 -> Group:17 -> Group Representative:67.6 -> Avg:67.8 -> Marks:34 89 71 58 87
+Student:756 -> Group:20 -> Group Representative:55.8 -> Avg:55.8 -> Marks:100 55 36 43 45
+Student:757 -> Group:40 -> Group Representative:57.4 -> Avg:57.6 -> Marks:78 3 96 73 38
+Student:758 -> Group:27 -> Group Representative:46 -> Avg:46 -> Marks:46 46 87 32 19 
+Student:759 -> Group:29 -> Group Representative:33 -> Avg:33.2 -> Marks:18 85 13 31 19 
+Student:760 -> Group:46 -> Group Representative:60.6 -> Avg:61.8 -> Marks:77 46 45 45 96
+Student:761 -> Group:5 -> Group Representative:54.4 -> Avg:54.2 -> Marks:70 38 81 67 15 
+Student:762 -> Group:22 -> Group Representative:31 -> Avg:28.2 -> Marks:11 51 57 21 1
+Student:763 -> Group:7 -> Group Representative:50.2 -> Avg:51.6 -> Marks:47 75 77 45 14 
+Student:764 -> Group:11 -> Group Representative:64.6 -> Avg:62.8 -> Marks:84 56 91 52 31 
+Student:765 -> Group:22 -> Group Representative:31 -> Avg:28.4 -> Marks:44 7 2 83 6 
+Student:766 -> Group:5 -> Group Representative:54.4 -> Avg:54.2 -> Marks:23 57 81 29 81 
+Student:767 -> Group:18 -> Group Representative:59 -> Avg:59.2 -> Marks:23 5 80 100 88 
+Student:768 -> Group:8 -> Group Representative:53.4 -> Avg:53.8 -> Marks:66 62 32 94 15
+Student:769 -> Group:7 -> Group Representative:50.2 -> Avg:50.6 -> Marks:64 6 35 98 50
+Student:770 -> Group:7 -> Group Representative:50.2 -> Avg:50 -> Marks:53 36 49 45 67 
+Student:771 -> Group:46 -> Group Representative:60.6 -> Avg:60.8 -> Marks:57 22 54 77 94 
+Student:772 -> Group:21 -> Group Representative:21.8 -> Avg:22.6 -> Marks:29 31 37 0 16 
+Student:773 -> Group:19 -> Group Representative:48.6 -> Avg:48.6 -> Marks:11 56 99 45 32
+Student:774 -> Group:9 -> Group Representative:44.6 -> Avg:44.6 -> Marks:69 6 48 94 6
+Student:775 -> Group:21 -> Group Representative:21.8 -> Avg:24.2 -> Marks:26 8 47 2 38
+Student:776 -> Group:43 -> Group Representative:46.6 -> Avg:46.8 -> Marks:28 50 86 14 56 
+Student:777 -> Group:48 -> Group Representative:74 -> Avg:75.6 -> Marks:96 96 55 82 49 
+Student:778 -> Group:21 -> Group Representative:21.8 -> Avg:21 -> Marks:52 31 14 6 2 
+Student:779 -> Group:5 -> Group Representative:54.4 -> Avg:55 -> Marks:21 52 96 29 77
+Student:780 -> Group:48 -> Group Representative:74 -> Avg:78 -> Marks:67 81 80 65 97
+Student:781 -> Group:5 -> Group Representative:54.4 -> Avg:54.6 -> Marks:28 84 74 29 58
+Student:782 -> Group:8 -> Group Representative:53.4 -> Avg:53.8 -> Marks:36 55 3 86 89 
+Student:783 -> Group:3 -> Group Representative:35.4 -> Avg:36 -> Marks:48 34 12 79 7
+Student:784 -> Group:3 -> Group Representative:35.4 -> Avg:36.2 -> Marks:40 32 4 27 78 
+Student:785 -> Group:49 -> Group Representative:42.2 -> Avg:41.6 -> Marks:59 13 11 94 31 
+Student:786 -> Group:30 -> Group Representative:71.6 -> Avg:72.2 -> Marks:94 63 80 77 47 
+Student:787 -> Group:11 -> Group Representative:64.6 -> Avg:62.8 -> Marks:83 61 84 13 73
+Student:788 -> Group:21 -> Group Representative:21.8 -> Avg:26.2 -> Marks:17 21 10 41 42
+Student:789 -> Group:13 -> Group Representative:40.6 -> Avg:41.2 -> Marks:60 71 20 33 22 
+Student:790 -> Group:18 -> Group Representative:59 -> Avg:59.2 -> Marks:88 38 66 52 52 
+Student:791 -> Group:8 -> Group Representative:53.4 -> Avg:53.6 -> Marks:46 71 44 37 70
+Student:792 -> Group:40 -> Group Representative:57.4 -> Avg:58 -> Marks:72 27 89 91 11
+Student:793 -> Group:45 -> Group Representative:73.6 -> Avg:73.8 -> Marks:82 99 60 43 85 
+Student:794 -> Group:13 -> Group Representative:40.6 -> Avg:40.6 -> Marks:26 22 38 77 40 
+Student:795 -> Group:7 -> Group Representative:50.2 -> Avg:51.8 -> Marks:81 40 75 5 58 
+Student:796 -> Group:46 -> Group Representative:60.6 -> Avg:61.8 -> Marks:55 91 94 49 20 
+Student:797 -> Group:27 -> Group Representative:46 -> Avg:46 -> Marks:7 94 28 5 96 
+Student:798 -> Group:24 -> Group Representative:39.6 -> Avg:37.8 -> Marks:52 30 7 39 61
+Student:799 -> Group:7 -> Group Representative:50.2 -> Avg:49.6 -> Marks:62 89 66 17 14
+Student:800 -> Group:7 -> Group Representative:50.2 -> Avg:50 -> Marks:36 68 100 43 3 
+Student:801 -> Group:46 -> Group Representative:60.6 -> Avg:62 -> Marks:55 81 44 34 96
+Student:802 -> Group:11 -> Group Representative:64.6 -> Avg:63.6 -> Marks:96 13 96 95 18 
+Student:803 -> Group:22 -> Group Representative:31 -> Avg:27.2 -> Marks:33 33 7 41 22 
+Student:804 -> Group:49 -> Group Representative:42.2 -> Avg:41.8 -> Marks:50 73 76 4 6 
+Student:805 -> Group:11 -> Group Representative:64.6 -> Avg:63.8 -> Marks:82 44 25 99 69
+Student:806 -> Group:43 -> Group Representative:46.6 -> Avg:47.4 -> Marks:28 58 74 7 70 
+Student:807 -> Group:28 -> Group Representative:59.6 -> Avg:59.6 -> Marks:16 27 99 100 56
+Student:808 -> Group:46 -> Group Representative:60.6 -> Avg:60.8 -> Marks:51 87 66 11 89
+Student:809 -> Group:25 -> Group Representative:56.4 -> Avg:56.2 -> Marks:49 30 21 82 99 
+Student:810 -> Group:39 -> Group Representative:34 -> Avg:34.6 -> Marks:0 27 76 59 11 
+Student:811 -> Group:24 -> Group Representative:39.6 -> Avg:39.4 -> Marks:11 93 16 66 11 
+Student:812 -> Group:43 -> Group Representative:46.6 -> Avg:47.4 -> Marks:97 69 21 39 11 
+Student:813 -> Group:48 -> Group Representative:74 -> Avg:79.6 -> Marks:77 55 79 96 91
+Student:814 -> Group:46 -> Group Representative:60.6 -> Avg:60.8 -> Marks:77 15 74 94 44 
+Student:815 -> Group:48 -> Group Representative:74 -> Avg:74 -> Marks:76 46 94 76 78
+Student:816 -> Group:30 -> Group Representative:71.6 -> Avg:71.4 -> Marks:56 42 99 90 70
+Student:817 -> Group:46 -> Group Representative:60.6 -> Avg:61.2 -> Marks:34 42 47 88 95 
+Student:818 -> Group:7 -> Group Representative:50.2 -> Avg:50.4 -> Marks:57 95 76 22 2 
+Student:819 -> Group:5 -> Group Representative:54.4 -> Avg:54.8 -> Marks:98 96 12 16 52
+Student:820 -> Group:49 -> Group Representative:42.2 -> Avg:42 -> Marks:95 23 75 15 2 
+Student:821 -> Group:18 -> Group Representative:59 -> Avg:59.2 -> Marks:44 51 46 61 94
+Student:822 -> Group:24 -> Group Representative:39.6 -> Avg:37.6 -> Marks:29 17 5 90 47
+Student:823 -> Group:34 -> Group Representative:60.2 -> Avg:60.2 -> Marks:33 63 18 98 89
+Student:824 -> Group:28 -> Group Representative:59.6 -> Avg:59.8 -> Marks:91 41 25 91 51
+Student:825 -> Group:33 -> Group Representative:32.4 -> Avg:32.2 -> Marks:0 46 7 57 51 
+Student:826 -> Group:24 -> Group Representative:39.6 -> Avg:37.6 -> Marks:35 44 71 27 11 
+Student:827 -> Group:40 -> Group Representative:57.4 -> Avg:58 -> Marks:42 93 0 67 88 
+Student:828 -> Group:24 -> Group Representative:39.6 -> Avg:38.8 -> Marks:63 36 23 33 39 
+Student:829 -> Group:7 -> Group Representative:50.2 -> Avg:51.2 -> Marks:53 13 23 71 96
+Student:830 -> Group:3 -> Group Representative:35.4 -> Avg:35 -> Marks:42 29 38 11 55
+Student:831 -> Group:21 -> Group Representative:21.8 -> Avg:22.6 -> Marks:1 44 11 7 50 
+Student:832 -> Group:44 -> Group Representative:19.4 -> Avg:17 -> Marks:47 20 0 4 14
+Student:833 -> Group:25 -> Group Representative:56.4 -> Avg:56.8 -> Marks:14 45 60 94 71 
+Student:834 -> Group:4 -> Group Representative:57.2 -> Avg:57.2 -> Marks:94 66 7 93 26 
+Student:835 -> Group:44 -> Group Representative:19.4 -> Avg:19.8 -> Marks:22 9 0 47 21
+Student:836 -> Group:11 -> Group Representative:64.6 -> Avg:62.8 -> Marks:86 49 57 30 92
+Student:837 -> Group:1 -> Group Representative:70 -> Avg:70.2 -> Marks:36 92 58 76 89
+Student:838 -> Group:26 -> Group Representative:44.2 -> Avg:44.4 -> Marks:44 71 12 64 31 
+Student:839 -> Group:13 -> Group Representative:40.6 -> Avg:41.2 -> Marks:25 0 66 34 81 
+Student:840 -> Group:11 -> Group Representative:64.6 -> Avg:64.2 -> Marks:90 25 94 61 51 
+Student:841 -> Group:17 -> Group Representative:67.6 -> Avg:67.4 -> Marks:59 50 49 98 81
+Student:842 -> Group:44 -> Group Representative:19.4 -> Avg:20.4 -> Marks:9 64 28 0 1
+Student:843 -> Group:38 -> Group Representative:43.6 -> Avg:43.4 -> Marks:88 47 23 0 59 
+Student:844 -> Group:20 -> Group Representative:55.8 -> Avg:55.8 -> Marks:83 88 8 22 78
+Student:845 -> Group:8 -> Group Representative:53.4 -> Avg:52.4 -> Marks:59 67 71 37 28
+Student:846 -> Group:44 -> Group Representative:19.4 -> Avg:18.6 -> Marks:15 10 2 47 19 
+Student:847 -> Group:24 -> Group Representative:39.6 -> Avg:37.6 -> Marks:38 53 9 3 85 
+Student:848 -> Group:4 -> Group Representative:57.2 -> Avg:57.2 -> Marks:75 14 78 100 19 
+Student:849 -> Group:8 -> Group Representative:53.4 -> Avg:52.8 -> Marks:94 37 1 38 94 
+Student:850 -> Group:32 -> Group Representative:48.8 -> Avg:49.4 -> Marks:81 6 17 93 50
+Student:851 -> Group:3 -> Group Representative:35.4 -> Avg:35.8 -> Marks:35 49 55 9 31
+Student:852 -> Group:46 -> Group Representative:60.6 -> Avg:60.8 -> Marks:61 45 57 76 65 
+Student:853 -> Group:5 -> Group Representative:54.4 -> Avg:54 -> Marks:86 73 46 31 34
+Student:854 -> Group:20 -> Group Representative:55.8 -> Avg:55.2 -> Marks:64 88 37 67 20 
+Student:855 -> Group:32 -> Group Representative:48.8 -> Avg:49.4 -> Marks:34 83 12 66 52 
+Student:856 -> Group:36 -> Group Representative:56 -> Avg:56 -> Marks:80 75 34 72 19
+Student:857 -> Group:32 -> Group Representative:48.8 -> Avg:49.4 -> Marks:8 47 31 69 92 
+Student:858 -> Group:48 -> Group Representative:74 -> Avg:76.6 -> Marks:96 84 39 84 80
+Student:859 -> Group:3 -> Group Representative:35.4 -> Avg:36 -> Marks:67 60 29 2 22
+Student:860 -> Group:40 -> Group Representative:57.4 -> Avg:58 -> Marks:75 57 52 45 61 
+Student:861 -> Group:30 -> Group Representative:71.6 -> Avg:71.2 -> Marks:50 96 100 14 96 
+Student:862 -> Group:30 -> Group Representative:71.6 -> Avg:71.8 -> Marks:99 69 65 82 44 
+Student:863 -> Group:31 -> Group Representative:31.8 -> Avg:32 -> Marks:39 0 38 58 25 
+Student:864 -> Group:7 -> Group Representative:50.2 -> Avg:50 -> Marks:61 55 6 47 81
+Student:865 -> Group:7 -> Group Representative:50.2 -> Avg:51.6 -> Marks:68 30 96 62 2
+Student:866 -> Group:1 -> Group Representative:70 -> Avg:70 -> Marks:92 56 19 87 96 
+Student:867 -> Group:1 -> Group Representative:70 -> Avg:70.8 -> Marks:88 29 95 69 73 
+Student:868 -> Group:22 -> Group Representative:31 -> Avg:26.6 -> Marks:10 20 76 3 24 
+Student:869 -> Group:39 -> Group Representative:34 -> Avg:34 -> Marks:45 6 7 76 36 
+Student:870 -> Group:38 -> Group Representative:43.6 -> Avg:43.4 -> Marks:0 25 27 92 73 
+Student:871 -> Group:25 -> Group Representative:56.4 -> Avg:56.8 -> Marks:39 72 25 83 65
+Student:872 -> Group:11 -> Group Representative:64.6 -> Avg:63.8 -> Marks:58 19 84 100 58 
+Student:873 -> Group:20 -> Group Representative:55.8 -> Avg:55.6 -> Marks:98 12 97 22 49
+Student:874 -> Group:45 -> Group Representative:73.6 -> Avg:73.6 -> Marks:93 72 13 99 91 
+Student:875 -> Group:12 -> Group Representative:66 -> Avg:66.2 -> Marks:69 70 45 55 92
+Student:876 -> Group:7 -> Group Representative:50.2 -> Avg:50.8 -> Marks:73 42 58 17 64
+Student:877 -> Group:17 -> Group Representative:67.6 -> Avg:68.2 -> Marks:4 75 94 81 87 
+Student:878 -> Group:21 -> Group Representative:21.8 -> Avg:25.6 -> Marks:23 71 25 9 0
+Student:879 -> Group:40 -> Group Representative:57.4 -> Avg:57.6 -> Marks:71 40 89 11 77 
+Student:880 -> Group:19 -> Group Representative:48.6 -> Avg:47.6 -> Marks:24 4 57 58 95 
+Student:881 -> Group:13 -> Group Representative:40.6 -> Avg:40.8 -> Marks:1 21 86 91 5
+Student:882 -> Group:46 -> Group Representative:60.6 -> Avg:62.2 -> Marks:57 15 66 74 99 
+Student:883 -> Group:19 -> Group Representative:48.6 -> Avg:47.8 -> Marks:79 35 77 36 12
+Student:884 -> Group:5 -> Group Representative:54.4 -> Avg:55 -> Marks:66 73 64 47 25
+Student:885 -> Group:9 -> Group Representative:44.6 -> Avg:44.6 -> Marks:63 23 60 34 43 
+Student:886 -> Group:39 -> Group Representative:34 -> Avg:34 -> Marks:61 23 47 29 10 
+Student:887 -> Group:16 -> Group Representative:44 -> Avg:44 -> Marks:5 69 35 13 98
+Student:888 -> Group:13 -> Group Representative:40.6 -> Avg:40.6 -> Marks:30 54 53 66 0
+Student:889 -> Group:27 -> Group Representative:46 -> Avg:46.2 -> Marks:31 46 37 97 20
+Student:890 -> Group:19 -> Group Representative:48.6 -> Avg:47.8 -> Marks:18 57 45 33 86 
+Student:891 -> Group:29 -> Group Representative:33 -> Avg:33.2 -> Marks:71 54 0 26 15 
+Student:892 -> Group:1 -> Group Representative:70 -> Avg:69.2 -> Marks:95 22 97 39 93
+Student:893 -> Group:7 -> Group Representative:50.2 -> Avg:49.6 -> Marks:38 96 17 67 30 
+Student:894 -> Group:32 -> Group Representative:48.8 -> Avg:48.8 -> Marks:28 66 81 21 48
+Student:895 -> Group:29 -> Group Representative:33 -> Avg:32.8 -> Marks:8 25 26 63 42
+Student:896 -> Group:8 -> Group Representative:53.4 -> Avg:53.6 -> Marks:41 78 86 1 62 
+Student:897 -> Group:46 -> Group Representative:60.6 -> Avg:61 -> Marks:83 82 48 86 6 
+Student:898 -> Group:27 -> Group Representative:46 -> Avg:46 -> Marks:17 99 18 57 39
+Student:899 -> Group:43 -> Group Representative:46.6 -> Avg:46.6 -> Marks:32 89 18 42 52
+Student:900 -> Group:20 -> Group Representative:55.8 -> Avg:55.4 -> Marks:66 58 62 46 45 
+Student:901 -> Group:38 -> Group Representative:43.6 -> Avg:43.2 -> Marks:41 67 55 45 8
+Student:902 -> Group:43 -> Group Representative:46.6 -> Avg:47.2 -> Marks:10 47 87 55 37 
+Student:903 -> Group:11 -> Group Representative:64.6 -> Avg:62.8 -> Marks:90 94 74 29 27 
+Student:904 -> Group:49 -> Group Representative:42.2 -> Avg:42.2 -> Marks:92 7 65 27 20 
+Student:905 -> Group:19 -> Group Representative:48.6 -> Avg:48.6 -> Marks:2 19 90 41 91
+Student:906 -> Group:12 -> Group Representative:66 -> Avg:65.4 -> Marks:75 84 69 42 57 
+Student:907 -> Group:24 -> Group Representative:39.6 -> Avg:38.8 -> Marks:88 3 50 8 45
+Student:908 -> Group:12 -> Group Representative:66 -> Avg:65.4 -> Marks:69 52 34 86 86 
+Student:909 -> Group:12 -> Group Representative:66 -> Avg:66.8 -> Marks:0 89 81 90 74 
+Student:910 -> Group:13 -> Group Representative:40.6 -> Avg:40.2 -> Marks:17 11 96 50 27 
+Student:911 -> Group:22 -> Group Representative:31 -> Avg:28.6 -> Marks:4 0 8 81 50
+Student:912 -> Group:35 -> Group Representative:45.4 -> Avg:45.4 -> Marks:50 35 31 99 12
+Student:913 -> Group:13 -> Group Representative:40.6 -> Avg:40.4 -> Marks:45 50 71 5 31
+Student:914 -> Group:3 -> Group Representative:35.4 -> Avg:35.2 -> Marks:35 18 18 56 49 
+Student:915 -> Group:1 -> Group Representative:70 -> Avg:70 -> Marks:85 72 26 77 90 
+Student:916 -> Group:8 -> Group Representative:53.4 -> Avg:52.2 -> Marks:56 41 61 65 38 
+Student:917 -> Group:4 -> Group Representative:57.2 -> Avg:57 -> Marks:68 57 76 61 23
+Student:918 -> Group:6 -> Group Representative:64.8 -> Avg:65 -> Marks:51 70 96 35 73
+Student:919 -> Group:16 -> Group Representative:44 -> Avg:44 -> Marks:42 62 9 34 73
+Student:920 -> Group:43 -> Group Representative:46.6 -> Avg:46.4 -> Marks:47 27 100 40 18 
+Student:921 -> Group:13 -> Group Representative:40.6 -> Avg:40.4 -> Marks:57 36 5 16 88
+Student:922 -> Group:35 -> Group Representative:45.4 -> Avg:45.4 -> Marks:0 47 58 91 31 
+Student:923 -> Group:19 -> Group Representative:48.6 -> Avg:48.2 -> Marks:59 18 99 50 15
+Student:924 -> Group:43 -> Group Representative:46.6 -> Avg:46.6 -> Marks:50 47 26 84 26
+Student:925 -> Group:38 -> Group Representative:43.6 -> Avg:43.2 -> Marks:20 23 42 82 49
+Student:926 -> Group:40 -> Group Representative:57.4 -> Avg:57.4 -> Marks:71 4 96 72 44 
+Student:927 -> Group:18 -> Group Representative:59 -> Avg:59 -> Marks:34 65 91 48 57 
+Student:928 -> Group:13 -> Group Representative:40.6 -> Avg:41.4 -> Marks:69 31 93 8 6 
+Student:929 -> Group:32 -> Group Representative:48.8 -> Avg:49.2 -> Marks:88 37 14 82 25
+Student:930 -> Group:1 -> Group Representative:70 -> Avg:70.6 -> Marks:53 98 99 89 14
+Student:931 -> Group:12 -> Group Representative:66 -> Avg:66.8 -> Marks:6 95 81 82 70 
+Student:932 -> Group:28 -> Group Representative:59.6 -> Avg:59.4 -> Marks:100 56 50 69 22 
+Student:933 -> Group:44 -> Group Representative:19.4 -> Avg:20 -> Marks:55 5 40 0 0
+Student:934 -> Group:3 -> Group Representative:35.4 -> Avg:34.8 -> Marks:52 29 16 31 46
+Student:935 -> Group:21 -> Group Representative:21.8 -> Avg:26.4 -> Marks:32 28 9 2 61
+Student:936 -> Group:12 -> Group Representative:66 -> Avg:66.8 -> Marks:100 94 46 79 15
+Student:937 -> Group:45 -> Group Representative:73.6 -> Avg:73.6 -> Marks:98 96 59 21 94 
+Student:938 -> Group:46 -> Group Representative:60.6 -> Avg:61 -> Marks:64 69 39 49 84
+Student:939 -> Group:9 -> Group Representative:44.6 -> Avg:44.8 -> Marks:60 7 17 77 63 
+Student:940 -> Group:27 -> Group Representative:46 -> Avg:46 -> Marks:68 83 6 2 71
+Student:941 -> Group:19 -> Group Representative:48.6 -> Avg:48 -> Marks:42 76 45 19 58
+Student:942 -> Group:8 -> Group Representative:53.4 -> Avg:52.2 -> Marks:20 89 34 49 69 
+Student:943 -> Group:30 -> Group Representative:71.6 -> Avg:71.2 -> Marks:4 91 92 85 84 
+Student:944 -> Group:6 -> Group Representative:64.8 -> Avg:65.2 -> Marks:65 100 66 95 0 
+Student:945 -> Group:13 -> Group Representative:40.6 -> Avg:40.6 -> Marks:25 43 96 28 11
+Student:946 -> Group:43 -> Group Representative:46.6 -> Avg:46.4 -> Marks:32 71 38 31 60
+Student:947 -> Group:11 -> Group Representative:64.6 -> Avg:64 -> Marks:51 91 75 70 33
+Student:948 -> Group:5 -> Group Representative:54.4 -> Avg:54.8 -> Marks:67 73 93 25 16 
+Student:949 -> Group:10 -> Group Representative:43.8 -> Avg:43.8 -> Marks:85 55 18 51 10 
+Student:950 -> Group:12 -> Group Representative:66 -> Avg:65.4 -> Marks:100 27 75 38 87
+Student:951 -> Group:43 -> Group Representative:46.6 -> Avg:46.8 -> Marks:31 70 53 24 56
+Student:952 -> Group:40 -> Group Representative:57.4 -> Avg:57.4 -> Marks:40 71 62 41 73 
+Student:953 -> Group:43 -> Group Representative:46.6 -> Avg:47.2 -> Marks:48 55 83 50 0 
+Student:954 -> Group:1 -> Group Representative:70 -> Avg:69 -> Marks:94 52 70 63 66 
+Student:955 -> Group:5 -> Group Representative:54.4 -> Avg:54.2 -> Marks:32 70 97 25 47
+Student:956 -> Group:26 -> Group Representative:44.2 -> Avg:44.4 -> Marks:62 92 39 17 12 
+Student:957 -> Group:46 -> Group Representative:60.6 -> Avg:61.6 -> Marks:100 73 49 5 81
+Student:958 -> Group:7 -> Group Representative:50.2 -> Avg:51 -> Marks:4 43 77 54 77
+Student:959 -> Group:43 -> Group Representative:46.6 -> Avg:47.2 -> Marks:23 46 20 47 100 
+Student:960 -> Group:39 -> Group Representative:34 -> Avg:34 -> Marks:23 25 5 26 91 
+Student:961 -> Group:43 -> Group Representative:46.6 -> Avg:46.6 -> Marks:59 83 8 56 27
+Student:962 -> Group:48 -> Group Representative:74 -> Avg:75.8 -> Marks:95 94 63 68 59
+Student:963 -> Group:49 -> Group Representative:42.2 -> Avg:42.2 -> Marks:28 46 73 4 60
+Student:964 -> Group:32 -> Group Representative:48.8 -> Avg:49.4 -> Marks:69 39 64 6 69 
+Student:965 -> Group:3 -> Group Representative:35.4 -> Avg:36 -> Marks:0 95 25 48 12 
+Student:966 -> Group:24 -> Group Representative:39.6 -> Avg:38 -> Marks:4 82 0 81 23 
+Student:967 -> Group:39 -> Group Representative:34 -> Avg:34.2 -> Marks:27 88 32 24 0 
+Student:968 -> Group:25 -> Group Representative:56.4 -> Avg:56.6 -> Marks:58 36 37 83 69 
+Student:969 -> Group:40 -> Group Representative:57.4 -> Avg:57.6 -> Marks:26 96 59 9 98 
+Student:970 -> Group:8 -> Group Representative:53.4 -> Avg:52.4 -> Marks:68 75 34 68 17
+Student:971 -> Group:49 -> Group Representative:42.2 -> Avg:41.8 -> Marks:33 56 63 33 24
+Student:972 -> Group:39 -> Group Representative:34 -> Avg:34.2 -> Marks:15 61 20 13 62
+Student:973 -> Group:17 -> Group Representative:67.6 -> Avg:67 -> Marks:66 100 7 96 66 
+Student:974 -> Group:1 -> Group Representative:70 -> Avg:70 -> Marks:87 90 98 13 62 
+Student:975 -> Group:9 -> Group Representative:44.6 -> Avg:44.6 -> Marks:86 50 18 14 55 
+Student:976 -> Group:46 -> Group Representative:60.6 -> Avg:61.8 -> Marks:30 83 97 20 79 
+Student:977 -> Group:20 -> Group Representative:55.8 -> Avg:55.8 -> Marks:4 96 44 95 40
+Student:978 -> Group:1 -> Group Representative:70 -> Avg:70.8 -> Marks:48 54 98 81 73 
+Student:979 -> Group:5 -> Group Representative:54.4 -> Avg:54.8 -> Marks:60 82 20 90 22 
+Student:980 -> Group:7 -> Group Representative:50.2 -> Avg:51.6 -> Marks:48 21 21 94 74 
+Student:981 -> Group:19 -> Group Representative:48.6 -> Avg:48.4 -> Marks:68 68 1 37 68 
+Student:982 -> Group:49 -> Group Representative:42.2 -> Avg:41.6 -> Marks:33 12 4 59 100
+Student:983 -> Group:8 -> Group Representative:53.4 -> Avg:53 -> Marks:36 39 95 85 10
+Student:984 -> Group:43 -> Group Representative:46.6 -> Avg:46.4 -> Marks:87 37 41 20 47 
+Student:985 -> Group:1 -> Group Representative:70 -> Avg:69.2 -> Marks:68 93 77 46 62
+Student:986 -> Group:25 -> Group Representative:56.4 -> Avg:56.8 -> Marks:30 52 69 58 75 
+Student:987 -> Group:48 -> Group Representative:74 -> Avg:79.2 -> Marks:68 83 99 61 85
+Student:988 -> Group:38 -> Group Representative:43.6 -> Avg:43.2 -> Marks:17 33 42 93 31 
+Student:989 -> Group:7 -> Group Representative:50.2 -> Avg:51 -> Marks:29 61 31 52 82 
+Student:990 -> Group:27 -> Group Representative:46 -> Avg:46 -> Marks:22 81 94 15 18
+Student:991 -> Group:40 -> Group Representative:57.4 -> Avg:58 -> Marks:85 32 90 26 57
+Student:992 -> Group:5 -> Group Representative:54.4 -> Avg:54.2 -> Marks:45 52 71 80 23
+Student:993 -> Group:17 -> Group Representative:67.6 -> Avg:68 -> Marks:31 94 68 86 61 
+Student:994 -> Group:13 -> Group Representative:40.6 -> Avg:40.2 -> Marks:91 19 24 42 25
+Student:995 -> Group:46 -> Group Representative:60.6 -> Avg:61 -> Marks:74 69 100 32 30
+Student:996 -> Group:10 -> Group Representative:43.8 -> Avg:43.8 -> Marks:26 61 32 98 2
+Student:997 -> Group:25 -> Group Representative:56.4 -> Avg:56.8 -> Marks:71 20 24 77 92 
+Student:998 -> Group:7 -> Group Representative:50.2 -> Avg:49.6 -> Marks:13 84 81 28 42 
+Student:999 -> Group:3 -> Group Representative:35.4 -> Avg:36.2 -> Marks:58 6 34 62 21 
+Student:1000 -> Group:46 -> Group Representative:60.6 -> Avg:60.6 -> Marks:35 74 88 29 77

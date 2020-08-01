@@ -191,7 +191,7 @@ int main()
                     }
                 }
                 cout << "Student:" << i + 1 << " -> Group:" << col + 1 << " -> Group Representative:" << popul[prevRow][col] << " -> Avg:" << arr[i][m] << " -> Marks:";
-                for (int a = 0; a < cols - 1; a++)
+                for (int a = 0; a < cols; a++)
                     cout << arr[i][a] << " ";
                 cout << "\n";
             }
